@@ -1,7 +1,7 @@
 <?php
 
 // Variables
-$scale=1;
+$scale=10;
 
 
 // Don't touch!
