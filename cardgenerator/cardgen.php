@@ -22,7 +22,18 @@ $border->rectangle($i, $i, $resolution_x - 1 - $i, $resolution_y - 1 - $i);
 $image->drawImage( $border );
 }
 
+// Draw border - Title
+$border = new ImagickDraw();
+$border->setFillColor( 'none' );
 
+for($i=0; $i<=($scale-1); $i++) {
+$color = 255 - ($i*20);
+$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+$border->setStrokeWidth('1');
+$border->setStrokeAntialias( false );
+$border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, 300+$i);
+$image->drawImage( $border );
+}
 
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
