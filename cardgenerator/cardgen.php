@@ -22,6 +22,12 @@ $border->rectangle($i, $i, $resolution_x - 1 - $i, $resolution_y - 1 - $i);
 $image->drawImage( $border );
 }
 
+// Calculate max height of the text
+$font = new ImagickDraw();
+$font->setFont("data/font.ttf");
+$font->setFontSize($font_size);
+$font_height = $image->queryFontMetrics($font,  "QWERTYUIOPASDFGHJKLZXCVBNM1234567890qwertyuiopasdfghjklzxcvbnm[];'\,./")["textHeight"];
+
 // Draw border - Title
 $border = new ImagickDraw();
 $border->setFillColor( 'none' );
