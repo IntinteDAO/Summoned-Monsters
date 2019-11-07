@@ -41,6 +41,15 @@ $border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, ($scale*4)+$i+$font_
 $image->drawImage( $border );
 }
 
+// Draw text - Title
+$title = new ImagickDraw();
+$title->setFillColor("white");
+$title->setFont("data/font.ttf");
+$title->setFontSize($font_size);
+$title->annotation($X1_rail+$i, $scale+$font_height, $text);
+$image->drawImage($title);
+
+
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
 }
