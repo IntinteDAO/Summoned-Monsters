@@ -37,7 +37,7 @@ $color = 255 - ($i*20);
 $border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
 $border->setStrokeWidth('1');
 $border->setStrokeAntialias( false );
-$border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, 300+$i);
+$border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, ($scale*4)+$i+$font_height);
 $image->drawImage( $border );
 }
 
