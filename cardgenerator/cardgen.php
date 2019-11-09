@@ -66,6 +66,15 @@ $attr->setFontSize($font_size);
 $attr->annotation($X1_rail+$i, ($scale*4)+$i+$font_height+$font_height, attributes($attribute, $type));
 $image->drawImage($attr);
 
+// Draw sprite - Star
+if($type!=0) {
+$star = new Imagick("data/star.png");
+$star->scaleImage($font_size, $font_size, true);
+$image->setImageVirtualPixelMethod(Imagick::VIRTUALPIXELMETHOD_TRANSPARENT);
+$image->setImageArtifact('compose:args', "1,0,-0.5,0.5");
+$image->compositeImage($star, Imagick::COMPOSITE_MATHEMATICS, $X2_rail - $font_size, ($scale*4)+$i+$font_size+$scale);
+}
+
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
 }
