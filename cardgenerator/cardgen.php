@@ -75,10 +75,22 @@ $image->setImageArtifact('compose:args', "1,0,-0.5,0.5");
 $image->compositeImage($star, Imagick::COMPOSITE_MATHEMATICS, $X2_rail - $font_size, ($scale*4)+$i+$font_size+$scale);
 }
 
+// Draw text - Level
+if($type!=0) {
+$star = new ImagickDraw();
+$star->setFillColor("white");
+$star->setFont("data/font.ttf");
+$star->setFontSize($font_size);
+$star_width = $image->queryFontMetrics($font,  $level.'x')["textWidth"];
+$star->annotation($X2_rail - $font_size - $star_width, ($scale*4)+$i+$font_size+$font_height, $level.'x');
+$image->drawImage($star);
+}
+
+
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
 }
 
-echo generate_card("a", "b", "c", "d", 17, "f", "g", "h", "i", 16, "k");
+echo generate_card("a", "b", "c", "d", 17, 6, "g", "h", "i", 16, "k");
 
 ?>
