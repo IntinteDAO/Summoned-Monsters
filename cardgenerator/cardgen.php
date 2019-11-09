@@ -4,6 +4,7 @@ function generate_card($text, $description, $id, $alias, $type, $level, $atk, $d
 
 // Initialize variables
 include("config.php");
+include("data/attributes.php");
 $image = new Imagick();
 
 // Background
@@ -57,11 +58,18 @@ $title->setFontSize($font_size);
 $title->annotation($X1_rail+$i, $scale+$font_height, $text);
 $image->drawImage($title);
 
+// Draw text - Attribute
+$attr = new ImagickDraw();
+$attr->setFillColor("white");
+$attr->setFont("data/font.ttf");
+$attr->setFontSize($font_size);
+$attr->annotation($X1_rail+$i, ($scale*4)+$i+$font_height+$font_height, attributes($attribute, $type));
+$image->drawImage($attr);
 
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
 }
 
-echo generate_card("a", "b", "c", "d", 17, "f", "g", "h", "i", "j", "k");
+echo generate_card("a", "b", "c", "d", 17, "f", "g", "h", "i", 16, "k");
 
 ?>
