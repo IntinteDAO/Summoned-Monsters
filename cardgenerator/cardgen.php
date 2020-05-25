@@ -67,7 +67,7 @@ $attr->annotation($X1_rail+$i, ($scale*4)+$i+$font_height+$font_height, attribut
 $image->drawImage($attr);
 
 // Draw sprite - Star
-if($type!=0) {
+if($type!=0 && $attribute > 0) {
 $star = new Imagick("data/star.png");
 $star->scaleImage($font_size, $font_size, true);
 $image->setImageVirtualPixelMethod(Imagick::VIRTUALPIXELMETHOD_TRANSPARENT);
@@ -76,7 +76,7 @@ $image->compositeImage($star, Imagick::COMPOSITE_MATHEMATICS, $X2_rail - $font_s
 }
 
 // Draw text - Level
-if($type!=0) {
+if($type!=0 && $attribute > 0) {
 $star = new ImagickDraw();
 $star->setFillColor("white");
 $star->setFont("data/font.ttf");
@@ -86,6 +86,15 @@ $star->annotation($X2_rail - $font_size - $star_width, ($scale*4)+$i+$font_size+
 $image->drawImage($star);
 }
 
+if($attribute==0) {
+$spell_attr = new ImagickDraw();
+$spell_attr->setFillColor("white");
+$spell_attr->setFont("data/font.ttf");
+$spell_attr->setFontSize($font_size);
+$spell_attr_width = $image->queryFontMetrics($font, spell_type($type))["textWidth"];
+$spell_attr->annotation($X2_rail - $spell_attr_width, ($scale*4)+$i+$font_size+$font_height, spell_type($type));
+$image->drawImage($spell_attr);
+}
 
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
