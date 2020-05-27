@@ -96,6 +96,27 @@ $spell_attr->annotation($X2_rail - $spell_attr_width, ($scale*4)+$i+$font_size+$
 $image->drawImage($spell_attr);
 }
 
+// Sprite border
+$border = new ImagickDraw();
+$border->setFillColor( 'none' );
+
+for($i=0; $i<=$scale; $i++) {
+$color = 255 - $i*20;
+
+$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+$border->setStrokeWidth('1');
+$border->setStrokeAntialias( false );
+$vertical = $X2_rail - $X1_rail - ($scale*2);
+$border->rectangle($X1_rail + $i, ($scale*8)+$i+$font_size+$font_height, $X2_rail - $i, ($scale*8)+$i+$font_size+$font_height + $vertical);
+$image->drawImage( $border );
+}
+
+// Draw sprite
+$star = new Imagick("ItsATrap.png");
+$star->scaleImage($vertical, $vertical, true);
+$image->compositeImage($star, Imagick::COMPOSITE_DEFAULT, $X1_rail + $i, ($scale*8)+$i+$font_size+$font_height);
+
+
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
 }
