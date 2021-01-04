@@ -1,6 +1,6 @@
 <?php
 
-function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $limit) {
+function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $limit, $cardimg) {
 
 // Initialize variables
 include("config.php");
@@ -23,12 +23,12 @@ $border = new ImagickDraw();
 $border->setFillColor( 'none' );
 
 for($i=0; $i<=$scale; $i++) {
-$color = $i*20;
-$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
-$border->setStrokeWidth('1');
-$border->setStrokeAntialias( false );
-$border->rectangle($i, $i, $resolution_x - 1 - $i, $resolution_y - 1 - $i);
-$image->drawImage( $border );
+	$color = $i*20;
+	$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+	$border->setStrokeWidth('1');
+	$border->setStrokeAntialias( false );
+	$border->rectangle($i, $i, $resolution_x - 1 - $i, $resolution_y - 1 - $i);
+	$image->drawImage( $border );
 }
 
 // Calculate max height of the text
@@ -42,12 +42,12 @@ $border = new ImagickDraw();
 $border->setFillColor( 'none' );
 
 for($i=0; $i<=($scale-1); $i++) {
-$color = 255 - ($i*20);
-$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
-$border->setStrokeWidth('1');
-$border->setStrokeAntialias( false );
-$border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, ($scale*4)+$i+$font_height);
-$image->drawImage( $border );
+	$color = 255 - ($i*20);
+	$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+	$border->setStrokeWidth('1');
+	$border->setStrokeAntialias( false );
+	$border->rectangle($X1_rail+$i, ($scale*2)+$i, $X2_rail-$i, ($scale*4)+$font_height-$i);
+	$image->drawImage( $border );
 }
 
 // Draw text - Title
@@ -68,32 +68,32 @@ $image->drawImage($attr);
 
 // Draw sprite - Star
 if($type!=0 && $attribute > 0) {
-$star = new Imagick("data/star.png");
-$star->scaleImage($font_size, $font_size, true);
-$image->setImageVirtualPixelMethod(Imagick::VIRTUALPIXELMETHOD_TRANSPARENT);
-$image->setImageArtifact('compose:args', "1,0,-0.5,0.5");
-$image->compositeImage($star, Imagick::COMPOSITE_MATHEMATICS, $X2_rail - $font_size, ($scale*4)+$i+$font_size+$scale);
+	$star = new Imagick("data/star.png");
+	$star->scaleImage($font_size, $font_size, true);
+	$image->setImageVirtualPixelMethod(Imagick::VIRTUALPIXELMETHOD_TRANSPARENT);
+	$image->setImageArtifact('compose:args', "1,0,-0.5,0.5");
+	$image->compositeImage($star, Imagick::COMPOSITE_MATHEMATICS, $X2_rail - $font_size, ($scale*4)+$i+$font_size+$scale);
 }
 
 // Draw text - Level
 if($type!=0 && $attribute > 0) {
-$star = new ImagickDraw();
-$star->setFillColor("white");
-$star->setFont("data/font.ttf");
-$star->setFontSize($font_size);
-$star_width = $image->queryFontMetrics($font,  $level.'x')["textWidth"];
-$star->annotation($X2_rail - $font_size - $star_width, ($scale*4)+$i+$font_size+$font_height, $level.'x');
-$image->drawImage($star);
+	$star = new ImagickDraw();
+	$star->setFillColor("white");
+	$star->setFont("data/font.ttf");
+	$star->setFontSize($font_size);
+	$star_width = $image->queryFontMetrics($font,  $level.'x')["textWidth"];
+	$star->annotation($X2_rail - $font_size - $star_width, ($scale*4)+$i+$font_size+$font_height, $level.'x');
+	$image->drawImage($star);
 }
 
 if($attribute==0) {
-$spell_attr = new ImagickDraw();
-$spell_attr->setFillColor("white");
-$spell_attr->setFont("data/font.ttf");
-$spell_attr->setFontSize($font_size);
-$spell_attr_width = $image->queryFontMetrics($font, spell_type($type))["textWidth"];
-$spell_attr->annotation($X2_rail - $spell_attr_width, ($scale*4)+$i+$font_size+$font_height, spell_type($type));
-$image->drawImage($spell_attr);
+	$spell_attr = new ImagickDraw();
+	$spell_attr->setFillColor("white");
+	$spell_attr->setFont("data/font.ttf");
+	$spell_attr->setFontSize($font_size);
+	$spell_attr_width = $image->queryFontMetrics($font, spell_type($type))["textWidth"];
+	$spell_attr->annotation($X2_rail - $spell_attr_width, ($scale*4)+$i+$font_size+$font_height, spell_type($type));
+	$image->drawImage($spell_attr);
 }
 
 // Sprite border
@@ -101,26 +101,105 @@ $border = new ImagickDraw();
 $border->setFillColor( 'none' );
 
 for($i=0; $i<=$scale; $i++) {
-$color = 255 - $i*20;
+	$color = 255 - $i*20;
 
-$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
-$border->setStrokeWidth('1');
-$border->setStrokeAntialias( false );
-$vertical = $X2_rail - $X1_rail - ($scale*2);
-$border->rectangle($X1_rail + $i, ($scale*8)+$i+$font_size+$font_height, $X2_rail - $i, ($scale*8)+$i+$font_size+$font_height + $vertical);
-$image->drawImage( $border );
+	$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+	$border->setStrokeWidth('1');
+	$border->setStrokeAntialias( false );
+	$vertical = $X2_rail - $X1_rail - ($scale*2);
+	$border->rectangle($X1_rail + $i, ($scale*8)+$i+$font_size+$font_height, $X2_rail - $i, ($scale*8)+$i+$font_size+$font_height + $vertical);
+	$image->drawImage( $border );
 }
 
 // Draw sprite
-$star = new Imagick("ItsATrap.png");
+$star = new Imagick($cardimg);
 $star->scaleImage($vertical, $vertical, true);
 $image->compositeImage($star, Imagick::COMPOSITE_DEFAULT, $X1_rail + $i, ($scale*8)+$i+$font_size+$font_height);
+
+// Description border
+$border = new ImagickDraw();
+$border->setFillColor( 'none' );
+
+for($i=0; $i<=($scale-1); $i++) {
+	$color = 255 - ($i*20);
+	$border->setStrokeColor( new ImagickPixel('rgb('.$color.', '.$color.', '.$color.')') );
+	$border->setStrokeWidth('1');
+	$border->setStrokeAntialias( false );
+	$border->rectangle($X1_rail+$i, $scale + ($scale*8)+$i+$font_size+$font_height + $vertical, $X2_rail-$i, $resolution_y - 1 - $i - ($scale * 2));
+	$image->drawImage( $border );
+}
+
+// Description text - monsters
+// Calculate width
+$font = new ImagickDraw();
+$font->setFont("data/font.ttf");
+$font->setFontSize($font_size);
+
+// Draw stats
+if($type!=0 && $attribute > 0) {
+	$text = "ATK:\n$atk\nDEF:\n$def";
+	$font_width = $image->queryFontMetrics($font, $text)["textWidth"];
+	$dtext = new ImagickDraw();
+	$dtext->setFillColor("white");
+	$dtext->setFont("data/font.ttf");
+	$dtext->setFontSize($font_size);
+	$dtext->annotation($X2_rail-$font_width, $scale + ($scale*8)+$i+$font_size+$font_height + $vertical + $font_height, $text);
+	$image->drawImage($dtext);
+
+	for($i=0; $i<=$scale; $i++) {
+		$line = new ImagickDraw();
+		$line->setStrokeColor( new ImagickPixel('rgb(255, 255, 255)') );
+		$line->line($X2_rail - $font_width - ($scale*2) - $i, ($scale*9)+$i+$font_size+$font_height + $vertical, $X2_rail - $font_width - ($scale*2) - $i, $resolution_y - 1 - $i - ($scale * 2));
+		$image->drawImage($line);
+	}
+}
+
+// Draw text - Description
+$desc = new ImagickDraw();
+$desc->setFont("data/font.ttf");
+$desc->setFontSize($font_size_description);
+
+$get_words = explode(" ", $description);
+$text_description = '';
+$lines = '';
+$count_lines = 0;
+
+for($i=0; $i<=count($get_words)-1; $i++) {
+
+$line = trim($text_description . ' '. $get_words[$i]);
+
+if($type!=0 && $attribute > 0) {
+	$limiter = 26;
+} else {
+	$limiter = 32;
+}
+
+if(strlen($line) < $limiter) {
+	$text_description = trim($text_description." ".$get_words[$i]);
+} else {
+	$lines = trim($text_description."\n");
+	$text_description = $get_words[$i];
+	$count_lines++;
+}
+
+}
+
+$lines = trim($lines."\n".$text_description);
+$count_lines++;
+
+$text_description = new ImagickDraw();
+$text_description->setFillColor("white");
+$text_description->setFont("data/font.ttf");
+$text_description->setFontSize($font_size_description);
+
+$desc_height = $image->queryFontMetrics($desc, $description)["textHeight"] * $count_lines;
+$text_description->annotation($X1_rail + $scale, $vertical + $scale*10 + $desc_height + $font_size, $lines);
+$image->drawImage($text_description);
 
 
 $image->setImageFormat('png');
 file_put_contents ("output.png", $image);
-}
 
-echo generate_card("a", "b", "c", "d", 17, 6, "g", "h", "i", 16, "k");
+}
 
 ?>
