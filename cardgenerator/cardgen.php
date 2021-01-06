@@ -1,6 +1,6 @@
 <?php
 
-function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $limit, $cardimg) {
+function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $cardimg) {
 
 // Initialize variables
 include("config.php");
@@ -167,33 +167,34 @@ $count_lines = 0;
 for($i=0; $i<=count($get_words)-1; $i++) {
 
 $line = trim($text_description . ' '. $get_words[$i]);
-
+	
 if($type!=0 && $attribute > 0) {
-	$limiter = 26;
+	$limiter = 32; //7
 } else {
-	$limiter = 32;
+	$limiter = 40;
 }
 
 if(strlen($line) < $limiter) {
 	$text_description = trim($text_description." ".$get_words[$i]);
 } else {
-	$lines = trim($text_description."\n");
+	$lines = $lines.$text_description.'\n';
 	$text_description = $get_words[$i];
 	$count_lines++;
 }
 
 }
 
-$lines = trim($lines."\n".$text_description);
+$lines = trim($lines.$text_description);
 $count_lines++;
+$lines = "\n".str_replace('\n', "\n", $lines);
 
 $text_description = new ImagickDraw();
 $text_description->setFillColor("white");
 $text_description->setFont("data/font.ttf");
 $text_description->setFontSize($font_size_description);
 
-$desc_height = $image->queryFontMetrics($desc, $description)["textHeight"] * $count_lines;
-$text_description->annotation($X1_rail + $scale, $vertical + $scale*10 + $desc_height + $font_size, $lines);
+$desc_height = $image->queryFontMetrics($desc, $lines)["textHeight"];
+$text_description->annotation($X1_rail + $scale, $vertical + ($scale*9)+$font_size+$font_height, $lines);
 $image->drawImage($text_description);
 
 

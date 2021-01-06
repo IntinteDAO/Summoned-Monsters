@@ -3,7 +3,7 @@
 // Variables
 $scale=3;
 $font_size = 11;
-$font_size_description = 9;
+$font_size_description = 7;
 
 // Don't touch!
 $resolution_x = 177*$scale;
