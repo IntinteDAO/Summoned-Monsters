@@ -31,6 +31,7 @@ for($i=0; $i<=$scale; $i++) {
 	$image->drawImage( $border );
 }
 
+
 // Calculate max height of the text
 $font = new ImagickDraw();
 $font->setFont("data/font.ttf");
@@ -55,7 +56,7 @@ $title = new ImagickDraw();
 $title->setFillColor("white");
 $title->setFont("data/font.ttf");
 $title->setFontSize($font_size);
-$title->annotation($X1_rail+$i, $scale+$font_height, $text);
+$title->annotation($X1_rail+$scale, $scale+$font_height, $text);
 $image->drawImage($title);
 
 // Draw text - Attribute
@@ -63,7 +64,7 @@ $attr = new ImagickDraw();
 $attr->setFillColor("white");
 $attr->setFont("data/font.ttf");
 $attr->setFontSize($font_size);
-$attr->annotation($X1_rail+$i, ($scale*4)+$i+$font_height+$font_height, attributes($attribute, $type));
+$attr->annotation($X1_rail, ($scale*4)+$i+$font_height+$font_height, attributes($attribute, $type));
 $image->drawImage($attr);
 
 // Draw sprite - Star
@@ -197,9 +198,11 @@ $desc_height = $image->queryFontMetrics($desc, $lines)["textHeight"];
 $text_description->annotation($X1_rail + $scale, $vertical + ($scale*9)+$font_size+$font_height, $lines);
 $image->drawImage($text_description);
 
+$image->setImageFormat('jpg');
+file_put_contents("output.jpg", $image);
 
-$image->setImageFormat('png');
-file_put_contents ("output.png", $image);
+$image->resizeImage(177,254,Imagick::FILTER_LANCZOS,1);
+file_put_contents("thumb.jpg", $image);
 
 }
 
