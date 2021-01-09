@@ -1,0 +1,36 @@
+#!/bin/sh
+
+font="ttf-bitstream-vera-1.10"
+fonturl="http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/${font}.tar.bz2"
+
+mkdir binaries
+mkdir binaries/deck
+mkdir binaries/replay
+git clone https://github.com/Fluorohydride/ygopro.git
+cd ygopro 
+git clone https://github.com/Fluorohydride/ygopro-core.git ocgcore
+git clone https://github.com/Fluorohydride/ygopro-scripts.git script
+rm script/c[0-9]*
+mkdir build && cd build
+cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
+cmake --build .
+
+cd ..
+cp build/bin/ygopro ../binaries/
+cp system.conf ../binaries/
+cp strings.conf ../binaries/
+cp -r textures ../binaries/
+cp -r script ../binaries/
+find ../binaries/textures/*.png -maxdepth 1 -type f -exec pngcrush -ow -rem allb -reduce {} \;
+
+cd ../binaries/
+wget "$fonturl"
+tar -xf "$font.tar.bz2"
+chmod -R u+w "$font"
+mkdir fonts
+cp $font/Vera.ttf fonts/vera.ttf
+cp $font/VeraBd.ttf fonts/verabd.ttf
+rm -r $font*
+sed -e "s/c:\/windows\/fonts\/simsun.ttc/fonts\/vera.ttf/g" system.conf > system.bak
+sed -e "s/c:\/windows\/fonts\/arialbd.ttf/fonts\/verabd.ttf/g" system.bak > system.conf
+rm system.bak
