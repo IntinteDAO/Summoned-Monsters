@@ -1,10 +1,12 @@
 <?php
 
+// Initialize variables
+include_once("config.php");
+include_once("data/attributes.php");
+
 function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $cardimg) {
 
-// Initialize variables
-include("config.php");
-include("data/attributes.php");
+global $resolution_x, $resolution_y, $scale, $font_size, $X1_rail, $X2_rail, $font_size_description;
 $image = new Imagick();
 
 // Background

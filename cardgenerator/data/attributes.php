@@ -1,5 +1,7 @@
 <?php
 
+$load_attribute=1;
+
 function attributes($attribute, $type) {
 
 if($attribute==1) { return "Earth"; }

@@ -1,6 +1,8 @@
 <?php
 
 require('cardgen.php');
+include_once("config.php");
+include_once("data/attributes.php");
 
 $files = scandir('cards/stats');
 unset($files[0]);
