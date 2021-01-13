@@ -89,7 +89,7 @@ for($i=0; $i<=count($files)-1; $i++) {
 	rename('output.jpg', 'output/pics/'.$id.'.jpg');
 	rename('thumb.jpg', 'output/pics/thumbnail/'.$id.'.jpg');
 
-	if(file_exists('cards/scripts/'.$filename.'.lua')) { copy('cards/scripts/'.$filename.'.lua', 'output/scripts/'.$id.'.lua'); }
+	if(file_exists('cards/scripts/'.$filename.'.lua')) { copy('cards/scripts/'.$filename.'.lua', 'output/scripts/c'.$id.'.lua'); }
 
 	if($limit < 3) {
 		fwrite($limit_file, $id.' '.$limit.' -- '.$name.PHP_EOL);
