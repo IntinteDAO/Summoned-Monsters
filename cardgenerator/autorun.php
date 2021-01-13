@@ -82,6 +82,7 @@ for($i=0; $i<=count($files)-1; $i++) {
 	$race = $data['race'];
 	$attribute = $data['attribute'];
 	$limit = $data['limit'];
+	echo 'Compiling '.$name.PHP_EOL;
 	generate_card($name, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, 'cards/sprites/'.$filename.'.png');
 	$db->query("INSERT INTO datas VALUES($id, 3, $alias, 0, $type, $atk, $def, $level, $race, $attribute, 0)");
 	$db->query("INSERT INTO texts VALUES($id, '$name', '$description','','','','','','','','','','','','','','','','')");

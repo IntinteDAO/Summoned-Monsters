@@ -146,7 +146,7 @@ if($type!=0 && $attribute > 0) {
 	$dtext->setFillColor("white");
 	$dtext->setFont("data/font.ttf");
 	$dtext->setFontSize($font_size);
-	$dtext->annotation($X2_rail-$font_width, $scale + ($scale*8)+$i+$font_size+$font_height + $vertical + $font_height, $text);
+	$dtext->annotation($X2_rail-$font_width-$scale, $scale + ($scale*8)+$i+$font_size+$font_height + $vertical + $font_height, $text);
 	$image->drawImage($dtext);
 
 	for($i=0; $i<=$scale; $i++) {
@@ -172,9 +172,9 @@ for($i=0; $i<=count($get_words)-1; $i++) {
 $line = trim($text_description . ' '. $get_words[$i]);
 	
 if($type!=0 && $attribute > 0) {
-	$limiter = 32; //7
-} else {
 	$limiter = 40;
+} else {
+	$limiter = 48;
 }
 
 if(strlen($line) < $limiter) {
@@ -190,6 +190,12 @@ if(strlen($line) < $limiter) {
 $lines = trim($lines.$text_description);
 $count_lines++;
 $lines = "\n".str_replace('\n', "\n", $lines);
+
+if($type!=0 && $attribute > 0) {
+	$monster_race = monster_race($race);
+	$monster_type = monster_type($type);
+	$lines = str_replace('  ', ' ', "\n[ $monster_race $monster_type ]").$lines;
+}
 
 $text_description = new ImagickDraw();
 $text_description->setFillColor("white");
