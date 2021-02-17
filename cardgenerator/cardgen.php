@@ -177,7 +177,7 @@ if($type!=0 && $attribute > 0) {
 	$limiter = 48;
 }
 
-if(strlen($line) < $limiter) {
+if(strlen($line) < $limiter && $get_words[$i]!="\n") {
 	$text_description = trim($text_description." ".$get_words[$i]);
 } else {
 	$lines = $lines.$text_description.'\n';
