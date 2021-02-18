@@ -82,7 +82,7 @@ for($i=0; $i<=count($files)-1; $i++) {
 	$race = $data['race'];
 	$attribute = $data['attribute'];
 	$limit = $data['limit'];
-	echo 'Compiling '.$name.PHP_EOL;
+	echo 'Compiling '.str_replace("''", "'", $name).PHP_EOL;
 	if(file_exists('cards/sprites/'.$filename.'.png')) { $file = 'cards/sprites/'.$filename.'.png'; } else { $file = 'cards/sprites/'.$filename.'.webp'; }
 	generate_card(str_replace("''", "'", $name), str_replace("''", "'", $description), $id, $alias, $type, $level, $atk, $def, $race, $attribute, $file);
 	$db->query("INSERT INTO datas VALUES($id, 3, $alias, 0, $type, $atk, $def, $level, $race, $attribute, 0)");
