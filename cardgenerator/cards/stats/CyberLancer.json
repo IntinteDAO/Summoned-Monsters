@@ -1,0 +1,1 @@
+{"name":"Cyber Lancer","description":"If you attack a monster in a defense position and your ATK points are higher than the monster''s DEF - deal the difference in points as direct damage to your opponent. After the attack, the monster moves to the defence position.","id":1058,"alias":0,"type":33,"atk":2400,"def":1600,"level":8,"race":32,"attribute":16,"limit":3}
