@@ -1,7 +1,7 @@
 function c1036.initial_effect(c)
 	--damage
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.Stringid(91869203,0))
+	e1:SetDescription(aux.Stringid(1036,0))
 	e1:SetCategory(CATEGORY_DAMAGE)
 	e1:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
 	e1:SetType(EFFECT_TYPE_IGNITION)

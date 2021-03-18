@@ -1,7 +1,7 @@
 function c1026.initial_effect(c)
 	--recover
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.Stringid(85802526,0))
+	e1:SetDescription(aux.Stringid(1026,0))
 	e1:SetCategory(CATEGORY_RECOVER)
 	e1:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_TRIGGER_F)
 	e1:SetProperty(EFFECT_FLAG_PLAYER_TARGET)

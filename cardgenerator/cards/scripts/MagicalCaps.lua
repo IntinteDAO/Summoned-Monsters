@@ -71,7 +71,7 @@ function c1052.activate(e,tp,eg,ep,ev,re,r,rp)
 		e5:SetCode(EFFECT_SET_BASE_DEFENSE)
 		e5:SetValue(0)
 		tg:RegisterEffect(e5,true)
-		tg:RegisterFlagEffect(81210420,RESET_EVENT+0x47c0000+RESET_PHASE+PHASE_BATTLE,0,1,fid)
+		tg:RegisterFlagEffect(1052,RESET_EVENT+0x47c0000+RESET_PHASE+PHASE_BATTLE,0,1,fid)
 		tg:SetStatus(STATUS_NO_LEVEL,true)
 		tg=sg:GetNext()
 	end
@@ -93,7 +93,7 @@ function c1052.activate(e,tp,eg,ep,ev,re,r,rp)
 	Duel.RegisterEffect(de,tp)
 end
 function c1052.desfilter(c,fid)
-	return c:GetFlagEffectLabel(81210420)==fid
+	return c:GetFlagEffectLabel(1052)==fid
 end
 function c1052.desop(e,tp,eg,ep,ev,re,r,rp)
 	local g=e:GetLabelObject()

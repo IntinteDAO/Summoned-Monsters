@@ -1,7 +1,7 @@
 function c1060.initial_effect(c)
 	--multiatk
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.Stringid(29618570,0))
+	e1:SetDescription(aux.Stringid(1060,0))
 	e1:SetType(EFFECT_TYPE_IGNITION)
 	e1:SetRange(LOCATION_MZONE)
 	e1:SetCondition(c1060.atkcon)

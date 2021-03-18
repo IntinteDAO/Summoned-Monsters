@@ -1,7 +1,7 @@
 function c1002.initial_effect(c)
 	--flip
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.Stringid(54652250,0))
+	e1:SetDescription(aux.Stringid(1002,0))
 	e1:SetCategory(CATEGORY_DESTROY)
 	e1:SetProperty(EFFECT_FLAG_CARD_TARGET)
 	e1:SetType(EFFECT_TYPE_SINGLE+EFFECT_TYPE_FLIP)

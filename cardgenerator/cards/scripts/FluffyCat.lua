@@ -1,7 +1,7 @@
 function c1023.initial_effect(c)
 	--no damage
 	local e1=Effect.CreateEffect(c)
-	e1:SetDescription(aux.Stringid(40640057,0))
+	e1:SetDescription(aux.Stringid(1023,0))
 	e1:SetType(EFFECT_TYPE_QUICK_O)
 	e1:SetRange(LOCATION_HAND)
 	e1:SetCode(EVENT_PRE_DAMAGE_CALCULATE)

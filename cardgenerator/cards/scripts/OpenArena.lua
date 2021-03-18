@@ -25,14 +25,14 @@ function c1063.initial_effect(c)
 	c:RegisterEffect(e3)
 end
 function c1063.atkcon(e)
-	return e:GetHandler():GetFlagEffect(30606547)~=0
+	return e:GetHandler():GetFlagEffect(1063)~=0
 end
 function c1063.atktg(e,c)
 	return c:GetFieldID()~=e:GetLabel()
 end
 function c1063.checkop(e,tp,eg,ep,ev,re,r,rp)
-	if e:GetHandler():GetFlagEffect(30606547)~=0 then return end
+	if e:GetHandler():GetFlagEffect(1063)~=0 then return end
 	local fid=eg:GetFirst():GetFieldID()
-	e:GetHandler():RegisterFlagEffect(30606547,RESET_EVENT+RESETS_STANDARD+RESET_PHASE+PHASE_END,0,1)
+	e:GetHandler():RegisterFlagEffect(1063,RESET_EVENT+RESETS_STANDARD+RESET_PHASE+PHASE_END,0,1)
 	e:GetLabelObject():SetLabel(fid)
 end
