@@ -1,0 +1,15 @@
+function c1071.initial_effect(c)
+	local e1=Effect.CreateEffect(c)
+	e1:SetType(EFFECT_TYPE_SINGLE)
+	e1:SetProperty(EFFECT_FLAG_SINGLE_RANGE)
+	e1:SetRange(LOCATION_MZONE)
+	e1:SetCode(EFFECT_UPDATE_ATTACK)
+	e1:SetValue(c1071.value)
+	c:RegisterEffect(e1)
+end
+function c1071.filter(c)
+	return c:IsFaceup() and c:IsCode(1072)
+end
+function c1071.value(e,c)
+	return Duel.GetMatchingGroupCount(c1071.filter,c:GetControler(),LOCATION_MZONE,0,nil)*500
+end
