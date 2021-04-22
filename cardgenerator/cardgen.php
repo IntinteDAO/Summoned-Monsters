@@ -16,6 +16,7 @@ else if($type==2 || $type==130 || $type==65538 || $type==131074 || $type==262146
 else if($type==4 || $type==131076 || $type==1048580) { $color1 = 'rgb(205, 140, 170)'; $color2 = 'rgb(124, 66, 107)'; } // Trap
 else if($type==65 || $type==97) { $color1 = 'rgb(123, 76, 154)'; $color2 = 'rgb(103, 80, 122)'; } // Fusion
 else if($type==129 || $type==161 || $type==673) { $color1 = 'rgb(107, 117, 170)'; $color2 = 'rgb(65, 74, 91)'; } // Ritual
+else if($type==16401) { $color1 = 'rgb(58, 53, 51)'; $color2 = 'rgb(45, 42, 39)'; }
 else { die("Unknown type"); }
 
 $image->newPseudoImage($resolution_x, $resolution_y, 'gradient:'.$color1.'-'.$color2.'');
