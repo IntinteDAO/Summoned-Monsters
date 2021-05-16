@@ -1,0 +1,1 @@
+{"name":"BattleSheeps","description":"Summons 3 tokens in the defense position with stats (ATK: 0, DEF: 0). These tokens cannot attack, nor can they be tributed. You cannot summon monsters in Attack Position (but you can Set) during BattleSheeps activation turn.","id":1113,"alias":0,"type":65538,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
