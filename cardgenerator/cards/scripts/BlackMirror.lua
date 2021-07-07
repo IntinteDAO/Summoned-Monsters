@@ -1,0 +1,35 @@
+function c1158.initial_effect(c)
+	--Activate
+	local e1=Effect.CreateEffect(c)
+	e1:SetCategory(CATEGORY_CONTROL)
+	e1:SetProperty(EFFECT_FLAG_CARD_TARGET)
+	e1:SetType(EFFECT_TYPE_ACTIVATE)
+	e1:SetCode(EVENT_ATTACK_ANNOUNCE)
+	e1:SetCondition(c1158.condition)
+	e1:SetTarget(c1158.target)
+	e1:SetOperation(c1158.activate)
+	c:RegisterEffect(e1)
+end
+function c1158.condition(e,tp,eg,ep,ev,re,r,rp)
+	return tp~=Duel.GetTurnPlayer() and Duel.GetFieldGroupCount(tp,LOCATION_MZONE,0)>0
+end
+function c1158.filter(c)
+	return c:IsFaceup() and c:IsControlerCanBeChanged()
+end
+function c1158.target(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
+	local atr=Duel.GetAttacker()
+	if chkc then return chkc:IsLocation(LOCATION_MZONE) and chkc:IsControler(1-tp) and c1158.filter(chkc) end
+	if chk==0 then return Duel.IsExistingTarget(c1158.filter,tp,0,LOCATION_MZONE,1,atr) end
+	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_CONTROL)
+	local g=Duel.SelectTarget(tp,c1158.filter,tp,0,LOCATION_MZONE,1,1,atr)
+	Duel.SetOperationInfo(0,CATEGORY_CONTROL,g,1,0,0)
+end
+function c1158.activate(e,tp,eg,ep,ev,re,r,rp)
+	local tc=Duel.GetFirstTarget()
+	local a=Duel.GetAttacker()
+	if tc:IsRelateToEffect(e) and tc:IsFaceup() and Duel.GetControl(tc,tp,PHASE_BATTLE,1)~=0 then
+		if a:IsAttackable() and not a:IsImmuneToEffect(e) then
+			Duel.CalculateDamage(a,tc)
+		end
+	end
+end
