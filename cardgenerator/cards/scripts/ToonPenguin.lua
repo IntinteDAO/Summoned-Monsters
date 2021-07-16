@@ -1,4 +1,3 @@
---トゥーン・仮面魔道士
 function c1166.initial_effect(c)
 	aux.AddCodeList(c,1061)
 	--cannot attack
