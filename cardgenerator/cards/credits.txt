@@ -40,7 +40,6 @@ Exchange - https://pixabay.com/illustrations/heart-energy-field-energy-robot-806
 Peaceful Bird - https://pixabay.com/photos/dove-freedom-bird-nature-animal-2680487/ (6248913)
 Time Lord - https://pixabay.com/photos/wallpaper-decoration-color-abstract-3033899/ (Candiix)
 Stormy Weather - https://pixabay.com/photos/thunderstorm-lightning-storm-4234254/ (GB_photo)
-Lady Vampire - https://pixabay.com/illustrations/dark-queen-vampire-female-magic-1994513/ (spencerpierson)
 Forge - https://pixabay.com/vectors/shield-axe-sword-crest-armor-33957/ (Clker-Free-Vector-Images)
 Viper - https://pixabay.com/illustrations/snake-reptile-danger-wild-viper-1945345/ (TheDigitalArtist)
 Sun Wukong - https://pixabay.com/illustrations/monkey-primate-ape-creature-6127179/ (joiltonmelo)
@@ -127,12 +126,13 @@ Fire Elemental - https://pixabay.com/illustrations/woman-avatar-stress-burn-out-
 
 ________________________________________________________________________________________________________
 
-BattleSheeps - https://pixabay.com/vectors/sheep-ancient-animal-castle-knight-158272/ (OpenClipart-Vectors)
+BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Change Target - https://pixabay.com/vectors/air-control-airfield-radar-1293448/ (OpenClipart-Vectors)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
 Open Arena - https://openclipart.org/detail/332064 (philx)
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
