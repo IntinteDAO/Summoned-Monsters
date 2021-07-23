@@ -110,7 +110,6 @@ Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3
 Dwarven Sword - https://pixabay.com/illustrations/sword-blood-background-medieval-1078968/ (Yomare)
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
 Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
-Grim Reaper - https://pixabay.com/illustrations/skull-grim-reaper-wallpaper-1731927/ (aggi)
 Spellbreaker - https://pixabay.com/photos/elf-fantasy-sea-monster-amazone-2493917/ (TaniaVdB)
 Black Mirror - https://pixabay.com/photos/skull-mirror-horror-scary-4248008/ (creatifrankenstein)
 Flaming Dart - https://pixabay.com/illustrations/dart-target-hit-bull-s-eye-1943313/ (MasterTux)
@@ -133,6 +132,7 @@ Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdri
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
 Open Arena - https://openclipart.org/detail/332064 (philx)
