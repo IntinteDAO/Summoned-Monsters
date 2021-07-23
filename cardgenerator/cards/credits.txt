@@ -128,6 +128,7 @@ BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCrichton)
 Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
 Change Target - https://pixabay.com/vectors/air-control-airfield-radar-1293448/ (OpenClipart-Vectors)
+Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (ngoeminne) [CC-BY-SA 4.0]
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
