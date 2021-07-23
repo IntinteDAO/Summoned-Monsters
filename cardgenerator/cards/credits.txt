@@ -111,7 +111,6 @@ Dwarven Sword - https://pixabay.com/illustrations/sword-blood-background-medieva
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
 Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
 Spellbreaker - https://pixabay.com/photos/elf-fantasy-sea-monster-amazone-2493917/ (TaniaVdB)
-Black Mirror - https://pixabay.com/photos/skull-mirror-horror-scary-4248008/ (creatifrankenstein)
 Flaming Dart - https://pixabay.com/illustrations/dart-target-hit-bull-s-eye-1943313/ (MasterTux)
 Zombie Knight - https://pixabay.com/illustrations/knight-warrior-armor-battle-fight-3435033/ (Parker_West)
 Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
@@ -127,6 +126,7 @@ ________________________________________________________________________________
 
 BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCrichton)
+Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
 Change Target - https://pixabay.com/vectors/air-control-airfield-radar-1293448/ (OpenClipart-Vectors)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
