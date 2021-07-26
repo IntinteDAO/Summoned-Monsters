@@ -87,7 +87,6 @@ Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystica
 Dragon Chains - https://pixabay.com/photos/dragon-head-face-eyes-shiny-large-966970/ (sandid)
 Rain of Fire - https://pixabay.com/illustrations/background-abstract-pattern-6288022/ (ParallelVision)
 Lord of Life and Death - https://pixabay.com/photos/demon-angel-devil-evil-fantasy-4862726/ (miguelea777)
-Fusion Summoner - https://pixabay.com/illustrations/golem-sandstorm-woman-tattoo-3913650/ (Mysticsartdesign)
 Stealing - https://pixabay.com/illustrations/shakedown-robbery-theft-tax-money-1340048/ (Perlinator)
 Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
@@ -133,6 +132,7 @@ Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdri
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
