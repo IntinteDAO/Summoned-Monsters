@@ -16,7 +16,6 @@ Spider's Web - https://pixabay.com/illustrations/spider-web-cobweb-insect-hallow
 Dice of Destiny - https://pixabay.com/photos/cube-lucky-ladybug-puzzles-1950909/ (PIRO4D)
 Chains of Heaven - https://pixabay.com/illustrations/death-head-skull-bronze-dark-2276610/ (thommas68)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Fusion Dimension - https://pixabay.com/illustrations/fantasy-setting-background-backdrop-3334834/ (Parker_West)
 Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-3144300/ (PixxlTeufel)
 Mountains - https://pixabay.com/illustrations/mountain-and-sea-background-lake-4770131/ (AnnaliseArt)
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
@@ -132,6 +131,7 @@ Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdri
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
