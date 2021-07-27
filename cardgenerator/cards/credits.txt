@@ -144,4 +144,5 @@ Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
+Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Witch Doctor - https://pixabay.com/vectors/priest-medicine-man-tribe-egypt-152580/ (OpenClipart-Vectors)
