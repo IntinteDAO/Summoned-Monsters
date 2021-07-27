@@ -19,7 +19,6 @@ Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head
 Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-3144300/ (PixxlTeufel)
 Mountains - https://pixabay.com/illustrations/mountain-and-sea-background-lake-4770131/ (AnnaliseArt)
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
-Magical Caps - https://pixabay.com/photos/magic-conjure-conjurer-wand-cards-2034144/ (anncapictures)
 Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Sacrifice - https://pixabay.com/photos/dark-art-daemon-the-witch-fireball-2838965/ (Waldkunst)
@@ -136,6 +135,7 @@ Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
+Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santi) [CC-BY-SA 4.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
 Open Arena - https://openclipart.org/detail/332064 (philx)
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
