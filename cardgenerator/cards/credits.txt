@@ -9,7 +9,6 @@ Combat Turtle - https://pixabay.com/illustrations/the-background-wallpaper-the-b
 Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
 Earthquake - https://pixabay.com/illustrations/earthquake-crack-cracked-damage-5730256/ (HaticeEROL)
 Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-manga-4709334/ (gumiyasato)
-Vulkan - https://pixabay.com/photos/volcano-eruption-moon-island-2224519/ (AlexAntropov86)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
 Spider's Web - https://pixabay.com/illustrations/spider-web-cobweb-insect-halloween-3772448/ (kalhh)
@@ -145,4 +144,5 @@ Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-1
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
+Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Witch Doctor - https://pixabay.com/vectors/priest-medicine-man-tribe-egypt-152580/ (OpenClipart-Vectors)
