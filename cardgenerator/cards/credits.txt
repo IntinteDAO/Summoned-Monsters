@@ -119,6 +119,7 @@ Fire Elemental - https://pixabay.com/illustrations/woman-avatar-stress-burn-out-
 
 ________________________________________________________________________________________________________
 
+A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
 BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCrichton)
 Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
@@ -136,6 +137,7 @@ Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/H
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santi) [CC-BY-SA 4.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
+Monster Devourer - https://raw.githubusercontent.com/wtactics/art/master/WT/Dark%20Mana%20Breather/Dark%20Mana%20Breather.png (Santiago Iborra) [CC-BY-SA 4.0]
 Open Arena - https://openclipart.org/detail/332064 (philx)
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
