@@ -1,0 +1,1 @@
+{"name":"Spearman","description":"If this card attacks a monster in a Defense position, and this card''s ATK is greater than the DEF of the attacked card - deal the difference of those numbers as damage to your opponent.","id":1183,"alias":0,"type":33,"atk":1200,"def":100,"level":4,"race":1,"attribute":1,"limit":3}

@@ -143,6 +143,7 @@ Open Arena - https://openclipart.org/detail/332064 (philx)
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
+Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
