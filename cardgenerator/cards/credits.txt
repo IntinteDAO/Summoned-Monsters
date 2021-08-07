@@ -129,6 +129,7 @@ Change Target - https://pixabay.com/vectors/air-control-airfield-radar-1293448/ 
 Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (ngoeminne) [CC-BY-SA 4.0]
 Confused Orc - https://raw.githubusercontent.com/wtactics/art/master/WT/Confused%20Orc/Confused%20Orc.png (Santiago Iborra) [CC-BY-SA 4.0]
 Control of the Elements - https://openclipart.org/detail/288542/the-harmony-of-lightning (ramnit)
+CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
