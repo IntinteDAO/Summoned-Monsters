@@ -138,6 +138,7 @@ Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Ou
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
