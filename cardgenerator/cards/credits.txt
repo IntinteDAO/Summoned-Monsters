@@ -143,6 +143,7 @@ Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
+Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santi) [CC-BY-SA 4.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
