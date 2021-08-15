@@ -161,6 +161,7 @@ The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
+Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
