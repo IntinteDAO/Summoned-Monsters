@@ -165,4 +165,5 @@ Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.p
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
+Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://pixabay.com/vectors/priest-medicine-man-tribe-egypt-152580/ (OpenClipart-Vectors)
