@@ -120,6 +120,7 @@ Fire Elemental - https://pixabay.com/illustrations/woman-avatar-stress-burn-out-
 ________________________________________________________________________________________________________
 
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
+A World of the Dead - https://openclipart.org/detail/169996/pentagramme-taches-rouges (mathafix)
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
 Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar)
 BatteryBoy - https://openclipart.org/detail/203255/funny-wheeled-robot-game-character-superb-quality (lukeb)
@@ -166,6 +167,7 @@ Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-129
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
+Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://pixabay.com/vectors/priest-medicine-man-tribe-egypt-152580/ (OpenClipart-Vectors)
