@@ -38,7 +38,6 @@ Time Lord - https://pixabay.com/photos/wallpaper-decoration-color-abstract-30338
 Stormy Weather - https://pixabay.com/photos/thunderstorm-lightning-storm-4234254/ (GB_photo)
 Forge - https://pixabay.com/vectors/shield-axe-sword-crest-armor-33957/ (Clker-Free-Vector-Images)
 Viper - https://pixabay.com/illustrations/snake-reptile-danger-wild-viper-1945345/ (TheDigitalArtist)
-Sun Wukong - https://pixabay.com/illustrations/monkey-primate-ape-creature-6127179/ (joiltonmelo)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Demon Shokan - https://pixabay.com/illustrations/monster-horror-evil-4803620/ (V_M)
 Nightmare - https://pixabay.com/photos/spooky-nightmare-before-christmas-4635574/ (Ponschke)
@@ -163,6 +162,7 @@ Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-fr
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
+Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
