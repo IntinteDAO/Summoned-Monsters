@@ -28,7 +28,6 @@ Toon Story - https://pixabay.com/illustrations/book-old-clouds-tree-birds-bank-8
 Legendary Lance - https://pixabay.com/photos/paper-old-texture-parchment-1074131/ (ChrisFiedler), https://pixabay.com/vectors/lance-joust-jousting-fight-148986/ (OpenClipart-Vectors)
 Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-2591554/ (nashart), https://pixabay.com/vectors/treasure-chest-box-treasure-chest-575386/ (OpenClipart-Vectors)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
-Medkit - https://pixabay.com/illustrations/medical-bag-medical-bag-healthy-1674902/ (Memed_Nurrohmad)
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
 Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
 Orc Berserker - https://pixabay.com/illustrations/orc-ogre-troll-warrior-monster-4400044/ (Rachealmarie)
@@ -147,6 +146,7 @@ Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
+Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%20Potion/Small%20Potion.png (Unrealsmoker) [CC-BY-SA 4.0]
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
 Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
