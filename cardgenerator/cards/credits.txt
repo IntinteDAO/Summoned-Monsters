@@ -1,5 +1,4 @@
 The Deluge - https://pixabay.com/illustrations/japanese-wave-paper-ocean-background-4324089/ (AnnaliseArt)
-Puppet Master - https://pixabay.com/photos/hand-puppet-snowman-political-alex-784077/ (Yomare)
 Tears of the Godness - https://pixabay.com/photos/flower-macro-forget-drip-water-2197679/ (EvgeniT)
 The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-crossbones-401222/ (8385)
 Fluffy Cat - https://pixabay.com/illustrations/background-abstract-christmas-shiny-3017167/ (monicore), https://pixabay.com/vectors/kitten-head-kitty-feline-domestic-576502/ (OpenClipart-Vectors)
@@ -138,6 +137,7 @@ CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
+Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
