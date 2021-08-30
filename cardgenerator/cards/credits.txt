@@ -96,7 +96,6 @@ Medusa - https://pixabay.com/photos/medusa-gorgon-greek-monster-4736990/ (emsalg
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
 Assassin - https://pixabay.com/photos/ninja-warrior-japan-assassin-sword-2007576/ (MichaelWuensch)
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
-Dwarven Sword - https://pixabay.com/illustrations/sword-blood-background-medieval-1078968/ (Yomare)
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
 Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
 Spellbreaker - https://pixabay.com/photos/elf-fantasy-sea-monster-amazone-2493917/ (TaniaVdB)
@@ -131,6 +130,7 @@ Clone Machine - https://openclipart.org/detail/322329/cloning-system (j4p4n)
 Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (ngoeminne) [CC-BY-SA 4.0]
 Confused Orc - https://raw.githubusercontent.com/wtactics/art/master/WT/Confused%20Orc/Confused%20Orc.png (Santiago Iborra) [CC-BY-SA 4.0]
 Control of the Elements - https://openclipart.org/detail/288542/the-harmony-of-lightning (ramnit)
+Cursed Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Erode/Erode.png (Unrealsmoker) [CC-BY-SA 4.0]
 CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
