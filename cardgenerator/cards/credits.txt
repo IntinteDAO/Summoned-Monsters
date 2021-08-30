@@ -1,7 +1,6 @@
 The Deluge - https://pixabay.com/illustrations/japanese-wave-paper-ocean-background-4324089/ (AnnaliseArt)
 Tears of the Godness - https://pixabay.com/photos/flower-macro-forget-drip-water-2197679/ (EvgeniT)
 The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-crossbones-401222/ (8385)
-Fluffy Cat - https://pixabay.com/illustrations/background-abstract-christmas-shiny-3017167/ (monicore), https://pixabay.com/vectors/kitten-head-kitty-feline-domestic-576502/ (OpenClipart-Vectors)
 Wonderful Nurse - https://pixabay.com/illustrations/spring-background-cherry-blossoms-4035402/ (AnnaliseArt), https://pixabay.com/illustrations/nurse-injection-syringe-injections-2960932/ (iirliinnaa)
 Combat Turtle - https://pixabay.com/illustrations/the-background-wallpaper-the-bubbles-2836575/ (Crissa), https://pixabay.com/illustrations/blastoise-water-waterfall-pencil-1575680/ (claytonstrindade), colored by K-Zet
 Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
@@ -44,7 +43,6 @@ Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-20606
 Black Dragon - https://pixabay.com/illustrations/dragon-black-dragon-animal-reptile-4417506/ (pendleburyannette), https://pixabay.com/vectors/sky-clouds-mountains-blue-34536/ (Clker-Free-Vector-Images)
 God of the Sea - https://pixabay.com/photos/poseidon-sea-greek-mythology-1621062/ (intographics)
 Dragon Slayer - https://pixabay.com/photos/knight-guardian-castle-gothic-3091521/ (ariadne-a-mazed)
-Token - https://pixabay.com/illustrations/background-abstract-christmas-shiny-3017167/ (monicore), https://pixabay.com/vectors/kitten-head-kitty-feline-domestic-576502/ (OpenClipart-Vectors)
 Zombie - https://pixabay.com/illustrations/zombie-forest-rails-gleise-643461/ (SvenKirsch)
 Fire Sword - https://pixabay.com/vectors/sword-weapon-knight-warrior-4803276/ (DanXaw)
 Queen of Pain - https://pixabay.com/vectors/woman-face-makeup-female-portrait-4585956/ (prettysleepy1)
@@ -141,6 +139,7 @@ Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%2
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
+Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
@@ -166,6 +165,7 @@ Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Pie
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
+Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
