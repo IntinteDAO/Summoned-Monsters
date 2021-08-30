@@ -135,6 +135,7 @@ Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdri
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
+Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
