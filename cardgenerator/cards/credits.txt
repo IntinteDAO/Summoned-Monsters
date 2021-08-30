@@ -106,14 +106,13 @@ Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-s
 Ninja Kaiten - https://pixabay.com/illustrations/animal-cat-grey-little-cute-funny-2564182/ (bcogwene)
 Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
 Toon Dinosaur - https://pixabay.com/vectors/dinosaur-cartoon-dragon-blue-3172048/ (Jhonatan_Perez)
-Air Elemental - https://pixabay.com/illustrations/woman-face-air-allegory-elemental-6361125/ (Eleatell)
 Moon Elemental - https://pixabay.com/illustrations/woman-moon-stars-avatar-drawing-5842656/ (Eleatell)
-Fire Elemental - https://pixabay.com/illustrations/woman-avatar-stress-burn-out-angry-5939537/ (Eleatell)
 
 ________________________________________________________________________________________________________
 
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
 A World of the Dead - https://openclipart.org/detail/169996/pentagramme-taches-rouges (mathafix)
+Air Elemental - https://openclipart.org/detail/251521/wind-mage (ginkgo)
 Annihilator - https://raw.githubusercontent.com/wtactics/art/master/WT/Dimensional%20Pocket/Dimensional%20Pocket.png (Santiago Iborra) [CC-BY-SA 4.0]
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
 Atlantis - https://raw.githubusercontent.com/wtactics/art/master/WT/Ar%20An%20Imeall/Ar%20An%20Imeall.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -139,6 +138,7 @@ Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%2
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
+Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -175,4 +175,4 @@ Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
-Witch Doctor - https://pixabay.com/vectors/priest-medicine-man-tribe-egypt-152580/ (OpenClipart-Vectors)
+Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
