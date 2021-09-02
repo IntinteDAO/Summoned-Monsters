@@ -42,7 +42,6 @@ Bad Bee - https://pixabay.com/illustrations/bee-angry-honeybee-unhappy-bees-5082
 Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-2060671/ (shadoedz)
 Black Dragon - https://pixabay.com/illustrations/dragon-black-dragon-animal-reptile-4417506/ (pendleburyannette), https://pixabay.com/vectors/sky-clouds-mountains-blue-34536/ (Clker-Free-Vector-Images)
 God of the Sea - https://pixabay.com/photos/poseidon-sea-greek-mythology-1621062/ (intographics)
-Dragon Slayer - https://pixabay.com/photos/knight-guardian-castle-gothic-3091521/ (ariadne-a-mazed)
 Zombie - https://pixabay.com/illustrations/zombie-forest-rails-gleise-643461/ (SvenKirsch)
 Fire Sword - https://pixabay.com/vectors/sword-weapon-knight-warrior-4803276/ (DanXaw)
 Queen of Pain - https://pixabay.com/vectors/woman-face-makeup-female-portrait-4585956/ (prettysleepy1)
@@ -133,6 +132,7 @@ Cursed Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Erode/Er
 CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
+Dragon Slayer - https://openclipart.org/detail/331823/coat-of-arms-of-the-kyiv-region (Ukraine)
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
