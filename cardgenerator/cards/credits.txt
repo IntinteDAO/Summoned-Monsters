@@ -162,6 +162,7 @@ Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Prot
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
+Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
