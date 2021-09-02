@@ -105,7 +105,6 @@ Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-s
 Ninja Kaiten - https://pixabay.com/illustrations/animal-cat-grey-little-cute-funny-2564182/ (bcogwene)
 Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
 Toon Dinosaur - https://pixabay.com/vectors/dinosaur-cartoon-dragon-blue-3172048/ (Jhonatan_Perez)
-Moon Elemental - https://pixabay.com/illustrations/woman-moon-stars-avatar-drawing-5842656/ (Eleatell)
 
 ________________________________________________________________________________________________________
 
@@ -167,6 +166,7 @@ Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Pie
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
+Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
 Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
