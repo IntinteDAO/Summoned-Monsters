@@ -183,3 +183,4 @@ Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgivin
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
+Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
