@@ -56,7 +56,6 @@ Healing Soul - https://pixabay.com/illustrations/angel-fairy-wings-fantasy-young
 Dark Knight - https://pixabay.com/photos/knight-middle-ages-armor-crusader-3002031/ (Yuri_B)
 Genomice - https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/ (tiburi)
 Zombie Nurse - https://pixabay.com/illustrations/fantasy-gothic-goth-dark-vamp-4158031/ (darksouls1)
-Centaur Warrunner - https://pixabay.com/illustrations/centaur-hybrids-spear-weapon-fight-3158829/ (anaterate)
 Blessing - https://pixabay.com/illustrations/angel-christmas-background-2917068/ (geralt)
 Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
@@ -122,6 +121,7 @@ Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCr
 Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
 Blacksmith - https://raw.githubusercontent.com/wtactics/art/master/WT/Smith/Smith.png (Santiago Iborra) [CC-BY-SA 4.0]
 Cartoon Knight - https://openclipart.org/detail/299180/cartoon-boy-wielding-sword (Falco276)
+Centaur Hunter - https://raw.githubusercontent.com/wtactics/art/master/WT/Centaur%20Hunter/Centaur%20Hunter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Change Target - https://pixabay.com/vectors/air-control-airfield-radar-1293448/ (OpenClipart-Vectors)
 Clone Machine - https://openclipart.org/detail/322329/cloning-system (j4p4n)
 Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (ngoeminne) [CC-BY-SA 4.0]
