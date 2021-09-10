@@ -146,6 +146,7 @@ Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
+Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%20Potion/Small%20Potion.png (Unrealsmoker) [CC-BY-SA 4.0]
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
