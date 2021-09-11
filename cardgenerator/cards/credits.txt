@@ -27,8 +27,6 @@ Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-25915
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
 Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
-Orc Berserker - https://pixabay.com/illustrations/orc-ogre-troll-warrior-monster-4400044/ (Rachealmarie)
-Orc Warrior - https://pixabay.com/illustrations/orc-character-fantasy-monster-3194836/ (Rachealmarie)
 Exchange - https://pixabay.com/illustrations/heart-energy-field-energy-robot-806512/ (sciencefreak)
 Peaceful Bird - https://pixabay.com/photos/dove-freedom-bird-nature-animal-2680487/ (6248913)
 Time Lord - https://pixabay.com/photos/wallpaper-decoration-color-abstract-3033899/ (Candiix)
@@ -141,6 +139,7 @@ Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. 
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
 Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
+Flame Spirit - https://openclipart.org/detail/251849/flame-elemental (ginkgo)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -183,6 +182,7 @@ Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-12
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
+Water Spirit - https://openclipart.org/detail/251958/water-elemental (ginkgo)
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
