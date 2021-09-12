@@ -151,6 +151,7 @@ Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (ngoeminne) [CC-BY-SA 4.0]
 Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
+Leafy Warrior - https://opengameart.org/content/leafman (BlackSwordo) [CC-BY 4.0]
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
 Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%20Gear/Magical%20Gear.png (Santiago Iborra) [CC-BY-SA 4.0]
 Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
