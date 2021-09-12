@@ -9,7 +9,6 @@ Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-mang
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
 Spider's Web - https://pixabay.com/illustrations/spider-web-cobweb-insect-halloween-3772448/ (kalhh)
-Dice of Destiny - https://pixabay.com/photos/cube-lucky-ladybug-puzzles-1950909/ (PIRO4D)
 Chains of Heaven - https://pixabay.com/illustrations/death-head-skull-bronze-dark-2276610/ (thommas68)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
 Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-3144300/ (PixxlTeufel)
@@ -130,6 +129,7 @@ Cursed Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Erode/Er
 CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (ngoeminne) [CC-BY-SA 4.0]
+Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%20Of%20The%20Dice/Roll%20Of%20The%20Dice.png (Santiago Iborra) [CC-BY-SA 4.0]
 Dragon Slayer - https://openclipart.org/detail/331823/coat-of-arms-of-the-kyiv-region (Ukraine)
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
