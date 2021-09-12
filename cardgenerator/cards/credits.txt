@@ -31,7 +31,6 @@ Peaceful Bird - https://pixabay.com/photos/dove-freedom-bird-nature-animal-26804
 Time Lord - https://pixabay.com/photos/wallpaper-decoration-color-abstract-3033899/ (Candiix)
 Stormy Weather - https://pixabay.com/photos/thunderstorm-lightning-storm-4234254/ (GB_photo)
 Forge - https://pixabay.com/vectors/shield-axe-sword-crest-armor-33957/ (Clker-Free-Vector-Images)
-Viper - https://pixabay.com/illustrations/snake-reptile-danger-wild-viper-1945345/ (TheDigitalArtist)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Demon Shokan - https://pixabay.com/illustrations/monster-horror-evil-4803620/ (V_M)
 Nightmare - https://pixabay.com/photos/spooky-nightmare-before-christmas-4635574/ (Ponschke)
@@ -182,6 +181,7 @@ Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.p
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
+Viper - https://openclipart.org/detail/319418/cobra-snake (liftarn)
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Water Spirit - https://openclipart.org/detail/251958/water-elemental (ginkgo)
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
