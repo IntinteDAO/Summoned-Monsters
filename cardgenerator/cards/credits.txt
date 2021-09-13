@@ -179,12 +179,14 @@ Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
+Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (ngoeminne) [CC-BY-SA 4.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Viper - https://openclipart.org/detail/319418/cobra-snake (liftarn)
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Water Spirit - https://openclipart.org/detail/251958/water-elemental (ginkgo)
+Werewolf - https://opengameart.org/content/werewolf (BlackSwordo) [CC-BY 4.0]
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
