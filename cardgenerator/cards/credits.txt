@@ -8,7 +8,6 @@ Earthquake - https://pixabay.com/illustrations/earthquake-crack-cracked-damage-5
 Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-manga-4709334/ (gumiyasato)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
-Spider's Web - https://pixabay.com/illustrations/spider-web-cobweb-insect-halloween-3772448/ (kalhh)
 Chains of Heaven - https://pixabay.com/illustrations/death-head-skull-bronze-dark-2276610/ (thommas68)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
 Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-3144300/ (PixxlTeufel)
@@ -168,9 +167,10 @@ Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focu
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
-Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
+Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
+Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
 Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
