@@ -36,7 +36,6 @@ Demon Shokan - https://pixabay.com/illustrations/monster-horror-evil-4803620/ (V
 Nightmare - https://pixabay.com/photos/spooky-nightmare-before-christmas-4635574/ (Ponschke)
 Bad Bee - https://pixabay.com/illustrations/bee-angry-honeybee-unhappy-bees-5082390/ (RalfDesign)
 Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-2060671/ (shadoedz)
-Black Dragon - https://pixabay.com/illustrations/dragon-black-dragon-animal-reptile-4417506/ (pendleburyannette), https://pixabay.com/vectors/sky-clouds-mountains-blue-34536/ (Clker-Free-Vector-Images)
 God of the Sea - https://pixabay.com/photos/poseidon-sea-greek-mythology-1621062/ (intographics)
 Zombie - https://pixabay.com/illustrations/zombie-forest-rails-gleise-643461/ (SvenKirsch)
 Fire Sword - https://pixabay.com/vectors/sword-weapon-knight-warrior-4803276/ (DanXaw)
@@ -114,6 +113,7 @@ BatteryBoy - https://openclipart.org/detail/203255/funny-wheeled-robot-game-char
 BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Bear Paws - https://openclipart.org/detail/281029/paws (j4p4n)
 Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCrichton)
+Black Dragon - https://openclipart.org/detail/299175/mighty-black-dragon (Falco276)
 Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
 Blacksmith - https://raw.githubusercontent.com/wtactics/art/master/WT/Smith/Smith.png (Santiago Iborra) [CC-BY-SA 4.0]
 Cartoon Knight - https://openclipart.org/detail/299180/cartoon-boy-wielding-sword (Falco276)
