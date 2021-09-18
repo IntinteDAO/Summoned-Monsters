@@ -69,7 +69,6 @@ Stealing - https://pixabay.com/illustrations/shakedown-robbery-theft-tax-money-1
 Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
 Chaining - https://pixabay.com/illustrations/fantasy-science-fiction-earth-4732736/ (mollyroselee)
-Fire Mage - https://pixabay.com/photos/fire-mouth-man-circus-performer-4605812/ (Greza)
 Light Beam - https://pixabay.com/photos/composing-man-fantasy-face-rays-3696596/ (analogicus)
 Curse - https://pixabay.com/photos/halloween-occult-1784570/ (Amber_Avalona)
 Metal Spider - https://pixabay.com/illustrations/spider-robot-arachnid-artificial-1615195/ (TheDigitalArtist), https://pixabay.com/photos/background-desktop-gradient-grey-1866485/ (Pexels)
@@ -137,6 +136,7 @@ Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
 Final Elemental - https://openclipart.org/detail/251721/dark-mage-2 (ginkgo)
 Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
+Fire Mage - https://raw.githubusercontent.com/wtactics/art/master/WT/Female%20Fire%20Mage/Female%20Fire%20Mage.png (Santiago Iborra) [CC-BY-SA 4.0]
 Flame Spirit - https://openclipart.org/detail/251849/flame-elemental (ginkgo)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
