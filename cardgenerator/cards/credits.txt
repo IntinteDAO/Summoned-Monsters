@@ -10,7 +10,6 @@ Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
 Chains of Heaven - https://pixabay.com/illustrations/death-head-skull-bronze-dark-2276610/ (thommas68)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-3144300/ (PixxlTeufel)
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
 Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
@@ -143,6 +142,7 @@ Flame Spirit - https://openclipart.org/detail/251849/flame-elemental (ginkgo)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (ngoeminne) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
+Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-station (gsagri04)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
