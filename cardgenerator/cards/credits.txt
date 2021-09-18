@@ -14,7 +14,6 @@ Gene Modifier - https://pixabay.com/photos/human-biology-body-dna-physically-314
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
 Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
-Sacrifice - https://pixabay.com/photos/dark-art-daemon-the-witch-fireball-2838965/ (Waldkunst)
 Divine Protection - https://pixabay.com/illustrations/fantasy-guardian-angel-angel-3313964/ (KELLEPICS)
 Evolutionary Pressure - https://pixabay.com/photos/evolution-development-forward-4107273/ (Alexas_Fotos)
 Spy - https://pixabay.com/vectors/mysterious-cyber-security-thief-3347603/ (Prettysleepy)
@@ -133,6 +132,7 @@ Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
 Dwarf Soldier - https://openclipart.org/detail/158563/dwarf-warrior (tzunghaor)
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
+Elven Archer - https://openclipart.org/detail/162493/elven-archer (tzunghaor)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
@@ -168,6 +168,7 @@ Phantom - https://openclipart.org/detail/193093/scary-ghost-trick-or-treating (H
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
 Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focus/Focus.png (Unrealsmoker) [CC-BY-SA 4.0]
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
+Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
