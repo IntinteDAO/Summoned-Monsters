@@ -137,6 +137,7 @@ Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417
 Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
+Final Elemental - https://openclipart.org/detail/251721/dark-mage-2 (ginkgo)
 Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
 Flame Spirit - https://openclipart.org/detail/251849/flame-elemental (ginkgo)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
@@ -190,6 +191,7 @@ Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Viper - https://openclipart.org/detail/319418/cobra-snake (liftarn)
 Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
+Water Elemental - https://openclipart.org/detail/251724/water-mage-2 (ginkgo)
 Water Spirit - https://openclipart.org/detail/251958/water-elemental (ginkgo)
 Werewolf - https://opengameart.org/content/werewolf (BlackSwordo) [CC-BY 4.0]
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
