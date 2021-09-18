@@ -15,7 +15,6 @@ Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Divine Protection - https://pixabay.com/illustrations/fantasy-guardian-angel-angel-3313964/ (KELLEPICS)
 Evolutionary Pressure - https://pixabay.com/photos/evolution-development-forward-4107273/ (Alexas_Fotos)
-Spy - https://pixabay.com/vectors/mysterious-cyber-security-thief-3347603/ (Prettysleepy)
 Toon Story - https://pixabay.com/illustrations/book-old-clouds-tree-birds-bank-863418/ (Mysticsartdesign)
 Legendary Lance - https://pixabay.com/photos/paper-old-texture-parchment-1074131/ (ChrisFiedler), https://pixabay.com/vectors/lance-joust-jousting-fight-148986/ (OpenClipart-Vectors)
 Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-2591554/ (nashart), https://pixabay.com/vectors/treasure-chest-box-treasure-chest-575386/ (OpenClipart-Vectors)
@@ -173,6 +172,7 @@ Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
+Spy - https://game-icons.net/1x1/delapouite/spy.html (Delapouite) [CC-BY 3.0]
 Stone Golem - https://openclipart.org/detail/170870/stone-giant (tzunghaor)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
