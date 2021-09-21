@@ -103,6 +103,7 @@ Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (
 BatteryBoy - https://openclipart.org/detail/203255/funny-wheeled-robot-game-character-superb-quality (lukeb)
 BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Bear Paws - https://openclipart.org/detail/281029/paws (j4p4n)
+Binding Souls - https://opengameart.org/content/painterly-spell-icons-part-1 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Biohazard - https://openclipart.org/detail/28414/malware-hazard-symbol-red (PBCrichton)
 Black Dragon - https://openclipart.org/detail/299175/mighty-black-dragon (Falco276)
 Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/Scrying%20Mirror.png (ngoeminne) [CC-BY-SA 4.0]
