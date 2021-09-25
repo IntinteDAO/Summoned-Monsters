@@ -163,6 +163,7 @@ Monster Devourer - https://raw.githubusercontent.com/wtactics/art/master/WT/Dark
 Monster of the Deep - https://openclipart.org/detail/329135/cthulhu-loves-you (BLASTFEMI)
 Monster Plant - https://openclipart.org/detail/201885/monster-plant-green-biteme (Kliponius)
 Mountains - http://www.clker.com/clipart-15852.html (OCAL)
+Mushroom - https://opengameart.org/content/mushroom-game-character-for-background-object-or-enemy (bevouliin.com) [CC-BY 4.0]
 Necromancer - https://openclipart.org/detail/20013/necromancer-chibi (Peileppe)
 Necronomicon - https://game-icons.net/1x1/lorc/evil-book.html (Lorc) [CC-BY 3.0]
 Open Arena - https://openclipart.org/detail/332064 (philx)
