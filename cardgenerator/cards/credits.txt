@@ -15,7 +15,6 @@ Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Divine Protection - https://pixabay.com/illustrations/fantasy-guardian-angel-angel-3313964/ (KELLEPICS)
 Evolutionary Pressure - https://pixabay.com/photos/evolution-development-forward-4107273/ (Alexas_Fotos)
-Toon Story - https://pixabay.com/illustrations/book-old-clouds-tree-birds-bank-863418/ (Mysticsartdesign)
 Legendary Lance - https://pixabay.com/photos/paper-old-texture-parchment-1074131/ (ChrisFiedler), https://pixabay.com/vectors/lance-joust-jousting-fight-148986/ (OpenClipart-Vectors)
 Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-2591554/ (nashart), https://pixabay.com/vectors/treasure-chest-box-treasure-chest-575386/ (OpenClipart-Vectors)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
@@ -191,6 +190,7 @@ Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
+Toon Story - https://raw.githubusercontent.com/wtactics/art/master/WT/Books/Books.png (Unrealsmoker) [CC-BY-SA 4.0]
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
