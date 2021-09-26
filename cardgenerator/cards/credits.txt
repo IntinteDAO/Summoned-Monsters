@@ -202,6 +202,7 @@ Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Water Elemental - https://openclipart.org/detail/251724/water-mage-2 (ginkgo)
 Water Spirit - https://openclipart.org/detail/251958/water-elemental (ginkgo)
 Werewolf - https://opengameart.org/content/werewolf (BlackSwordo) [CC-BY 4.0]
+Wild Warg - https://raw.githubusercontent.com/wtactics/art/master/WT/Wild%20Warg/Wild%20Warg.png (Santiago Iborra) [CC-BY-SA 4.0]
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
