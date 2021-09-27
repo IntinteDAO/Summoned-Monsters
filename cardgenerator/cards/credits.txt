@@ -4,7 +4,6 @@ The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-cro
 Wonderful Nurse - https://pixabay.com/illustrations/spring-background-cherry-blossoms-4035402/ (AnnaliseArt), https://pixabay.com/illustrations/nurse-injection-syringe-injections-2960932/ (iirliinnaa)
 Combat Turtle - https://pixabay.com/illustrations/the-background-wallpaper-the-bubbles-2836575/ (Crissa), https://pixabay.com/illustrations/blastoise-water-waterfall-pencil-1575680/ (claytonstrindade), colored by K-Zet
 Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
-Earthquake - https://pixabay.com/illustrations/earthquake-crack-cracked-damage-5730256/ (HaticeEROL)
 Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-manga-4709334/ (gumiyasato)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
@@ -53,16 +52,13 @@ Devil's Trigger - https://pixabay.com/illustrations/fantasy-fairy-sunset-trees-6
 Bribe - https://pixabay.com/illustrations/money-jacket-bribe-envelope-salary-501613/ (A-r-e-s)
 Cyclone - https://pixabay.com/photos/cyclone-forward-hurricane-storm-2102397/ (Comfreak)
 Protection - https://pixabay.com/vectors/angel-wings-character-no-background-3051233/ (13smok)
-Paw of Destruction - https://pixabay.com/illustrations/beast-monster-werewolf-halloween-3534347/ (Adryanah)
 Silencer - https://pixabay.com/photos/silence-concealment-fantasy-3009481/ (Inactive_account_ID_249)
 Silence - https://pixabay.com/illustrations/caricature-painting-silence-mouth-5123999/ (Cdd20)
 Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
 Evaporate - https://pixabay.com/illustrations/fairy-tales-dissolution-sadness-4057427/ (Cdd20)
 Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystical-4423131/ (Willgard)
 Dragon Chains - https://pixabay.com/photos/dragon-head-face-eyes-shiny-large-966970/ (sandid)
-Rain of Fire - https://pixabay.com/illustrations/background-abstract-pattern-6288022/ (ParallelVision)
 Lord of Life and Death - https://pixabay.com/photos/demon-angel-devil-evil-fantasy-4862726/ (miguelea777)
-Stealing - https://pixabay.com/illustrations/shakedown-robbery-theft-tax-money-1340048/ (Perlinator)
 Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
 Chaining - https://pixabay.com/illustrations/fantasy-science-fiction-earth-4732736/ (mollyroselee)
@@ -81,7 +77,6 @@ Assassin - https://pixabay.com/photos/ninja-warrior-japan-assassin-sword-2007576
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
 Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
-Spellbreaker - https://pixabay.com/photos/elf-fantasy-sea-monster-amazone-2493917/ (TaniaVdB)
 Flaming Dart - https://pixabay.com/illustrations/dart-target-hit-bull-s-eye-1943313/ (MasterTux)
 Zombie Knight - https://pixabay.com/illustrations/knight-warrior-armor-battle-fight-3435033/ (Parker_West)
 Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
@@ -130,6 +125,7 @@ Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
 Dwarf Soldier - https://openclipart.org/detail/158563/dwarf-warrior (tzunghaor)
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
+Earthquake - https://openclipart.org/detail/250253/city-after-earthquake (Juhele)
 Elven Archer - https://openclipart.org/detail/162493/elven-archer (tzunghaor)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
@@ -171,9 +167,11 @@ Orc Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Outmaneuver
 Orc Shaman - https://raw.githubusercontent.com/wtactics/art/master/WT/Orc%20Shaman/Orc%20Shaman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
 Pandora's Box - https://openclipart.org/detail/196280/light-box (gustavorezende)
+Paw of Destruction - https://opengameart.org/content/painterly-spell-icons-part-3 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Phantom - https://openclipart.org/detail/193093/scary-ghost-trick-or-treating (Hector Gomez)
 Power Flower - https://opengameart.org/content/evil-sun-flower-plant-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
+Rain of Fire - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Red Dragon - https://openclipart.org/detail/300888/red-dragon (Falco276)
 Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focus/Focus.png (Unrealsmoker) [CC-BY-SA 4.0]
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
@@ -181,7 +179,9 @@ Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
+Spellbreaker - https://raw.githubusercontent.com/wtactics/art/master/WT/Guard/Guard.png (Unrealsmoker) [CC-BY-SA 4.0]
 Spy - https://game-icons.net/1x1/delapouite/spy.html (Delapouite) [CC-BY 3.0]
+Stealing - https://raw.githubusercontent.com/wtactics/art/master/WT/Cutpurse%20Imp/Cutpurse%20Imp.png (Santiago Iborra) [CC-BY-SA 4.0]
 Stone Golem - https://openclipart.org/detail/170870/stone-giant (tzunghaor)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
