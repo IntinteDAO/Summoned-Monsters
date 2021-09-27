@@ -1,5 +1,5 @@
 function c1232.initial_effect(c)
-	aux.AddCodeList(c,1072)
+	aux.AddCodeList(c,1071)
 	--Activate
 	local e1=Effect.CreateEffect(c)
 	e1:SetCategory(CATEGORY_SPECIAL_SUMMON)
@@ -11,13 +11,13 @@ function c1232.initial_effect(c)
 	c:RegisterEffect(e1)
 end
 function c1232.cfilter(c)
-	return c:IsFaceup() and c:IsCode(1071)
+	return c:IsFaceup() and c:IsCode(1072)
 end
 function c1232.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.IsExistingMatchingCard(c1232.cfilter,tp,LOCATION_ONFIELD,LOCATION_ONFIELD,1,nil)
 end
 function c1232.filter(c,e,tp)
-	return c:IsCode(1071,1072) and c:IsCanBeSpecialSummoned(e,0,tp,true,false)
+	return c:IsCode(1072,1071) and c:IsCanBeSpecialSummoned(e,0,tp,true,false)
 end
 function c1232.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.GetLocationCount(tp,LOCATION_MZONE)>0
