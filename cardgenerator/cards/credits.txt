@@ -12,9 +12,6 @@ Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
 Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
-Divine Protection - https://pixabay.com/illustrations/fantasy-guardian-angel-angel-3313964/ (KELLEPICS)
-Evolutionary Pressure - https://pixabay.com/photos/evolution-development-forward-4107273/ (Alexas_Fotos)
-Legendary Lance - https://pixabay.com/photos/paper-old-texture-parchment-1074131/ (ChrisFiedler), https://pixabay.com/vectors/lance-joust-jousting-fight-148986/ (OpenClipart-Vectors)
 Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-2591554/ (nashart), https://pixabay.com/vectors/treasure-chest-box-treasure-chest-575386/ (OpenClipart-Vectors)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
@@ -36,7 +33,6 @@ Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ 
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
 Ogre Magi - https://pixabay.com/illustrations/character-male-summoner-magic-5959696/ (pendleburyannette), https://pixabay.com/photos/forest-trees-fog-atmosphere-3877365/ (DarkmoonArt_de)
 Whirlpool - https://pixabay.com/vectors/tornado-twister-angry-comic-310431/ (Clker-Free-Vector-Images), https://pixabay.com/photos/underwater-blue-ocean-sea-marine-802092/ (Free-Photos)
-Chameleon - https://pixabay.com/photos/chameleon-reptile-lizard-green-540655/ (FrankWinkler)
 Chinese Bat - https://pixabay.com/vectors/animals-bat-decoration-halloween-1298132/ (OpenClipart-Vectors), https://pixabay.com/vectors/mountains-sunset-mountain-dahl-950730/ (peritas)
 Rage - https://pixabay.com/illustrations/anger-angry-bad-isolated-dangerous-794699/ (geralt)
 Healing Soul - https://pixabay.com/illustrations/angel-fairy-wings-fantasy-young-1181230/ (DigitalDesigner)
@@ -49,7 +45,6 @@ Fortress - https://pixabay.com/photos/moon-castle-full-moon-mystical-2245743/ (P
 Phoenix - https://pixabay.com/illustrations/phoenix-bird-fire-sun-bright-red-500469/ (Mysticsartdesign)
 Legend of the Firebird - https://pixabay.com/illustrations/phoenix-bird-fire-logo-mythical-5551892/ (krustovin)
 Devil's Trigger - https://pixabay.com/illustrations/fantasy-fairy-sunset-trees-6172150/ (jcoope12)
-Bribe - https://pixabay.com/illustrations/money-jacket-bribe-envelope-salary-501613/ (A-r-e-s)
 Cyclone - https://pixabay.com/photos/cyclone-forward-hurricane-storm-2102397/ (Comfreak)
 Protection - https://pixabay.com/vectors/angel-wings-character-no-background-3051233/ (13smok)
 Silencer - https://pixabay.com/photos/silence-concealment-fantasy-3009481/ (Inactive_account_ID_249)
@@ -90,7 +85,9 @@ ________________________________________________________________________________
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
 A World of the Dead - https://openclipart.org/detail/169996/pentagramme-taches-rouges (mathafix)
 Air Elemental - https://openclipart.org/detail/251521/wind-mage (ginkgo)
+Ancient Golem - https://opengameart.org/content/golem-animations (irmirx) [CC-BY 3.0]
 Annihilator - https://raw.githubusercontent.com/wtactics/art/master/WT/Dimensional%20Pocket/Dimensional%20Pocket.png (Santiago Iborra) [CC-BY-SA 4.0]
+Annoying Creatures - https://raw.githubusercontent.com/wtactics/art/master/WT/Living%20Card/Living%20Card.png (Santiago Iborra) [CC-BY-SA 4.0]
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
 Atlantis - https://raw.githubusercontent.com/wtactics/art/master/WT/Ar%20An%20Imeall/Ar%20An%20Imeall.png (Santiago Iborra) [CC-BY-SA 4.0]
 Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
@@ -106,6 +103,7 @@ Blacksmith - https://raw.githubusercontent.com/wtactics/art/master/WT/Smith/Smit
 Blessing - https://raw.githubusercontent.com/wtactics/art/master/WT/Shapeshift/Shapeshift.png (Santiago Iborra) [CC-BY-SA 4.0]
 Cartoon Knight - https://openclipart.org/detail/299180/cartoon-boy-wielding-sword (Falco276)
 Centaur Hunter - https://raw.githubusercontent.com/wtactics/art/master/WT/Centaur%20Hunter/Centaur%20Hunter.png (Santiago Iborra) [CC-BY-SA 4.0]
+Chameleon - https://openclipart.org/detail/326632/guanineleon (revzack)
 Change Target - https://openclipart.org/detail/203157/just-another-radar-screen (mondspeer)
 Clone Machine - https://openclipart.org/detail/322329/cloning-system (j4p4n)
 Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (ngoeminne) [CC-BY-SA 4.0]
@@ -127,6 +125,9 @@ Dwarf Soldier - https://openclipart.org/detail/158563/dwarf-warrior (tzunghaor)
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
 Earthquake - https://openclipart.org/detail/250253/city-after-earthquake (Juhele)
 Elven Archer - https://openclipart.org/detail/162493/elven-archer (tzunghaor)
+Elven Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Sword/Elven%20Sword.png (Unrealsmoker) [CC-BY-SA 4.0]
+Eternal Protection - https://raw.githubusercontent.com/wtactics/art/master/WT/Demolish/Demolish.png (Santiago Iborra) [CC-BY-SA 4.0]
+Evolutionary Pressure - https://openclipart.org/detail/12755/evolution-steps (Anonymous)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
