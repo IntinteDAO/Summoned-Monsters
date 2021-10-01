@@ -37,7 +37,6 @@ Dark Knight - https://pixabay.com/photos/knight-middle-ages-armor-crusader-30020
 Genomice - https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/ (tiburi)
 Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
-Fortress - https://pixabay.com/photos/moon-castle-full-moon-mystical-2245743/ (PIRO4D)
 Phoenix - https://pixabay.com/illustrations/phoenix-bird-fire-sun-bright-red-500469/ (Mysticsartdesign)
 Legend of the Firebird - https://pixabay.com/illustrations/phoenix-bird-fire-logo-mythical-5551892/ (krustovin)
 Devil's Trigger - https://pixabay.com/illustrations/fantasy-fairy-sunset-trees-6172150/ (jcoope12)
@@ -58,7 +57,6 @@ Metal Spider - https://pixabay.com/illustrations/spider-robot-arachnid-artificia
 Angel of Justice - https://pixabay.com/illustrations/woman-angel-wings-character-sword-5590273/ (firaangella1)
 Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-241597/ (rafaelsamir)
 Necro Pirate - https://pixabay.com/illustrations/pirate-photoshop-manipulation-1827387/ (thommas68)
-Witch - https://pixabay.com/illustrations/witch-skull-fantasy-horror-dark-5381144/ (PatoLenin)
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
 Assassin - https://pixabay.com/photos/ninja-warrior-japan-assassin-sword-2007576/ (MichaelWuensch)
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
@@ -131,6 +129,7 @@ Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
 Fire Mage - https://raw.githubusercontent.com/wtactics/art/master/WT/Female%20Fire%20Mage/Female%20Fire%20Mage.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Forge - https://pixabay.com/vectors/shield-axe-sword-crest-armor-33957/ (Clker-Free-Vector-Images)
+Fortress - https://raw.githubusercontent.com/wtactics/art/master/WT/Siege/Siege.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-station (gsagri04)
@@ -196,6 +195,7 @@ Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Toon Story - https://raw.githubusercontent.com/wtactics/art/master/WT/Books/Books.png (Unrealsmoker) [CC-BY-SA 4.0]
+Toxic Shroom - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Toxic%20Shroom.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
 Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
@@ -207,6 +207,7 @@ Water Elemental - https://openclipart.org/detail/251724/water-mage-2 (ginkgo)
 Werewolf - https://opengameart.org/content/werewolf (BlackSwordo) [CC-BY 4.0]
 Wild Warg - https://raw.githubusercontent.com/wtactics/art/master/WT/Wild%20Warg/Wild%20Warg.png (Santiago Iborra) [CC-BY-SA 4.0]
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
+Witch - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Miss%20Creeper.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
 Zombie Queen - https://openclipart.org/detail/178596/zombie-girl (AhNinniah)
