@@ -17,10 +17,8 @@ Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
 Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
 Peaceful Bird - https://pixabay.com/photos/dove-freedom-bird-nature-animal-2680487/ (6248913)
-Time Lord - https://pixabay.com/photos/wallpaper-decoration-color-abstract-3033899/ (Candiix)
 Stormy Weather - https://pixabay.com/photos/thunderstorm-lightning-storm-4234254/ (GB_photo)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
-Demon Shokan - https://pixabay.com/illustrations/monster-horror-evil-4803620/ (V_M)
 Bad Bee - https://pixabay.com/illustrations/bee-angry-honeybee-unhappy-bees-5082390/ (RalfDesign)
 Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-2060671/ (shadoedz)
 God of the Sea - https://pixabay.com/photos/poseidon-sea-greek-mythology-1621062/ (intographics)
@@ -32,14 +30,10 @@ Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5
 Whirlpool - https://pixabay.com/vectors/tornado-twister-angry-comic-310431/ (Clker-Free-Vector-Images), https://pixabay.com/photos/underwater-blue-ocean-sea-marine-802092/ (Free-Photos)
 Chinese Bat - https://pixabay.com/vectors/animals-bat-decoration-halloween-1298132/ (OpenClipart-Vectors), https://pixabay.com/vectors/mountains-sunset-mountain-dahl-950730/ (peritas)
 Rage - https://pixabay.com/illustrations/anger-angry-bad-isolated-dangerous-794699/ (geralt)
-Healing Soul - https://pixabay.com/illustrations/angel-fairy-wings-fantasy-young-1181230/ (DigitalDesigner)
 Dark Knight - https://pixabay.com/photos/knight-middle-ages-armor-crusader-3002031/ (Yuri_B)
 Genomice - https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/ (tiburi)
 Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
-Phoenix - https://pixabay.com/illustrations/phoenix-bird-fire-sun-bright-red-500469/ (Mysticsartdesign)
-Legend of the Firebird - https://pixabay.com/illustrations/phoenix-bird-fire-logo-mythical-5551892/ (krustovin)
-Devil's Trigger - https://pixabay.com/illustrations/fantasy-fairy-sunset-trees-6172150/ (jcoope12)
 Cyclone - https://pixabay.com/photos/cyclone-forward-hurricane-storm-2102397/ (Comfreak)
 Protection - https://pixabay.com/vectors/angel-wings-character-no-background-3051233/ (13smok)
 Silencer - https://pixabay.com/photos/silence-concealment-fantasy-3009481/ (Inactive_account_ID_249)
@@ -58,7 +52,6 @@ Angel of Justice - https://pixabay.com/illustrations/woman-angel-wings-character
 Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-241597/ (rafaelsamir)
 Necro Pirate - https://pixabay.com/illustrations/pirate-photoshop-manipulation-1827387/ (thommas68)
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
-Assassin - https://pixabay.com/photos/ninja-warrior-japan-assassin-sword-2007576/ (MichaelWuensch)
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
 Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
@@ -79,6 +72,7 @@ Ancient Golem - https://opengameart.org/content/golem-animations (irmirx) [CC-BY
 Annihilator - https://raw.githubusercontent.com/wtactics/art/master/WT/Dimensional%20Pocket/Dimensional%20Pocket.png (Santiago Iborra) [CC-BY-SA 4.0]
 Annoying Creatures - https://raw.githubusercontent.com/wtactics/art/master/WT/Living%20Card/Living%20Card.png (Santiago Iborra) [CC-BY-SA 4.0]
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
+Assassin - https://raw.githubusercontent.com/wtactics/art/master/WT/Vulture%20Assassin/Vulture%20Assassin.png (Santiago Iborra) [CC-BY-SA 4.0]
 Atlantis - https://raw.githubusercontent.com/wtactics/art/master/WT/Ar%20An%20Imeall/Ar%20An%20Imeall.png (Santiago Iborra) [CC-BY-SA 4.0]
 Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 BatteryBoy - https://openclipart.org/detail/203255/funny-wheeled-robot-game-character-superb-quality (lukeb)
@@ -105,7 +99,10 @@ CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Danse Macabre - https://openclipart.org/detail/235717/skeleton-playing-at-a-monster-ball (liftarn)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Dark%20Priest.jpg (RobinVdBroeck? / Unknown / Ancient Beast) [CC-BY-SA 4.0]
+Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
+Demon Shokan - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Vehemoth.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (Santiago Iborra) [CC-BY-SA 4.0]
+Devil's Trigger - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Abolished.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%20Of%20The%20Dice/Roll%20Of%20The%20Dice.png (Santiago Iborra) [CC-BY-SA 4.0]
 Disarm - K-Zet
 Doom Elemental - https://openclipart.org/detail/251729/atomic-mage (ginkgo)
@@ -138,6 +135,7 @@ Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelle
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%20Potion/Small%20Potion.png (Unrealsmoker) [CC-BY-SA 4.0]
+Healing Soul - https://openclipart.org/detail/125329/stylised-angel (Viscious-Speed)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (Santiago Iborra) [CC-BY-SA 4.0]
 Hydra - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra/Hydra.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
@@ -145,6 +143,7 @@ Jungle - https://openclipart.org/detail/82369/compositioncolor55 (waferd)
 Knight - https://openclipart.org/detail/133477/knight (tzunghaor)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Leafy Warrior - https://opengameart.org/content/leafman (BlackSwordo) [CC-BY 4.0]
+Legend of the Firebird - https://openclipart.org/detail/302508/sunset-phoenix-emblem (Falco276)
 Lord of Life and Death - https://openclipart.org/detail/317561/angel-of-death-silhouette (GDJ)
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
 Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%20Gear/Magical%20Gear.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -168,6 +167,7 @@ Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (
 Pandora's Box - https://openclipart.org/detail/196280/light-box (gustavorezende)
 Paw of Destruction - https://opengameart.org/content/painterly-spell-icons-part-3 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Phantom - https://openclipart.org/detail/193093/scary-ghost-trick-or-treating (Hector Gomez)
+Phoenix - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Volpyr.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Power Flower - https://opengameart.org/content/evil-sun-flower-plant-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
 Rain of Fire - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
@@ -187,6 +187,7 @@ Stone Golem - https://openclipart.org/detail/170870/stone-giant (tzunghaor)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
+Time Lord - https://openclipart.org/detail/327863/grim-reaper-and-man-colour (j4p4n)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
 Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
