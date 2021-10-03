@@ -12,16 +12,13 @@ Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head
 Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
 Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
-Cursed Box - https://pixabay.com/vectors/the-desert-wilderness-egypt-cloud-2591554/ (nashart), https://pixabay.com/vectors/treasure-chest-box-treasure-chest-575386/ (OpenClipart-Vectors)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
 Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
-Peaceful Bird - https://pixabay.com/photos/dove-freedom-bird-nature-animal-2680487/ (6248913)
 Stormy Weather - https://pixabay.com/photos/thunderstorm-lightning-storm-4234254/ (GB_photo)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Bad Bee - https://pixabay.com/illustrations/bee-angry-honeybee-unhappy-bees-5082390/ (RalfDesign)
 Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-2060671/ (shadoedz)
-God of the Sea - https://pixabay.com/photos/poseidon-sea-greek-mythology-1621062/ (intographics)
 Zombie - https://pixabay.com/illustrations/zombie-forest-rails-gleise-643461/ (SvenKirsch)
 Fire Sword - https://pixabay.com/vectors/sword-weapon-knight-warrior-4803276/ (DanXaw)
 Queen of Pain - https://pixabay.com/vectors/woman-face-makeup-female-portrait-4585956/ (prettysleepy1)
@@ -29,7 +26,6 @@ Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ 
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
 Whirlpool - https://pixabay.com/vectors/tornado-twister-angry-comic-310431/ (Clker-Free-Vector-Images), https://pixabay.com/photos/underwater-blue-ocean-sea-marine-802092/ (Free-Photos)
 Chinese Bat - https://pixabay.com/vectors/animals-bat-decoration-halloween-1298132/ (OpenClipart-Vectors), https://pixabay.com/vectors/mountains-sunset-mountain-dahl-950730/ (peritas)
-Rage - https://pixabay.com/illustrations/anger-angry-bad-isolated-dangerous-794699/ (geralt)
 Dark Knight - https://pixabay.com/photos/knight-middle-ages-armor-crusader-3002031/ (Yuri_B)
 Genomice - https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/ (tiburi)
 Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
@@ -62,7 +58,6 @@ Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-s
 Ninja Kaiten - https://pixabay.com/illustrations/animal-cat-grey-little-cute-funny-2564182/ (bcogwene)
 Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
 Toon Dinosaur - https://pixabay.com/vectors/dinosaur-cartoon-dragon-blue-3172048/ (Jhonatan_Perez)
-
 ________________________________________________________________________________________________________
 
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
@@ -95,6 +90,7 @@ Combat Mech - https://opengameart.org/content/robot-5 (piacenti) [CC-BY-SA 3.0]
 Confused Orc - https://raw.githubusercontent.com/wtactics/art/master/WT/Confused%20Orc/Confused%20Orc.png (Santiago Iborra) [CC-BY-SA 4.0]
 Control of the Elements - https://openclipart.org/detail/288542/the-harmony-of-lightning (ramnit)
 Cursed Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Erode/Erode.png (Unrealsmoker) [CC-BY-SA 4.0]
+Cursed Treasure - https://openclipart.org/detail/282139/treasure-chest-from-glitch (anarres), https://openclipart.org/detail/175287/landscape-egypt (gnokii)
 CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Danse Macabre - https://openclipart.org/detail/235717/skeleton-playing-at-a-monster-ball (liftarn)
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
@@ -102,6 +98,7 @@ Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Demon Shokan - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Vehemoth.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (Santiago Iborra) [CC-BY-SA 4.0]
+Desert Wolf - https://openclipart.org/detail/262058/desert-predator (kolbasun)
 Devil's Trigger - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Abolished.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%20Of%20The%20Dice/Roll%20Of%20The%20Dice.png (Santiago Iborra) [CC-BY-SA 4.0]
 Disarm - K-Zet
@@ -131,6 +128,7 @@ Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-station (gsagri04)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
+God of the Sea - https://raw.githubusercontent.com/wtactics/art/master/WT/Kelp%20Forest/Kelp%20Forest.png (Santiago Iborra) [CC-BY-SA 4.0]
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
@@ -166,10 +164,12 @@ Orc Shaman - https://raw.githubusercontent.com/wtactics/art/master/WT/Orc%20Sham
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
 Pandora's Box - https://openclipart.org/detail/196280/light-box (gustavorezende)
 Paw of Destruction - https://opengameart.org/content/painterly-spell-icons-part-3 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
+Peaceful Bird - https://openclipart.org/detail/331972/sunbird (philx)
 Phantom - https://openclipart.org/detail/193093/scary-ghost-trick-or-treating (Hector Gomez)
 Phoenix - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Volpyr.jpg (Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Power Flower - https://opengameart.org/content/evil-sun-flower-plant-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
+Rage - https://openclipart.org/detail/325982/bull-7 (oksmith)
 Rain of Fire - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Red Dragon - https://openclipart.org/detail/300888/red-dragon (Falco276)
 Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focus/Focus.png (Unrealsmoker) [CC-BY-SA 4.0]
