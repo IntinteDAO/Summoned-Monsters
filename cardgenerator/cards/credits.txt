@@ -7,16 +7,11 @@ Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-mang
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-687698/ (Alexas_Fotos)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Steroids - https://pixabay.com/illustrations/drug-bottle-drug-bottle-medicine-1674888/ (Memed_Nurrohmad)
-Gravity Modification - https://pixabay.com/illustrations/astronaut-space-travel-gravity-1390007/ (Comfreak)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
 Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
 Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
-Bad Bee - https://pixabay.com/illustrations/bee-angry-honeybee-unhappy-bees-5082390/ (RalfDesign)
-Shadow Core - https://pixabay.com/photos/toy-shillouete-smoke-mistery-dark-2060671/ (shadoedz)
-Zombie - https://pixabay.com/illustrations/zombie-forest-rails-gleise-643461/ (SvenKirsch)
 Queen of Pain - https://pixabay.com/vectors/woman-face-makeup-female-portrait-4585956/ (prettysleepy1)
 Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
@@ -33,7 +28,6 @@ Dragon Chains - https://pixabay.com/photos/dragon-head-face-eyes-shiny-large-966
 Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
 Chaining - https://pixabay.com/illustrations/fantasy-science-fiction-earth-4732736/ (mollyroselee)
-Light Beam - https://pixabay.com/photos/composing-man-fantasy-face-rays-3696596/ (analogicus)
 Curse - https://pixabay.com/photos/halloween-occult-1784570/ (Amber_Avalona)
 Metal Spider - https://pixabay.com/illustrations/spider-robot-arachnid-artificial-1615195/ (TheDigitalArtist), https://pixabay.com/photos/background-desktop-gradient-grey-1866485/ (Pexels)
 Angel of Justice - https://pixabay.com/illustrations/woman-angel-wings-character-sword-5590273/ (firaangella1)
@@ -41,9 +35,7 @@ Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-24159
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
 Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-3256109/ (creozavr)
-Offering - https://pixabay.com/photos/egypt-edfu-temple-engraving-3318551/ (DEZALB)
 Flaming Dart - https://pixabay.com/illustrations/dart-target-hit-bull-s-eye-1943313/ (MasterTux)
-Zombie Knight - https://pixabay.com/illustrations/knight-warrior-armor-battle-fight-3435033/ (Parker_West)
 Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
 Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-skulls-5670711/ (PatoLenin)
 Ninja Kaiten - https://pixabay.com/illustrations/animal-cat-grey-little-cute-funny-2564182/ (bcogwene)
@@ -61,6 +53,7 @@ Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
 Assassin - https://raw.githubusercontent.com/wtactics/art/master/WT/Vulture%20Assassin/Vulture%20Assassin.png (Santiago Iborra) [CC-BY-SA 4.0]
 Atlantis - https://raw.githubusercontent.com/wtactics/art/master/WT/Ar%20An%20Imeall/Ar%20An%20Imeall.png (Santiago Iborra) [CC-BY-SA 4.0]
 Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
+Bad Bee - https://openclipart.org/detail/294296/ong-to-vo (星球)
 BatteryBoy - https://openclipart.org/detail/203255/funny-wheeled-robot-game-character-superb-quality (lukeb)
 BattleSheeps - https://openclipart.org/detail/168585/knight-sheep (dodger2)
 Bear Paws - https://openclipart.org/detail/281029/paws (j4p4n)
@@ -124,6 +117,7 @@ Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-sta
 Genomice - https://openclipart.org/detail/215207/no-animal-testing (hartmut)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
 God of the Sea - https://raw.githubusercontent.com/wtactics/art/master/WT/Kelp%20Forest/Kelp%20Forest.png (Santiago Iborra) [CC-BY-SA 4.0]
+Gravity Modification - https://commons.m.wikimedia.org/wiki/File:This_visualization_shows_what_Einstein_envisioned.jpg (NASA)
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
@@ -137,6 +131,7 @@ Knight - https://openclipart.org/detail/133477/knight (tzunghaor)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Leafy Warrior - https://opengameart.org/content/leafman (BlackSwordo) [CC-BY 4.0]
 Legend of the Firebird - https://openclipart.org/detail/302508/sunset-phoenix-emblem (Falco276)
+Light Beam - https://opengameart.org/content/painterly-spell-icons-part-2 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Lord of Life and Death - https://openclipart.org/detail/317561/angel-of-death-silhouette (GDJ)
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
 Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%20Gear/Magical%20Gear.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -154,6 +149,7 @@ Necro Pirate - https://openclipart.org/detail/317724/pirate-skeleton (oksmith)
 Necromancer - https://openclipart.org/detail/20013/necromancer-chibi (Peileppe)
 Necronomicon - https://game-icons.net/1x1/lorc/evil-book.html (Lorc) [CC-BY 3.0]
 Nightmare - https://openclipart.org/detail/222248/Zombie-Hands-Remix (keriann3)
+Offering - https://openclipart.org/detail/269820/hand-offering-a-dagger (Benson Lossing)
 Open Arena - https://openclipart.org/detail/332064 (philx)
 Orc Berserker - https://raw.githubusercontent.com/wtactics/art/master/WT/Orc%20Battle%20Frenzy/Orc%20Battle%20Frenzy.png (Santiago Iborra) [CC-BY-SA 4.0]
 Orc Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Outmaneuvered/Outmaneuvered.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -175,8 +171,10 @@ Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-fr
 Rockbot - https://openclipart.org/detail/125863/robot (tzunghaor)
 Rope Trap - https://raw.githubusercontent.com/wtactics/art/master/WT/Rope%20Trap/Rope%20Trap.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
+Shadow Core - https://openclipart.org/detail/168171/replicante-10 (asrafil)
 Skeleton Warrior - https://opengameart.org/content/skeleton-animations (Irina Mir irmirx) [CC-BY 3.0]
 Small Hydras - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra%20Hatchling/Hydra%20Hatchling.png (Santiago Iborra) [CC-BY-SA 4.0]
+Steroids - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Stormy Weather - https://raw.githubusercontent.com/wtactics/art/master/WT/Siphon/Siphon.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
@@ -208,9 +206,12 @@ Vulkan - https://openclipart.org/detail/331775/vintage-volcano (j4p4n)
 Water Elemental - https://openclipart.org/detail/251724/water-mage-2 (ginkgo)
 Water Shield - https://raw.githubusercontent.com/wtactics/art/master/WT/Recycling%20Resources/Recycling%20Resources.png (Santiago Iborra) [CC-BY-SA 4.0]
 Werewolf - https://opengameart.org/content/werewolf (BlackSwordo) [CC-BY 4.0]
+Wild Knight - https://openclipart.org/detail/225456/the-knight-at-the-crossroads (GDJ)
 Wild Warg - https://raw.githubusercontent.com/wtactics/art/master/WT/Wild%20Warg/Wild%20Warg.png (Santiago Iborra) [CC-BY-SA 4.0]
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Miss%20Creeper.jpg (Velvetcat) [CC-BY-SA 4.0]
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
+Zombie #1 - https://openclipart.org/detail/265274/female-zombie (gameart2d.com)
+Zombie #2 - https://openclipart.org/detail/265273/male-zombie (gameart2d.com)
 Zombie Queen - https://openclipart.org/detail/178596/zombie-girl (AhNinniah)
