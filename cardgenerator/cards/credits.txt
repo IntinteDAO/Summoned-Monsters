@@ -9,17 +9,13 @@ Quantum Cage - https://pixabay.com/illustrations/bird-cage-cage-plant-flowers-68
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
-Terraform - https://pixabay.com/illustrations/nature-conservation-responsibility-480985/ (Mysticsartdesign)
-Sea Serpent - https://pixabay.com/illustrations/nessi-sea-serpent-watercolor-hole-6030872/ (Natrix66)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Queen of Pain - https://pixabay.com/vectors/woman-face-makeup-female-portrait-4585956/ (prettysleepy1)
 Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
 Chinese Bat - https://pixabay.com/vectors/animals-bat-decoration-halloween-1298132/ (OpenClipart-Vectors), https://pixabay.com/vectors/mountains-sunset-mountain-dahl-950730/ (peritas)
-Dark Knight - https://pixabay.com/photos/knight-middle-ages-armor-crusader-3002031/ (Yuri_B)
 Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
-Silencer - https://pixabay.com/photos/silence-concealment-fantasy-3009481/ (Inactive_account_ID_249)
 Silence - https://pixabay.com/illustrations/caricature-painting-silence-mouth-5123999/ (Cdd20)
 Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
 Evaporate - https://pixabay.com/illustrations/fairy-tales-dissolution-sadness-4057427/ (Cdd20)
@@ -38,7 +34,6 @@ Trap Restorer - https://pixabay.com/vectors/robot-disassembled-blue-lightbulb-32
 Flaming Dart - https://pixabay.com/illustrations/dart-target-hit-bull-s-eye-1943313/ (MasterTux)
 Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
 Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-skulls-5670711/ (PatoLenin)
-Ninja Kaiten - https://pixabay.com/illustrations/animal-cat-grey-little-cute-funny-2564182/ (bcogwene)
 Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
 Toon Dinosaur - https://pixabay.com/vectors/dinosaur-cartoon-dragon-blue-3172048/ (Jhonatan_Perez)
 ________________________________________________________________________________________________________
@@ -78,6 +73,7 @@ Cursed Treasure - https://openclipart.org/detail/282139/treasure-chest-from-glit
 CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Cyclone - https://raw.githubusercontent.com/wtactics/art/master/WT/Whirlwind/Whirlwind.png (Santiago Iborra) [CC-BY-SA 4.0]
 Danse Macabre - https://openclipart.org/detail/235717/skeleton-playing-at-a-monster-ball (liftarn)
+Dark Alchemist - https://opengameart.org/content/dark-alchemyst (killyoverdrive) [CC-BY-SA 3.0]
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Dark%20Priest.jpg (RobinVdBroeck? / Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Undeadkitty13) [CC-BY-SA 4.0]
@@ -171,11 +167,14 @@ Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-fr
 Rockbot - https://openclipart.org/detail/125863/robot (tzunghaor)
 Rope Trap - https://raw.githubusercontent.com/wtactics/art/master/WT/Rope%20Trap/Rope%20Trap.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
+Sea Serpent - https://openclipart.org/detail/91717/nessy (TomBrough)
 Shadow Core - https://openclipart.org/detail/168171/replicante-10 (asrafil)
+Silencer - https://opengameart.org/content/js-actor-brynhildr (JosephSeraph) [CC-BY 3.0]
 Skeleton Warrior - https://opengameart.org/content/skeleton-animations (Irina Mir irmirx) [CC-BY 3.0]
 Small Hydras - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra%20Hatchling/Hydra%20Hatchling.png (Santiago Iborra) [CC-BY-SA 4.0]
 Steroids - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Stormy Weather - https://raw.githubusercontent.com/wtactics/art/master/WT/Siphon/Siphon.png (Santiago Iborra) [CC-BY-SA 4.0]
+Spacemon - https://openclipart.org/detail/237881/space (dsa86)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
 Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
@@ -186,12 +185,14 @@ Stone Golem - https://openclipart.org/detail/170870/stone-giant (tzunghaor)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
 Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
+Terraform - https://openclipart.org/detail/259092/tiny-tree-planet (Tibor Kisantal)
 Time Lord - https://openclipart.org/detail/327863/grim-reaper-and-man-colour (j4p4n)
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
 Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
 Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
+Toon Cat - https://openclipart.org/detail/332016/color-cute-animals (marcodiego)
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Toon Story - https://raw.githubusercontent.com/wtactics/art/master/WT/Books/Books.png (Unrealsmoker) [CC-BY-SA 4.0]
