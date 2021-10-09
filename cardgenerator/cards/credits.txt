@@ -1,25 +1,19 @@
 Tears of the Godness - https://pixabay.com/photos/flower-macro-forget-drip-water-2197679/ (EvgeniT)
 The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-crossbones-401222/ (8385)
-Combat Turtle - https://pixabay.com/illustrations/the-background-wallpaper-the-bubbles-2836575/ (Crissa), https://pixabay.com/illustrations/blastoise-water-waterfall-pencil-1575680/ (claytonstrindade), colored by K-Zet
 Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
-Disintegrate - https://pixabay.com/illustrations/samurai-disintegrate-ninja-manga-4709334/ (gumiyasato)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
 Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
-Spell Shard - https://pixabay.com/photos/glass-shard-color-texture-splitter-5426695/ (Portraitor)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
-Enlightenemnt - https://pixabay.com/photos/hands-received-on-light-4153292/ (geralt)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
-Silence - https://pixabay.com/illustrations/caricature-painting-silence-mouth-5123999/ (Cdd20)
 Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
 Evaporate - https://pixabay.com/illustrations/fairy-tales-dissolution-sadness-4057427/ (Cdd20)
 Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystical-4423131/ (Willgard)
 Dragon Chains - https://pixabay.com/photos/dragon-head-face-eyes-shiny-large-966970/ (sandid)
 Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
-Chaining - https://pixabay.com/illustrations/fantasy-science-fiction-earth-4732736/ (mollyroselee)
 Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-241597/ (rafaelsamir)
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
 Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
@@ -36,6 +30,7 @@ Angel of Justice - https://openclipart.org/detail/25223/angel (GusEinstein)
 Annihilator - https://raw.githubusercontent.com/wtactics/art/master/WT/Dimensional%20Pocket/Dimensional%20Pocket.png (Santiago Iborra) [CC-BY-SA 4.0]
 Annoying Creatures - https://raw.githubusercontent.com/wtactics/art/master/WT/Living%20Card/Living%20Card.png (Santiago Iborra) [CC-BY-SA 4.0]
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
+Armored Dwarf - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Living%20Armor.jpg (Gabriel Verdon) [CC-BY-SA 4.0]
 Assassin - https://raw.githubusercontent.com/wtactics/art/master/WT/Vulture%20Assassin/Vulture%20Assassin.png (Santiago Iborra) [CC-BY-SA 4.0]
 Atlantis - https://raw.githubusercontent.com/wtactics/art/master/WT/Ar%20An%20Imeall/Ar%20An%20Imeall.png (Santiago Iborra) [CC-BY-SA 4.0]
 Attack Reversal - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
@@ -51,6 +46,7 @@ Black Mirror - https://github.com/wtactics/art/blob/master/WT/Scrying%20Mirror/S
 Blacksmith - https://raw.githubusercontent.com/wtactics/art/master/WT/Smith/Smith.png (Santiago Iborra) [CC-BY-SA 4.0]
 Blessing - https://raw.githubusercontent.com/wtactics/art/master/WT/Shapeshift/Shapeshift.png (Santiago Iborra) [CC-BY-SA 4.0]
 Botanic Block - https://raw.githubusercontent.com/wtactics/art/master/WT/Botanic%20Block/Botanic%20Block.png (Santiago Iborra) [CC-BY-SA 4.0]
+Capture - https://raw.githubusercontent.com/wtactics/art/master/WT/Capture/Capture.png (Santiago Iborra) [CC-BY-SA 4.0]
 Cartoon Knight - https://openclipart.org/detail/299180/cartoon-boy-wielding-sword (Falco276)
 Centaur Hunter - https://raw.githubusercontent.com/wtactics/art/master/WT/Centaur%20Hunter/Centaur%20Hunter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Chameleon - https://openclipart.org/detail/326632/guanineleon (revzack)
@@ -58,6 +54,7 @@ Change Target - https://openclipart.org/detail/203157/just-another-radar-screen 
 Clone Machine - https://openclipart.org/detail/322329/cloning-system (j4p4n)
 Collapse - https://github.com/wtactics/art/tree/master/WT/Crumbling%20Tower (Santiago Iborra) [CC-BY-SA 4.0]
 Combat Mech - https://opengameart.org/content/robot-5 (piacenti) [CC-BY-SA 3.0]
+Combat Turtle - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Rider/Merfolk%20Rider.png (Santiago Iborra, Fervi) [CC-BY-SA 4.0]
 Confused Orc - https://raw.githubusercontent.com/wtactics/art/master/WT/Confused%20Orc/Confused%20Orc.png (Santiago Iborra) [CC-BY-SA 4.0]
 Control of the Elements - https://openclipart.org/detail/288542/the-harmony-of-lightning (ramnit)
 Curse - https://game-icons.net/1x1/lorc/death-note.html (Lorc) [CC-BY 3.0]
@@ -76,6 +73,7 @@ Desert Wolf - https://openclipart.org/detail/262058/desert-predator (kolbasun)
 Devil's Trigger - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Abolished.jpg (Ashirox) [CC-BY-SA 4.0]
 Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%20Of%20The%20Dice/Roll%20Of%20The%20Dice.png (Santiago Iborra) [CC-BY-SA 4.0]
 Disarm - K-Zet
+Disintegrate - https://game-icons.net/1x1/lorc/disintegrate.html (Lorc) [CC-BY 3.0]
 Doom Elemental - https://openclipart.org/detail/251729/atomic-mage (ginkgo)
 Dragon Slayer - https://openclipart.org/detail/331823/coat-of-arms-of-the-kyiv-region (Ukraine)
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
@@ -86,12 +84,13 @@ Earthquake - https://openclipart.org/detail/250253/city-after-earthquake (Juhele
 Elven Archer - https://openclipart.org/detail/162493/elven-archer (tzunghaor)
 Elven Ballista - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Ballista/Elven%20Ballista.png (Santiago Iborra) [CC-BY-SA 4.0]
 Elven Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Sword/Elven%20Sword.png (Unrealsmoker) [CC-BY-SA 4.0]
+Enlightenment - https://game-icons.net/1x1/lorc/enlightenment.html (Lorc) [CC-BY 3.0]
 Eternal Protection - https://raw.githubusercontent.com/wtactics/art/master/WT/Demolish/Demolish.png (Santiago Iborra) [CC-BY-SA 4.0]
 Evolutionary Pressure - https://openclipart.org/detail/12755/evolution-steps (Anonymous)
 Exchange - https://openclipart.org/detail/227738/african-commerce (James Greenwood)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
 Explosion - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
-Explosive Bomb - https://pixabay.com/vectors/bomb-cartoon-cherry-enemy-evil-1294261/ (OpenClipart-Vectors)
+Explosive Bomb - https://openclipart.org/detail/210733/cartoon-cherry-bomb-enemy-remix (monsterbraingames)
 Eye of Horus - https://openclipart.org/detail/285101/eye-of-horus-ojo-de-horus (laftello)
 Fencer Mouse - https://openclipart.org/detail/255824/mouse-fencer (kolbasun)
 Final Elemental - https://openclipart.org/detail/251721/dark-mage-2 (ginkgo)
@@ -99,7 +98,7 @@ Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
 Fire Mage - https://raw.githubusercontent.com/wtactics/art/master/WT/Female%20Fire%20Mage/Female%20Fire%20Mage.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fire Sword - https://opengameart.org/content/3d-infernal-sword (Cethiel)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
-Forge - https://pixabay.com/vectors/shield-axe-sword-crest-armor-33957/ (Clker-Free-Vector-Images)
+Forge - https://openclipart.org/detail/170970/swordshield (yoshihiro)
 Fortress - https://raw.githubusercontent.com/wtactics/art/master/WT/Siege/Siege.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture/Sand%20Sculpture.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -135,6 +134,7 @@ Monster of the Deep - https://openclipart.org/detail/329135/cthulhu-loves-you (B
 Monster Plant - https://openclipart.org/detail/201885/monster-plant-green-biteme (Kliponius)
 Mountains - http://www.clker.com/clipart-15852.html (OCAL)
 Mushroom - https://opengameart.org/content/mushroom-game-character-for-background-object-or-enemy (bevouliin.com) [CC-BY 4.0]
+Mystical Mermaid - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Female%20Noble/Merfolk%20Female%20Noble.png (Santiago Iborra) [CC-BY-SA 4.0]
 Necro Pirate - https://openclipart.org/detail/317724/pirate-skeleton (oksmith)
 Necromancer - https://openclipart.org/detail/20013/necromancer-chibi (Peileppe)
 Necronomicon - https://game-icons.net/1x1/lorc/evil-book.html (Lorc) [CC-BY 3.0]
@@ -165,6 +165,7 @@ Rope Trap - https://raw.githubusercontent.com/wtactics/art/master/WT/Rope%20Trap
 Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
 Sea Serpent - https://openclipart.org/detail/91717/nessy (TomBrough)
 Shadow Core - https://openclipart.org/detail/168171/replicante-10 (asrafil)
+Silence - https://game-icons.net/1x1/delapouite/silenced.html (Delapouite) [CC-BY 3.0]
 Silencer - https://opengameart.org/content/js-actor-brynhildr (JosephSeraph) [CC-BY 3.0]
 Skeleton Warrior - https://opengameart.org/content/skeleton-animations (Irina Mir irmirx) [CC-BY 3.0]
 Small Hydras - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra%20Hatchling/Hydra%20Hatchling.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -173,6 +174,7 @@ Stormy Weather - https://raw.githubusercontent.com/wtactics/art/master/WT/Siphon
 Spacemon - https://openclipart.org/detail/237881/space (dsa86)
 Spearman - https://github.com/wtactics/art/raw/master/WT/Spearman/Spearman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spell Detector - https://openclipart.org/detail/193905/green-googlyeye-bird (ruthirsty)
+Spell Shard - https://game-icons.net/1x1/delapouite/prism.html (Delapouite) [CC-BY 3.0]
 Spider's Web - https://openclipart.org/detail/269631/spider-red (Greg.M)
 Spellbreaker - https://raw.githubusercontent.com/wtactics/art/master/WT/Guard/Guard.png (Unrealsmoker) [CC-BY-SA 4.0]
 Spy - https://game-icons.net/1x1/delapouite/spy.html (Delapouite) [CC-BY 3.0]
@@ -198,7 +200,7 @@ Toxic Shroom - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/maste
 Trap Restorer - https://openclipart.org/detail/272144/robo-tim-mau-43 (星球)
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
-Turtle Cannon - https://pixabay.com/vectors/background-blue-clouds-grass-rain-1293786/ (OpenClipart-Vectors)
+Turtle Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Rider/Merfolk%20Rider.png (Santiago Iborra) [CC-BY-SA 4.0]
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (Santiago Iborra) [CC-BY-SA 4.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Viper - https://openclipart.org/detail/319418/cobra-snake (liftarn)
