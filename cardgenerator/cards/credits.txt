@@ -3,20 +3,15 @@ The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-cro
 Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Magical Rituals - https://pixabay.com/vectors/cauldron-witches-potion-witchcraft-5524900/ (squarefrog)
 Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
 Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
 Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
-Evaporate - https://pixabay.com/illustrations/fairy-tales-dissolution-sadness-4057427/ (Cdd20)
 Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystical-4423131/ (Willgard)
-Dragon Chains - https://pixabay.com/photos/dragon-head-face-eyes-shiny-large-966970/ (sandid)
-Snowstorm - https://pixabay.com/vectors/snow-scene-trees-isolated-cold-1848346/ (Wild0ne)
 Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
 Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-241597/ (rafaelsamir)
 Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
-Dark Dagger - https://pixabay.com/illustrations/sword-scale-weapon-middle-ages-3144759/ (Torulus)
 Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
 Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-skulls-5670711/ (PatoLenin)
 Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
@@ -29,6 +24,7 @@ Ancient Golem - https://opengameart.org/content/golem-animations (irmirx) [CC-BY
 Angel of Justice - https://openclipart.org/detail/25223/angel (GusEinstein)
 Annihilator - https://raw.githubusercontent.com/wtactics/art/master/WT/Dimensional%20Pocket/Dimensional%20Pocket.png (Santiago Iborra) [CC-BY-SA 4.0]
 Annoying Creatures - https://raw.githubusercontent.com/wtactics/art/master/WT/Living%20Card/Living%20Card.png (Santiago Iborra) [CC-BY-SA 4.0]
+Anti-Spell Vortex - https://openclipart.org/detail/201757/mysterious-swirling-vortex (anarres)
 Armored CyberImp - https://openclipart.org/detail/226371/cyber-imp-v5 (kolbasun)
 Armored Dwarf - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Living%20Armor.jpg (Gabriel Verdon) [CC-BY-SA 4.0]
 Assassin - https://raw.githubusercontent.com/wtactics/art/master/WT/Vulture%20Assassin/Vulture%20Assassin.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -64,6 +60,7 @@ CyberImp - https://openclipart.org/detail/226367/cyber-imp-v1 (kolbasun)
 Cyclone - https://raw.githubusercontent.com/wtactics/art/master/WT/Whirlwind/Whirlwind.png (Santiago Iborra) [CC-BY-SA 4.0]
 Danse Macabre - https://openclipart.org/detail/235717/skeleton-playing-at-a-monster-ball (liftarn)
 Dark Alchemist - https://opengameart.org/content/dark-alchemyst (killyoverdrive) [CC-BY-SA 3.0]
+Dark Dagger - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Dark%20Priest.jpg (RobinVdBroeck? / Unknown / Ancient Beast) [CC-BY-SA 4.0]
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Undeadkitty13) [CC-BY-SA 4.0]
@@ -75,6 +72,7 @@ Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%
 Disarm - K-Zet
 Disintegrate - https://game-icons.net/1x1/lorc/disintegrate.html (Lorc) [CC-BY 3.0]
 Doom Elemental - https://openclipart.org/detail/251729/atomic-mage (ginkgo)
+Dragon Imprisonment - https://openclipart.org/detail/300105/dragon-filtered (Lazur URH)
 Dragon Slayer - https://openclipart.org/detail/331823/coat-of-arms-of-the-kyiv-region (Ukraine)
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -86,6 +84,7 @@ Elven Ballista - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%
 Elven Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Sword/Elven%20Sword.png (Unrealsmoker) [CC-BY-SA 4.0]
 Enlightenment - https://game-icons.net/1x1/lorc/enlightenment.html (Lorc) [CC-BY 3.0]
 Eternal Protection - https://raw.githubusercontent.com/wtactics/art/master/WT/Demolish/Demolish.png (Santiago Iborra) [CC-BY-SA 4.0]
+Evaporate - https://opengameart.org/content/painterly-spell-icons-part-1 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Evolutionary Pressure - https://openclipart.org/detail/12755/evolution-steps (Anonymous)
 Exchange - https://openclipart.org/detail/227738/african-commerce (James Greenwood)
 Exploding Cards - https://pixabay.com/vectors/explosion-detonation-boom-bomb-417894/ (OpenClipart-Vectors)
@@ -106,6 +105,7 @@ Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-sta
 Genomice - https://openclipart.org/detail/215207/no-animal-testing (hartmut)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
 God of the Sea - https://raw.githubusercontent.com/wtactics/art/master/WT/Kelp%20Forest/Kelp%20Forest.png (Santiago Iborra) [CC-BY-SA 4.0]
+Golden Wyrm - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Golden%20Wyrm.jpg (Ashirox) [CC-BY-SA 4.0]
 Gravity Modification - https://commons.m.wikimedia.org/wiki/File:This_visualization_shows_what_Einstein_envisioned.jpg (NASA)
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
@@ -124,6 +124,7 @@ Light Beam - https://opengameart.org/content/painterly-spell-icons-part-2 (J. W.
 Lord of Life and Death - https://openclipart.org/detail/317561/angel-of-death-silhouette (GDJ)
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
 Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%20Gear/Magical%20Gear.png (Santiago Iborra) [CC-BY-SA 4.0]
+Mana Energy Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Potion%20Botttle/Potion%20Botttle.png (Unrealsmoker) [CC-BY-SA 4.0]
 Man-Eater Plant - https://opengameart.org/content/man-eating-plant-animation-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Medic - https://raw.githubusercontent.com/wtactics/art/master/WT/Second%20Sons%20Army%20Camp/Second%20Sons%20Army%20Camp.png (Santiago Iborra) [CC-BY-SA 4.0]
 Metal Man-Eater Plant - https://opengameart.org/content/shadow-man-eating-plant-sprites (bevouliin.com) [CC-BY 4.0]
