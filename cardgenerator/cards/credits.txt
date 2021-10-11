@@ -1,20 +1,11 @@
 Tears of the Godness - https://pixabay.com/photos/flower-macro-forget-drip-water-2197679/ (EvgeniT)
-The Final Punishment - https://pixabay.com/illustrations/mortality-skull-and-crossbones-401222/ (8385)
-Darkness - https://pixabay.com/illustrations/moon-star-night-dream-landscape-4606246/ (kinkate)
 Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
 Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Herd Beasts - https://pixabay.com/illustrations/feature-three-three-animal-nature-3098749/ (Martina_Bulkova)
 Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
 Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
-Parasite - https://pixabay.com/illustrations/larva-lice-insect-parasite-1196506/ (olivierlevoux)
 Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
 Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystical-4423131/ (Willgard)
-Saber - https://pixabay.com/photos/woman-knight-warrior-armor-chess-3268168/ (StudioX10)
-Trident - https://pixabay.com/photos/universal-studios-island-of-adventure-241597/ (rafaelsamir)
-Punishment - https://pixabay.com/photos/gallows-knitting-hang-2631544/ (kalhh)
-Unforgiving Spell - https://pixabay.com/photos/skull-hand-dead-human-grunge-1815619/ (brenkee)
 Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-skulls-5670711/ (PatoLenin)
-Toon Gorilla - https://pixabay.com/illustrations/wallpaper-monkey-little-robot-cute-2659883/ (bcogwene)
 ________________________________________________________________________________________________________
 
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
@@ -63,6 +54,7 @@ Dark Alchemist - https://opengameart.org/content/dark-alchemyst (killyoverdrive)
 Dark Dagger - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Dark%20Priest.jpg (RobinVdBroeck? / Unknown / Ancient Beast) [CC-BY-SA 4.0]
+Dark World - https://raw.githubusercontent.com/wtactics/art/master/WT/Nirvana%20Of%20The%20Undead/Nirvana%20Of%20The%20Undead.png (Santiago Iborra) [CC-BY-SA 4.0]
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Undeadkitty13) [CC-BY-SA 4.0]
 Demon Shokan - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Vehemoth.jpg (Katarzyna Zalecka) [CC-BY-SA 4.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -104,6 +96,7 @@ Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture
 Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-station (gsagri04)
 Genomice - https://openclipart.org/detail/215207/no-animal-testing (hartmut)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
+Goblin - https://raw.githubusercontent.com/wtactics/art/master/WT/Goblin%20Against%20The%20Wind/Goblin%20Against%20The%20Wind.png (Santiago Iborra) [CC-BY-SA 4.0]
 God of the Sea - https://raw.githubusercontent.com/wtactics/art/master/WT/Kelp%20Forest/Kelp%20Forest.png (Santiago Iborra) [CC-BY-SA 4.0]
 Golden Wyrm - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Golden%20Wyrm.jpg (Ashirox) [CC-BY-SA 4.0]
 Gravity Modification - https://commons.m.wikimedia.org/wiki/File:This_visualization_shows_what_Einstein_envisioned.jpg (NASA)
@@ -112,6 +105,7 @@ Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco2
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%20Potion/Small%20Potion.png (Unrealsmoker) [CC-BY-SA 4.0]
 Healing Soul - https://openclipart.org/detail/125329/stylised-angel (Viscious-Speed)
+Hellhound - https://openclipart.org/detail/177730/la-criatura-de-la-oscuridad (deiby_ybied)
 Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/Horn.png (Santiago Iborra) [CC-BY-SA 4.0]
 Hydra - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra/Hydra.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
@@ -148,12 +142,14 @@ Orc Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Outmaneuver
 Orc Shaman - https://raw.githubusercontent.com/wtactics/art/master/WT/Orc%20Shaman/Orc%20Shaman.png (Santiago Iborra) [CC-BY-SA 4.0]
 Overspeed - https://pixabay.com/photos/speed-car-limit-danger-gas-auto-164063/ (PublicDomainPictures)
 Pandora's Box - https://openclipart.org/detail/196280/light-box (gustavorezende)
+Parasite - https://game-icons.net/1x1/lorc/mite.html (Lorc) [CC-BY 3.0]
 Paw of Destruction - https://opengameart.org/content/painterly-spell-icons-part-3 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Peaceful Bird - https://openclipart.org/detail/331972/sunbird (philx)
 Phantom - https://openclipart.org/detail/193093/scary-ghost-trick-or-treating (Hector Gomez)
 Phoenix - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Volpyr.jpg (Katarzyna Zalecka, Onirke) [CC-BY-SA 4.0]
 Power Flower - https://opengameart.org/content/evil-sun-flower-plant-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Protection - https://raw.githubusercontent.com/wtactics/art/master/WT/Eternal%20Protection/Eternal%20Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
+Punishment - https://game-icons.net/1x1/lorc/gibbet.html (Lorc) [CC-BY 3.0]
 Queen of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Protection/Protection.png (Unrealsmoker) [CC-BY-SA 4.0]
 Queen of Pain - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Gilded%20Maiden.jpg (Gabriel Verdon) [CC-BY-SA 4.0]
 Rage - https://openclipart.org/detail/325982/bull-7 (oksmith)
@@ -163,6 +159,7 @@ Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focu
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
 Rockbot - https://openclipart.org/detail/125863/robot (tzunghaor)
 Rope Trap - https://raw.githubusercontent.com/wtactics/art/master/WT/Rope%20Trap/Rope%20Trap.png (Santiago Iborra) [CC-BY-SA 4.0]
+Saber - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Female%20Fighter/Human%20Female%20Fighter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
 Sea Serpent - https://openclipart.org/detail/91717/nessy (TomBrough)
 Shadow Core - https://openclipart.org/detail/168171/replicante-10 (asrafil)
@@ -187,12 +184,14 @@ Swanport - https://raw.githubusercontent.com/wtactics/art/master/WT/Swanport/Swa
 Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
 Terraform - https://openclipart.org/detail/259092/tiny-tree-planet (Tibor Kisantal)
 Time Lord - https://openclipart.org/detail/327863/grim-reaper-and-man-colour (j4p4n)
+The Final Punishment - https://opengameart.org/content/painterly-spell-icons-part-3 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 The Hibernation Machine - https://openclipart.org/detail/299294/teleport-person (j4p4n)
 The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-gen (isacvale)
 Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
 Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
 Toon Cat - https://openclipart.org/detail/332016/color-cute-animals (marcodiego)
+Toon Dragon - https://openclipart.org/detail/326727/asian-dragon-cartoon (j4p4n)
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Kaiju - https://openclipart.org/detail/32905/clozilla-emerging-from-sea (rg1024)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
@@ -200,9 +199,11 @@ Toon Story - https://raw.githubusercontent.com/wtactics/art/master/WT/Books/Book
 Toxic Shroom - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Toxic%20Shroom.jpg (Katarzyna Zalecka) [CC-BY-SA 4.0]
 Trap Restorer - https://openclipart.org/detail/272144/robo-tim-mau-43 (星球)
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
+Trident - https://openclipart.org/detail/126943/trishulathree-spear (gsagri04)
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
 Turtle Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Rider/Merfolk%20Rider.png (Santiago Iborra) [CC-BY-SA 4.0]
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (Santiago Iborra) [CC-BY-SA 4.0]
+Unforgiving Spell - https://game-icons.net/1x1/lorc/skull-bolt.html (Lorc) [CC-BY 3.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
 Viper - https://openclipart.org/detail/319418/cobra-snake (liftarn)
 Virus - https://openclipart.org/detail/23998/virus (Andreas Nilsson)
