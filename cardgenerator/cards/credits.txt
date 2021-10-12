@@ -1,13 +1,3 @@
-Tears of the Godness - https://pixabay.com/photos/flower-macro-forget-drip-water-2197679/ (EvgeniT)
-Obliterate - https://pixabay.com/photos/volcano-volcanic-meteor-comet-3456578/ (Heather_Ann)
-Dazzling Light - https://pixabay.com/illustrations/man-silhouette-explosion-head-hand-5930658/ (geralt)
-Dark Ritual - https://pixabay.com/photos/the-witch-forest-summon-ritual-749678/ (Comfreak)
-Mecha Mosquito - https://pixabay.com/illustrations/mosquitoes-hexagon-mosquito-5837702/ (flutie8211)
-Scary Face - https://pixabay.com/photos/day-of-the-dead-costume-makeup-1868836/ (Pexels)
-Dragon's Mage - https://pixabay.com/illustrations/fantasy-magician-magic-mystical-4423131/ (Willgard)
-Monster Slayer - https://pixabay.com/illustrations/woman-sword-skeletons-bones-skulls-5670711/ (PatoLenin)
-________________________________________________________________________________________________________
-
 A World of Darkness - https://openclipart.org/detail/169997/pentagramme-taches-vertes (mathafix)
 A World of the Dead - https://openclipart.org/detail/169996/pentagramme-taches-rouges (mathafix)
 Air Elemental - https://openclipart.org/detail/251521/wind-mage (ginkgo)
@@ -54,6 +44,7 @@ Dark Alchemist - https://opengameart.org/content/dark-alchemyst (killyoverdrive)
 Dark Dagger - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Dark Paladin - https://opengameart.org/content/blue-knight-templar (killyoverdrive) [CC-BY-SA 3.0]
 Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Dark%20Priest.jpg (RobinVdBroeck? / Unknown / Ancient Beast) [CC-BY-SA 4.0]
+Dark Ritual - https://game-icons.net/1x1/lorc/cut-palm.html (Lord) [CC-BY 3.0]
 Dark World - https://raw.githubusercontent.com/wtactics/art/master/WT/Nirvana%20Of%20The%20Undead/Nirvana%20Of%20The%20Undead.png (Santiago Iborra) [CC-BY-SA 4.0]
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Undeadkitty13) [CC-BY-SA 4.0]
 Demon Shokan - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Vehemoth.jpg (Katarzyna Zalecka) [CC-BY-SA 4.0]
@@ -63,10 +54,12 @@ Devil's Trigger - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/ma
 Dice of Destiny - https://raw.githubusercontent.com/wtactics/art/master/WT/Roll%20Of%20The%20Dice/Roll%20Of%20The%20Dice.png (Santiago Iborra) [CC-BY-SA 4.0]
 Disarm - K-Zet
 Disintegrate - https://game-icons.net/1x1/lorc/disintegrate.html (Lorc) [CC-BY 3.0]
+Divine Support - https://game-icons.net/1x1/lorc/fairy.html (Lorc) [CC-BY 3.0]
 Doom Elemental - https://openclipart.org/detail/251729/atomic-mage (ginkgo)
 Dragon Imprisonment - https://openclipart.org/detail/300105/dragon-filtered (Lazur URH)
 Dragon Slayer - https://openclipart.org/detail/331823/coat-of-arms-of-the-kyiv-region (Ukraine)
 Dragon's Lance - https://openclipart.org/detail/248577/polearm-2 (Firkin)
+Dragon Whisperer - https://raw.githubusercontent.com/wtactics/art/master/WT/Serenity/Serenity.png (Unrealsmoker) [CC-BY-SA 4.0]
 Dryads Flute - https://raw.githubusercontent.com/wtactics/art/master/WT/Dryads%20Flute/Dryads%20Flute.png (Santiago Iborra) [CC-BY-SA 4.0]
 Dwarf Soldier - https://openclipart.org/detail/158563/dwarf-warrior (tzunghaor)
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
@@ -110,15 +103,18 @@ Horn of Dragon Summoning - https://github.com/wtactics/art/blob/master/WT/Horn/H
 Hydra - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra/Hydra.png (Santiago Iborra) [CC-BY-SA 4.0]
 Ice Age - https://openclipart.org/detail/190523/february-calendar-page-its-so-cold (Moini)
 Jungle - https://openclipart.org/detail/82369/compositioncolor55 (waferd)
+K-9 - https://openclipart.org/detail/1667/robot-dog (johnny_automatic)
 Knight - https://openclipart.org/detail/133477/knight (tzunghaor)
 Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) [CC-BY 3.0]
 Leafy Warrior - https://opengameart.org/content/leafman (BlackSwordo) [CC-BY 4.0]
 Legend of the Firebird - https://openclipart.org/detail/302508/sunset-phoenix-emblem (Falco276)
 Light Beam - https://opengameart.org/content/painterly-spell-icons-part-2 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Lord of Life and Death - https://openclipart.org/detail/317561/angel-of-death-silhouette (GDJ)
+Lowering of Arms - https://game-icons.net/1x1/delapouite/tower-flag.html (Delapouite) [CC-BY 3.0]
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
 Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%20Gear/Magical%20Gear.png (Santiago Iborra) [CC-BY-SA 4.0]
 Mana Energy Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Potion%20Botttle/Potion%20Botttle.png (Unrealsmoker) [CC-BY-SA 4.0]
+Mangler - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Mangler.jpg (shiroikuro) [CC-BY-SA 4.0]
 Man-Eater Plant - https://opengameart.org/content/man-eating-plant-animation-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
 Medic - https://raw.githubusercontent.com/wtactics/art/master/WT/Second%20Sons%20Army%20Camp/Second%20Sons%20Army%20Camp.png (Santiago Iborra) [CC-BY-SA 4.0]
 Metal Man-Eater Plant - https://opengameart.org/content/shadow-man-eating-plant-sprites (bevouliin.com) [CC-BY 4.0]
@@ -127,6 +123,7 @@ Mjolnir - https://openclipart.org/detail/140569/mjolnir-thors-hammer (algotrunem
 Monster Devourer - https://raw.githubusercontent.com/wtactics/art/master/WT/Dark%20Mana%20Breather/Dark%20Mana%20Breather.png (Santiago Iborra) [CC-BY-SA 4.0]
 Monster of the Deep - https://openclipart.org/detail/329135/cthulhu-loves-you (BLASTFEMI)
 Monster Plant - https://openclipart.org/detail/201885/monster-plant-green-biteme (Kliponius)
+Monster Slayer - https://openclipart.org/detail/10105/koszalin-coat-of-arms (Koszalin, Bastianow, warszawianka)
 Mountains - http://www.clker.com/clipart-15852.html (OCAL)
 Mushroom - https://opengameart.org/content/mushroom-game-character-for-background-object-or-enemy (bevouliin.com) [CC-BY 4.0]
 Mystical Mermaid - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Female%20Noble/Merfolk%20Female%20Noble.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -135,6 +132,7 @@ Necromancer - https://openclipart.org/detail/20013/necromancer-chibi (Peileppe)
 Necronomicon - https://game-icons.net/1x1/lorc/evil-book.html (Lorc) [CC-BY 3.0]
 Nightmare - https://openclipart.org/detail/222248/Zombie-Hands-Remix (keriann3)
 Ninja Spiders - https://openclipart.org/detail/269852/ninja-spiders (Greg.M)
+Obliterate - https://openclipart.org/detail/83101/mushroom-cloud (dasnolojy)
 Offering - https://openclipart.org/detail/269820/hand-offering-a-dagger (Benson Lossing)
 Open Arena - https://openclipart.org/detail/332064 (philx)
 Orc Berserker - https://raw.githubusercontent.com/wtactics/art/master/WT/Orc%20Battle%20Frenzy/Orc%20Battle%20Frenzy.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -161,6 +159,7 @@ Rockbot - https://openclipart.org/detail/125863/robot (tzunghaor)
 Rope Trap - https://raw.githubusercontent.com/wtactics/art/master/WT/Rope%20Trap/Rope%20Trap.png (Santiago Iborra) [CC-BY-SA 4.0]
 Saber - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Female%20Fighter/Human%20Female%20Fighter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sacrifice - https://openclipart.org/detail/268526/aztec-ritual (j4p4n)
+Scary Face - https://openclipart.org/detail/87427/halloween-ghost (inky2010)
 Sea Serpent - https://openclipart.org/detail/91717/nessy (TomBrough)
 Shadow Core - https://openclipart.org/detail/168171/replicante-10 (asrafil)
 Silence - https://game-icons.net/1x1/delapouite/silenced.html (Delapouite) [CC-BY 3.0]
