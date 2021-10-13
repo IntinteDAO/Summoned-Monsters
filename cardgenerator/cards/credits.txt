@@ -189,10 +189,12 @@ The Last Guardians - https://openclipart.org/detail/189659/attack-the-tower-3rd-
 Thunder Elemental - https://openclipart.org/detail/251725/storm-mage (ginkgo)
 Token - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
 Tomb Raiders - https://github.com/wtactics/art/raw/master/WT/Gold%20Vein%20Find/Gold%20Vein%20Find.png (Santi) [CC-BY-SA 4.0]
+Toon Bot - https://openclipart.org/detail/170101/cartoon-robot (Sirrob01)
 Toon Cat - https://openclipart.org/detail/332016/color-cute-animals (marcodiego)
 Toon Dragon - https://openclipart.org/detail/326727/asian-dragon-cartoon (j4p4n)
 Toon Grim Reaper - https://pixabay.com/vectors/death-halloween-skeleton-undead-159120/ (OpenClipart-Vectors)
 Toon Kaiju - https://openclipart.org/detail/32905/clozilla-emerging-from-sea (rg1024)
+Toon Orc Berserker - https://openclipart.org/detail/170888/orc-warrior (tzunghaor)
 Toon Penguin - https://pixabay.com/vectors/baby-cute-pastel-penguin-penguins-1295959/ (OpenClipart-Vectors)
 Toon Story - https://raw.githubusercontent.com/wtactics/art/master/WT/Books/Books.png (Unrealsmoker) [CC-BY-SA 4.0]
 Toxic Shroom - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Toxic%20Shroom.jpg (Katarzyna Zalecka) [CC-BY-SA 4.0]
