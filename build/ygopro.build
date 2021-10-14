@@ -15,6 +15,14 @@ mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
 cmake --build .
 
+if [ ! -f bin/ygopro ]; then
+	cd ../cmake/compiler
+	sed -i 's/"-fexceptions"/"-fno-rtti" "-fexceptions"/' gcc.cmake
+	cd ../../build
+	cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
+	cmake --build .
+fi
+
 cd ..
 cp build/bin/ygopro ../binaries/
 cp system.conf ../binaries/
