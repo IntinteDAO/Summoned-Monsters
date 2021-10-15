@@ -90,6 +90,8 @@ Fusion Summoner - https://github.com/wtactics/art/raw/master/WT/Sand%20Sculpture
 Gene Modifier - https://openclipart.org/detail/128479/molecular-biology-work-station (gsagri04)
 Genomice - https://openclipart.org/detail/215207/no-animal-testing (hartmut)
 Ghidra - https://openclipart.org/detail/274080/smc-dragon (Lazur URH)
+GNU - https://openclipart.org/image/2000px/206316 (qubodup)
+GNUOS - https://openclipart.org/detail/264238/gnux-gnunguin (ecogex)
 Goblin - https://raw.githubusercontent.com/wtactics/art/master/WT/Goblin%20Against%20The%20Wind/Goblin%20Against%20The%20Wind.png (Santiago Iborra) [CC-BY-SA 4.0]
 God of the Sea - https://raw.githubusercontent.com/wtactics/art/master/WT/Kelp%20Forest/Kelp%20Forest.png (Santiago Iborra) [CC-BY-SA 4.0]
 Golden Wyrm - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Golden%20Wyrm.jpg (Ashirox) [CC-BY-SA 4.0]
@@ -117,9 +119,9 @@ Magical Gear - https://raw.githubusercontent.com/wtactics/art/master/WT/Magical%
 Mana Energy Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Potion%20Botttle/Potion%20Botttle.png (Unrealsmoker) [CC-BY-SA 4.0]
 Mangler - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Mangler.jpg (shiroikuro) [CC-BY-SA 4.0]
 Man-Eater Plant - https://opengameart.org/content/man-eating-plant-animation-sprites-for-game-developers (bevouliin.com) [CC-BY 4.0]
+Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
 Medic - https://raw.githubusercontent.com/wtactics/art/master/WT/Second%20Sons%20Army%20Camp/Second%20Sons%20Army%20Camp.png (Santiago Iborra) [CC-BY-SA 4.0]
 Metal Man-Eater Plant - https://opengameart.org/content/shadow-man-eating-plant-sprites (bevouliin.com) [CC-BY 4.0]
-Masked Magician - https://pixabay.com/vectors/person-fantasy-magic-mask-157130/ (OpenClipart-Vectors)
 Mjolnir - https://openclipart.org/detail/140569/mjolnir-thors-hammer (algotruneman)
 Monster Devourer - https://raw.githubusercontent.com/wtactics/art/master/WT/Dark%20Mana%20Breather/Dark%20Mana%20Breather.png (Santiago Iborra) [CC-BY-SA 4.0]
 Monster of the Deep - https://openclipart.org/detail/329135/cthulhu-loves-you (BLASTFEMI)
@@ -181,6 +183,7 @@ Stealing - https://raw.githubusercontent.com/wtactics/art/master/WT/Cutpurse%20I
 Stone Golem - https://openclipart.org/detail/170870/stone-giant (tzunghaor)
 Strategy - https://raw.githubusercontent.com/wtactics/art/master/WT/Moving%20Piece/Moving%20Piece.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sun Wukong - https://openclipart.org/detail/271364/stylized-cartoon-monkey (GDJ)
+Supertux - https://openclipart.org/image/2000px/178510 (BartM)
 Swanport - https://raw.githubusercontent.com/wtactics/art/master/WT/Swanport/Swanport.png (Santiago Iborra) [CC-BY-SA 4.0]
 Sword Mold - https://game-icons.net/1x1/delapouite/sword-mold.html (Lorc, Delapouite & contributors) [CC BY 3.0]
 Terraform - https://openclipart.org/detail/259092/tiny-tree-planet (Tibor Kisantal)
@@ -205,6 +208,7 @@ Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.p
 Trident - https://openclipart.org/detail/126943/trishulathree-spear (gsagri04)
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
 Turtle Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Rider/Merfolk%20Rider.png (Santiago Iborra) [CC-BY-SA 4.0]
+Tux Archer - https://openclipart.org/detail/243117/tux-kurimin (Maddrum)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (Santiago Iborra) [CC-BY-SA 4.0]
 Unforgiving Spell - https://game-icons.net/1x1/lorc/skull-bolt.html (Lorc) [CC-BY 3.0]
 Vampire Lord - https://raw.githubusercontent.com/wtactics/art/master/WT/Forgiving%20Vampire/Forgiving%20Vampire.png (Santiago Iborra) [CC-BY-SA 4.0]
