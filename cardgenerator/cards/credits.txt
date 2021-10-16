@@ -170,6 +170,7 @@ Silence - https://game-icons.net/1x1/delapouite/silenced.html (Delapouite) [CC-B
 Silencer - https://opengameart.org/content/js-actor-brynhildr (JosephSeraph) [CC-BY 3.0]
 Skeleton Warrior - https://opengameart.org/content/skeleton-animations (Irina Mir irmirx) [CC-BY 3.0]
 Small Hydras - https://raw.githubusercontent.com/wtactics/art/master/WT/Hydra%20Hatchling/Hydra%20Hatchling.png (Santiago Iborra) [CC-BY-SA 4.0]
+Soaring Heron - https://openclipart.org/detail/299920/soaring-heron (Falco276)
 Steroids - https://raw.githubusercontent.com/wtactics/art/master/WT/Human%20Item%20Set1/Human%20Item%20Set1.png (Liza Alyakova) [CC-BY-SA 4.0]
 Stormy Weather - https://raw.githubusercontent.com/wtactics/art/master/WT/Siphon/Siphon.png (Santiago Iborra) [CC-BY-SA 4.0]
 Spacemon - https://openclipart.org/detail/237881/space (dsa86)
@@ -224,6 +225,7 @@ Wild Warg - https://raw.githubusercontent.com/wtactics/art/master/WT/Wild%20Warg
 Wings - https://openclipart.org/detail/17611/wings-2 (lemmling)
 Witch - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Miss%20Creeper.jpg (Velvetcat) [CC-BY-SA 4.0]
 Witch Doctor - https://openclipart.org/detail/100021/mage-with-anubis-staff (dcatcherex)
+White Dragon - https://openclipart.org/detail/302091/white-feathered-dragon (Falco276)
 Xen Hypervisor - https://openclipart.org/detail/3505/mecha-warrior (edsonsantos)
 Zombie #1 - https://openclipart.org/detail/265274/female-zombie (gameart2d.com)
 Zombie #2 - https://openclipart.org/detail/265273/male-zombie (gameart2d.com)
