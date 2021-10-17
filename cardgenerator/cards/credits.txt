@@ -66,6 +66,7 @@ Dwarf Soldier - https://openclipart.org/detail/158563/dwarf-warrior (tzunghaor)
 Earth Elemental - https://openclipart.org/detail/251520/earth-mage (ginkgo)
 Earthquake - https://openclipart.org/detail/250253/city-after-earthquake (Juhele)
 Elven Archer - https://openclipart.org/detail/162493/elven-archer (tzunghaor)
+Elven Archer #2 - https://raw.githubusercontent.com/wtactics/art/master/WT/Archer/Archer.png (Kathrin Polikeit) [CC-BY-SA 4.0]
 Elven Ballista - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Ballista/Elven%20Ballista.png (Santiago Iborra) [CC-BY-SA 4.0]
 Elven Sword - https://raw.githubusercontent.com/wtactics/art/master/WT/Elven%20Sword/Elven%20Sword.png (Unrealsmoker) [CC-BY-SA 4.0]
 Enlightenment - https://game-icons.net/1x1/lorc/enlightenment.html (Lorc) [CC-BY 3.0]
@@ -208,6 +209,7 @@ Trap Restorer - https://openclipart.org/detail/272144/robo-tim-mau-43 (星球)
 Trick - https://raw.githubusercontent.com/wtactics/art/master/WT/Hatter/Hatter.png (Santiago Iborra) [CC-BY-SA 4.0]
 Trident - https://openclipart.org/detail/126943/trishulathree-spear (gsagri04)
 Triskelion - https://openclipart.org/detail/191392/triskelion (cinemacookie)
+Troll - https://openclipart.org/detail/175409/demon (Afatar)
 Turtle Rider - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Rider/Merfolk%20Rider.png (Santiago Iborra) [CC-BY-SA 4.0]
 Tux Archer - https://openclipart.org/detail/243117/tux-kurimin (Maddrum)
 Uneasy Pact - https://raw.githubusercontent.com/wtactics/art/master/WT/Uneasy%20Pact/Uneasy%20Pact.png (Santiago Iborra) [CC-BY-SA 4.0]
