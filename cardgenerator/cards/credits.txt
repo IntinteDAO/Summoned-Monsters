@@ -47,6 +47,7 @@ Dark Priest - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master
 Dark Ritual - https://game-icons.net/1x1/lorc/cut-palm.html (Lord) [CC-BY 3.0]
 Dark World - https://raw.githubusercontent.com/wtactics/art/master/WT/Nirvana%20Of%20The%20Undead/Nirvana%20Of%20The%20Undead.png (Santiago Iborra) [CC-BY-SA 4.0]
 Deep Beauty - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Deep%20Beauty.jpg (Undeadkitty13) [CC-BY-SA 4.0]
+Deep-Sea Mermaid - https://raw.githubusercontent.com/wtactics/art/master/WT/Merfolk%20Diviner/Merfolk%20Diviner.png (Santiago Iborra) [CC-BY-SA 4.0]
 Demon Shokan - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Vehemoth.jpg (Katarzyna Zalecka) [CC-BY-SA 4.0]
 Dendroid - https://raw.githubusercontent.com/wtactics/art/master/WT/Natures%20Outrage/Natures%20Outrage.png (Santiago Iborra) [CC-BY-SA 4.0]
 Desert Wolf - https://openclipart.org/detail/262058/desert-predator (kolbasun)
@@ -84,6 +85,7 @@ Fire Elemental - https://openclipart.org/detail/251515/fire-mage (ginkgo)
 Fire Mage - https://raw.githubusercontent.com/wtactics/art/master/WT/Female%20Fire%20Mage/Female%20Fire%20Mage.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fire Sword - https://opengameart.org/content/3d-infernal-sword (Cethiel)
 Fluffy Cat - https://openclipart.org/detail/210150/inhabitants-npc-kitty (glitch)
+Foot Soldier - https://raw.githubusercontent.com/wtactics/art/master/WT/Foot%20Soldier/Foot%20Soldier.png (Santiago Iborra) [CC-BY-SA 4.0]
 Forge - https://openclipart.org/detail/170970/swordshield (yoshihiro)
 Fortress - https://raw.githubusercontent.com/wtactics/art/master/WT/Siege/Siege.png (Santiago Iborra) [CC-BY-SA 4.0]
 Fusion Dimension - https://github.com/wtactics/art/raw/master/WT/Magic%20Portal/Magic%20Portal.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -99,6 +101,7 @@ Golden Wyrm - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master
 Gravity Modification - https://commons.m.wikimedia.org/wiki/File:This_visualization_shows_what_Einstein_envisioned.jpg (NASA)
 Greed is Good - https://raw.githubusercontent.com/wtactics/art/master/WT/Jewelled%20Halls/Jewelled%20Halls.png (Santiago Iborra) [CC-BY-SA 4.0]
 Green Wyvern - https://openclipart.org/detail/299901/green-wyvern-dragon (Falco276)
+Griffin - https://raw.githubusercontent.com/wtactics/art/master/WT/Majestic%20Griffin/Majestic%20Griffin.png (Santiago Iborra) [CC-BY-SA 4.0]
 Grim Reaper - https://openclipart.org/detail/284272/grim-reaper (oksmith)
 Healing Potion - https://raw.githubusercontent.com/wtactics/art/master/WT/Small%20Potion/Small%20Potion.png (Unrealsmoker) [CC-BY-SA 4.0]
 Healing Soul - https://openclipart.org/detail/125329/stylised-angel (Viscious-Speed)
@@ -113,6 +116,7 @@ Lady Vampire - https://www.deviantart.com/lfcorp/art/Vampire-150791227 (LFcorp) 
 Leafy Warrior - https://opengameart.org/content/leafman (BlackSwordo) [CC-BY 4.0]
 Legend of the Firebird - https://openclipart.org/detail/302508/sunset-phoenix-emblem (Falco276)
 Light Beam - https://opengameart.org/content/painterly-spell-icons-part-2 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
+Lightbringer - https://openclipart.org/detail/294202/blonde-knight-kid (gameart2d.com)
 Lord of Life and Death - https://openclipart.org/detail/317561/angel-of-death-silhouette (GDJ)
 Lowering of Arms - https://game-icons.net/1x1/delapouite/tower-flag.html (Delapouite) [CC-BY 3.0]
 Magical Caps - https://raw.githubusercontent.com/wtactics/art/master/WT/Follow%20The%20Ball/Follow%20The%20Ball.png (Santiago Iborra) [CC-BY-SA 4.0]
@@ -158,6 +162,7 @@ Rage - https://openclipart.org/detail/325982/bull-7 (oksmith)
 Rain of Fire - https://opengameart.org/content/painterly-spell-icons-part-4 (J. W. Bjerk - eleazzaar) [GNU GPL 2.0 / GNU GPL 3.0 / CC-BY 3.0 / CC-BY-SA 3.0]
 Razorback - https://raw.githubusercontent.com/FreezingMoon/AncientBeast/master/assets/units/artwork/Razorback.jpg (Katarzyna Zalecka, Nynn) [CC-BY-SA 4.0]
 Red Dragon - https://openclipart.org/detail/300888/red-dragon (Falco276)
+Revival - https://openclipart.org/detail/233469/man-in-despair (liftarn)
 Reunion of Souls - https://raw.githubusercontent.com/wtactics/art/master/WT/Focus/Focus.png (Unrealsmoker) [CC-BY-SA 4.0]
 Rising from the dead - https://openclipart.org/detail/265000/skeleton-raising-from-grave (liftarn)
 Rockbot - https://openclipart.org/detail/125863/robot (tzunghaor)
