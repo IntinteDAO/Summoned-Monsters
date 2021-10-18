@@ -2,7 +2,6 @@ function c1148.initial_effect(c)
 	--fusion material
 	c:EnableReviveLimit()
 	aux.AddFusionProcCode2(c,1146,1147,true,true)
-	end
 	--destroy
 	local e1=Effect.CreateEffect(c)
 	e1:SetDescription(aux.Stringid(1148,0))
