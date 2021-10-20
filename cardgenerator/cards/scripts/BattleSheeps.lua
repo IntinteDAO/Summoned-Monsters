@@ -47,7 +47,7 @@ function c1113.activate(e,tp,eg,ep,ev,re,r,rp)
 	if Duel.GetLocationCount(tp,LOCATION_MZONE)>3
 		and Duel.IsPlayerCanSpecialSummonMonster(tp,1999,0,0x4011,0,0,1,RACE_BEAST,ATTRIBUTE_EARTH) then
 		for i=1,3 do
-			local token=Duel.CreateToken(tp,1113+i)
+			local token=Duel.CreateToken(tp,1999)
 			Duel.SpecialSummonStep(token,0,tp,tp,false,false,POS_FACEUP_DEFENSE)
 			local e1=Effect.CreateEffect(e:GetHandler())
 			e1:SetType(EFFECT_TYPE_SINGLE)
