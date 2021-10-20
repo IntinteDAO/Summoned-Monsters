@@ -1,0 +1,13 @@
+Activate,LightningStrike,DefaultMysticalSpaceTyphoon
+Activate,RisingFromTheDead,DefaultCallOfTheHaunted
+Activate,BattleSheeps,DefaultScapegoat
+Activate,Collapse,DefaultSolemnJudgment
+Activate,Obliterate,DefaultTorrentialTribute
+Activate,Tsunami,DefaultHeavyStorm
+Activate,Armageddon,DefaultDarkHole
+Summon,WaterElemental,JustDontIt
+Summon,FireElemental,JustDontIt
+Summon,ThunderElemental,JustDontIt
+Summon,EarthElemental,JustDontIt
+Summon,AirElemental,JustDontIt
+Summon,FinalElemental,JustDontIt

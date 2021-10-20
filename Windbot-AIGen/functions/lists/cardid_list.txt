@@ -1,0 +1,9 @@
+ElvenArcher2,1265
+LinuxRangerPink,1066
+DeepSeaMermaid,1270
+Griffin,1271
+FootSoldier,1269
+Lightbringer,1268
+ImperialOrder,1124
+RoyalDecreel,1114
+AntiSpellFragrance,1065
