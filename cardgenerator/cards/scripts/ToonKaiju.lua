@@ -26,7 +26,14 @@ function c1167.initial_effect(c)
 	e5:SetCode(EFFECT_DIRECT_ATTACK)
 	e5:SetCondition(c1167.dircon)
 	c:RegisterEffect(e5)
-end
+	--attack cost
+	local e6=Effect.CreateEffect(c)
+	e6:SetType(EFFECT_TYPE_SINGLE)
+	e6:SetCode(EFFECT_ATTACK_COST)
+	e6:SetCost(c1167.atcost)
+	e6:SetOperation(c1167.atop)
+	c:RegisterEffect(e6)
+	end
 function c1167.atklimit(e,tp,eg,ep,ev,re,r,rp)
 	local e1=Effect.CreateEffect(e:GetHandler())
 	e1:SetType(EFFECT_TYPE_SINGLE)
@@ -56,8 +63,13 @@ end
 function c1167.condition(e,tp,eg,ep,ev,re,r,rp)
 	return ep~=tp
 end
-
 function c1167.operation(e,tp,eg,ep,ev,re,r,rp)
 	local p,d=Duel.GetChainInfo(0,CHAININFO_TARGET_PLAYER,CHAININFO_TARGET_PARAM)
 	Duel.Draw(p,d,REASON_EFFECT)
+end
+function c1167.atcost(e,c,tp)
+    return Duel.CheckLPCost(tp,500)
+end
+function c1167.atop(e,tp,eg,ep,ev,re,r,rp)
+    Duel.PayLPCost(tp,500)
 end

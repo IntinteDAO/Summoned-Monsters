@@ -53,12 +53,17 @@ for($i=0; $i<=count($temp_file)-1; $i++) {
 fwrite($output, PHP_EOL);
 
 // Generate CardID values
-$autotab = 3;
+
+$cardid_temp = fopen('cardid.cs', 'a+');
 $temp_file = file('functions/lists/cardid_list.txt');
 for($i=0; $i<=count($temp_file)-1; $i++) {
 	$explode = explode(',', $temp_file[$i]);
+	$autotab = 3;
 	fwrite($output, autotab($autotab).trim(cardid(trim($explode[0]), trim($explode[1]))).PHP_EOL);
+	$autotab = 2;
+	fwrite($cardid_temp, autotab($autotab).trim(cardid(trim($explode[0]), trim($explode[1]))).PHP_EOL);
 }
+fclose($cardid_temp);
 fwrite($output, PHP_EOL);
 
 // Close CardID header (cardid_header.cs -> footer.cs)

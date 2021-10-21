@@ -1,0 +1,26 @@
+#!/bin/sh
+
+git clone https://github.com/moecube/windbot
+cd ../Windbot-AIGen
+php main.php
+rm ../build/windbot/Game/AI/Decks/*.cs
+mv AIOutput.cs ../build/windbot/Game/AI/Decks/
+mv cardid.cs ../build/windbot/Game/AI/cardid.cs
+rm ../build/windbot/Decks/*.ydk
+cp decks/* ../build/windbot/Decks
+cd ../build/windbot
+dos2unix WindBot.csproj
+sed -i '/Game\\AI\\Decks\\/d' WindBot.csproj
+sed -i '/DecksManager.cs/a <Compile Include="Game\\AI\\Decks\\AIOutput.cs" />' WindBot.csproj
+cd Game/AI
+dos2unix *
+sed -i '/61740673/d' DefaultExecutor.cs
+sed -i '/51452091/d' DefaultExecutor.cs
+sed -i '/58921041/d' DefaultExecutor.cs
+sed -i '/33198837/ r cardid.cs' DefaultExecutor.cs
+rm cardid.cs
+cd ../../
+xbuild /property:Configuration=Release /property:TargetFrameworkVersion="v4.5"
+ln -s bin/Release/WindBot.exe .
+clear
+echo "Link cards.cdb to main Windbot Directory or the Bot will not work!"
