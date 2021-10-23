@@ -1,4 +1,6 @@
 #!/bin/sh
 
-cd DevPro
+# In Moecube we trust!
+
+cd Moecube
 cp strings.conf ../binaries/strings.conf

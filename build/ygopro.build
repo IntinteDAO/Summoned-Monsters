@@ -39,6 +39,6 @@ mkdir fonts
 cp $font/Vera.ttf fonts/vera.ttf
 cp $font/VeraBd.ttf fonts/verabd.ttf
 rm -r $font*
-sed -e "s/c:\/windows\/fonts\/simsun.ttc/fonts\/vera.ttf/g" system.conf > system.bak
-sed -e "s/c:\/windows\/fonts\/arialbd.ttf/fonts\/verabd.ttf/g" system.bak > system.conf
-rm system.bak
+dos2unix system.conf
+sed -i 's/textFont.ttf/vera.ttf/g' system.conf
+sed -i 's/numFont.ttf/verabd.ttf/g' system.conf
