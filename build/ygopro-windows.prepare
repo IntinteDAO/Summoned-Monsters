@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# Tested on Cygwin (but Probably also works on Msys2)
+
+git clone https://github.com/Fluorohydride/ygopro.git ygopro-win
+cd ygopro-win
+git clone https://github.com/Fluorohydride/ygopro-core.git ocgcore
+cp ../windows-build-packages.7z $PWD
+7z x windows-build-packages.7z
+rm windows-build-packages.7z
+wget https://github.com/premake/premake-core/releases/download/v5.0.0-alpha16/premake-5.0.0-alpha16-windows.zip -O premake.zip
+unzip premake.zip
+rm premake.zip
+./premake5 vs2017
+rm premake5.exe
