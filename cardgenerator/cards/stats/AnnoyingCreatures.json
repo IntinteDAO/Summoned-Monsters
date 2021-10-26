@@ -1,1 +1,1 @@
-{"name":"Annoying Creatures","description":"Each player must pay 500 LP to attack.","id":1119,"alias":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Annoying Creatures","description":"Each player must pay 500LP to declare an attack.","id":1119,"alias":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
