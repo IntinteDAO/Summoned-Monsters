@@ -4,9 +4,9 @@
 include_once("config.php");
 include_once("data/attributes.php");
 
-function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $cardimg) {
+function generate_card($text, $description, $id, $alias, $type, $level, $atk, $def, $race, $attribute, $cardimg, $small) {
 
-global $resolution_x, $resolution_y, $scale, $font_size, $X1_rail, $X2_rail, $font_size_description;
+global $resolution_x, $resolution_y, $scale, $font_size, $X1_rail, $X2_rail, $font_size_description, $font_size_description_small;
 $image = new Imagick();
 
 // Background
@@ -59,6 +59,7 @@ $title = new ImagickDraw();
 $title->setFillColor("white");
 $title->setFont("data/font.ttf");
 $title->setFontSize($font_size);
+$card_title = $text;
 $title->annotation($X1_rail+$scale, $scale+$font_height, $text);
 $image->drawImage($title);
 
@@ -161,7 +162,11 @@ if($type!=0 && $attribute > 0) {
 // Draw text - Description
 $desc = new ImagickDraw();
 $desc->setFont("data/font.ttf");
-$desc->setFontSize($font_size_description);
+if($small==0) {
+	$desc->setFontSize($font_size_description);
+} else {
+	$desc->setFontSize($font_size_description_small);
+}
 
 $get_words = explode(" ", $description);
 $text_description = '';
@@ -171,11 +176,11 @@ $count_lines = 0;
 for($i=0; $i<=count($get_words)-1; $i++) {
 
 $line = trim($text_description . ' '. $get_words[$i]);
-	
+
 if($type!=0 && $attribute > 0) {
-	$limiter = 40;
+	if($small==0) { $limiter = 40; } else { $limiter = 48; }
 } else {
-	$limiter = 48;
+	if($small==0) { $limiter = 48; } else { $limiter = 51; }
 }
 
 if(strlen($line) < $limiter && $get_words[$i]!="\n") {
@@ -201,7 +206,11 @@ if($type!=0 && $attribute > 0) {
 $text_description = new ImagickDraw();
 $text_description->setFillColor("white");
 $text_description->setFont("data/font.ttf");
-$text_description->setFontSize($font_size_description);
+if($small==0) {
+	$text_description->setFontSize($font_size_description);
+} else {
+	$text_description->setFontSize($font_size_description_small);
+}
 
 $desc_height = $image->queryFontMetrics($desc, $lines)["textHeight"];
 $text_description->annotation($X1_rail + $scale, $vertical + ($scale*9)+$font_size+$font_height, $lines);
@@ -212,7 +221,6 @@ file_put_contents("output.jpg", $image);
 
 $image->resizeImage(177,254,Imagick::FILTER_LANCZOS,1);
 file_put_contents("thumb.jpg", $image);
-
 }
 
 ?>

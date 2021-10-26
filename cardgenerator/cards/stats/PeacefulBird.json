@@ -1,1 +1,1 @@
-{"name":"Peaceful Bird","description":"When this card goes to the graveyard due to a battle result, end the battle phase.","id":1075,"alias":0,"type":33,"atk":0,"def":0,"level":1,"race":512,"attribute":64,"limit":3}
+{"name":"Peaceful Bird","description":"When this card is destroyed by battle and send to the GY: end the Battle Phase.","id":1075,"alias":0,"type":33,"atk":0,"def":0,"level":1,"race":512,"attribute":16,"limit":3}

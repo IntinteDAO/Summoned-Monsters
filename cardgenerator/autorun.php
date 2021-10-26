@@ -3,6 +3,7 @@
 require('cardgen.php');
 include_once("config.php");
 include_once("data/attributes.php");
+include_once("data/small_text.php");
 
 $files = scandir('cards/stats');
 unset($files[0]);
@@ -84,7 +85,8 @@ for($i=0; $i<=count($files)-1; $i++) {
 	$limit = $data['limit'];
 	echo 'Compiling '.str_replace("''", "'", $name).PHP_EOL;
 	if(file_exists('cards/sprites/'.$filename.'.png')) { $file = 'cards/sprites/'.$filename.'.png'; } else { $file = 'cards/sprites/'.$filename.'.webp'; }
-	generate_card(str_replace("''", "'", $name), str_replace("''", "'", $description), $id, $alias, $type, $level, $atk, $def, $race, $attribute, $file);
+	if(in_array($name, $small_text)) { $small = 1; } else { $small = 0; }
+	generate_card(str_replace("''", "'", $name), str_replace("''", "'", $description), $id, $alias, $type, $level, $atk, $def, $race, $attribute, $file, $small);
 	$db->query("INSERT INTO datas VALUES($id, 3, $alias, 0, $type, $atk, $def, $level, $race, $attribute, 0)");
 	$db->query("INSERT INTO texts VALUES($id, '$name', '$description','','','','','','','','','','','','','','','','')");
 	rename('output.jpg', 'output/pics/'.$id.'.jpg');
