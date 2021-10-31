@@ -178,9 +178,9 @@ for($i=0; $i<=count($get_words)-1; $i++) {
 $line = trim($text_description . ' '. $get_words[$i]);
 
 if($type!=0 && $attribute > 0) {
-	if($small==0) { $limiter = 40; } else { $limiter = 48; }
+	if($small==0) { $limiter = 39; } else { $limiter = 48; }
 } else {
-	if($small==0) { $limiter = 48; } else { $limiter = 51; }
+	if($small==0) { $limiter = 47; } else { $limiter = 58; }
 }
 
 if(strlen($line) < $limiter && $get_words[$i]!="\n") {

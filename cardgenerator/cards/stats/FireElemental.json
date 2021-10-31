@@ -1,1 +1,1 @@
-{"name":"Fire Elemental","description":"FLIP: Ban 3 cards from the top of your deck, deal 1000 LP damage.","id":1170,"alias":0,"type":2097185,"atk":1200,"def":700,"level":4,"race":128,"attribute":4,"limit":3}
+{"name":"Fire Elemental","description":"FLIP: banish the top 3 cards of your Deck; inflict 1000LP to your opponent.","id":1170,"alias":0,"type":2097185,"atk":1200,"def":700,"level":4,"race":128,"attribute":4,"limit":3}

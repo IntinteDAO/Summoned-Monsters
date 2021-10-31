@@ -1,1 +1,1 @@
-{"name":"Strategy","description":"Select 1 type of monster. The selected monster type cannot attack. Every Standby Phase you must Tribute one of your monsters from the field or destroy this card.","id":1204,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Strategy","description":"Activate this card by declaring 1 monster type. Monsters of that type cannot attack. During the Standby Phase, tribute 1 monster of destroy this card.","id":1204,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

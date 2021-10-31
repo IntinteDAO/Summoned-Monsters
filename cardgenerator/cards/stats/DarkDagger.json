@@ -1,1 +1,1 @@
-{"name":"Dark Dagger","description":"Equip this card to the DARK monster. Increase ATK by 1000, decrease DEF by 500.","id":1152,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Dark Dagger","description":"Equip only to a DARK monster. It gains 1000ATK and loses 500DEF.","id":1152,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

@@ -1,1 +1,1 @@
-{"name":"Explosion","description":"Players discard all cards from their hand into the graveyard and draw as many cards as they discarded.","id":1210,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}
+{"name":"Explosion","description":"Both players discard their entire hand, then draw the same number of cards.","id":1210,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}

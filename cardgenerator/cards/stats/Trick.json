@@ -1,1 +1,1 @@
-{"name":"Trick","description":"Choose one monster from your field and one monster from your opponent''s field. Destroy your opponent''s monster and give your opponent your monster.","id":1196,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Trick","description":"Target 1 Monster your opponent control and 1 Monster you control; destroy the first target, then give control of the second target to your opponent.","id":1196,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

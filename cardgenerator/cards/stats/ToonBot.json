@@ -1,1 +1,1 @@
-{"name":"Toon Bot","description":"This card cannot attack during the summoning turn. If this card attacks, the owner must pay 500 LP.","id":1256,"alias":0,"type":4194337,"atk":1000,"def":500,"level":4,"race":32,"attribute":1,"limit":3}
+{"name":"Toon Bot","description":"This card cannot attack during the turn it is Summoned. You must pay 500LP to declare an attack with this card.","id":1256,"alias":0,"type":4194337,"atk":1000,"def":500,"level":4,"race":32,"attribute":1,"limit":3}

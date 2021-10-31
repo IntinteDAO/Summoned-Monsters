@@ -1,1 +1,1 @@
-{"name":"Thunder Elemental","description":"Increase ATK of all Light monsters by 500, decrease ATK of all Dark monsters by 400.","id":1169,"alias":0,"type":33,"atk":1100,"def":800,"level":4,"race":4,"attribute":16,"limit":3}
+{"name":"Thunder Elemental","description":"LIGHT Monsters gain 500ATK and DARK Monsters lose 400ATK.","id":1169,"alias":0,"type":33,"atk":1100,"def":800,"level":4,"race":4,"attribute":16,"limit":3}

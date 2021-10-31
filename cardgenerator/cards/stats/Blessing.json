@@ -1,1 +1,1 @@
-{"name":"Blessing","description":"Draw 3 cards, discard 2.","id":1110,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}
+{"name":"Blessing","description":"Draw 3 cards, then discard 2 cards.","id":1110,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}

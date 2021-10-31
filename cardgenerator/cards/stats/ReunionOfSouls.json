@@ -1,1 +1,1 @@
-{"name":"Reunion of Souls","description":"If there are monsters with the same name on the field, increase their ATK and DEF by 500.","id":1217,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Reunion of Souls","description":"Monsters on the field with the same name gain 500 ATK.","id":1217,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

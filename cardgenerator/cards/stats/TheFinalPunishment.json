@@ -1,1 +1,1 @@
-{"name":"The Final Punishment","description":"Each time a monster is destroyed and ends up in the graveyard - inflict 500 LP to the card owner.","id":1021,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"The Final Punishment","description":"When a monster is destroyed and sent to the GY inflict 500LP to its owner.","id":1021,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

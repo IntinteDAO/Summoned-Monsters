@@ -1,1 +1,1 @@
-{"name":"Spell Detector","description":"FLIP: Your opponent draws 3 cards and shows them. If there are any Spell cards, discard those cards.","id":1182,"alias":0,"type":2097185,"atk":200,"def":100,"level":2,"race":512,"attribute":8,"limit":3}
+{"name":"Spell Detector","description":"FLIP: your opponent draws 3 cards and reveals them, if there are any Spells the opponent discards all 3 cards.","id":1182,"alias":0,"type":2097185,"atk":200,"def":100,"level":2,"race":512,"attribute":8,"limit":3}

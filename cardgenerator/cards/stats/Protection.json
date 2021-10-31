@@ -1,1 +1,1 @@
-{"name":"Protection","description":"You receive no battle damage and your monsters are not destroyed until the end of the turn.","id":1121,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Protection","description":"You recieve no Battle Damage and and your monsters cannot be destroyed by battle or card effects until the end of the turn.","id":1121,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

@@ -1,1 +1,1 @@
-{"name":"Chameleon","description":"When this card is summoned, choose 1 face-up card that your opponent controls. This card has the same ATK and DEF as the original ATK and DEF of the selected card.","id":1102,"alias":0,"type":33,"atk":0,"def":0,"level":2,"race":524288,"attribute":1,"limit":3}
+{"name":"Chameleon","description":"When this card is summoned: target 1 face-up Monster your opponent controls; this card''s ATK/DEF become equal to the target''s.","id":1102,"alias":0,"type":33,"atk":0,"def":0,"level":2,"race":524288,"attribute":1,"limit":3}

@@ -1,1 +1,1 @@
-{"name":"Linux Ranger - Blue","description":"You can discard one card in the Main Phase. During Battle Phase you can attack twice.","id":1060,"alias":0,"type":33,"atk":1100,"def":450,"level":4,"race":512,"attribute":2,"limit":3}
+{"name":"Linux Ranger - Blue","description":"Discard 1 card; this card can attack twice during each Battle Phase this turn.","id":1060,"alias":0,"type":33,"atk":1100,"def":450,"level":4,"race":512,"attribute":2,"limit":3}

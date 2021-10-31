@@ -1,1 +1,1 @@
-{"name":"Dragon''s lance","description":"Choose an attacking monster. Increase the Life Points by the number of ATK points of the selected monster.","id":1171,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Dragon''s lance","description":"If a monster(s) is battling: target the attacking monster; gain LP equal it its ATK.","id":1171,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

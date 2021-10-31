@@ -1,1 +1,1 @@
-{"name":"Phantom","description":"FLIP: Pick 2 Spell \/ Trap cards from the field and return them to the owner''s hand.","id":1214,"alias":0,"type":2097185,"atk":600,"def":500,"level":3,"race":16,"attribute":32,"limit":3}
+{"name":"Phantom","description":"FLIP: Target 2 Spells\/Traps on the field; return them to their owner''s hand.","id":1214,"alias":0,"type":2097185,"atk":600,"def":500,"level":3,"race":16,"attribute":32,"limit":3}

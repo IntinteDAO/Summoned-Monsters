@@ -1,1 +1,1 @@
-{"name":"Devil''s Trigger","description":"FLIP: Randomly choose 2 cards from your hand and banish them, deal 800 LP direct damage.","id":1117,"alias":0,"type":2097185,"atk":800,"def":1400,"level":4,"race":8,"attribute":4,"limit":3}
+{"name":"Devil''s Trigger","description":"FLIP: banish 2 random cards from your hand; inflict 800LP to your opponent.","id":1117,"alias":0,"type":2097185,"atk":800,"def":1400,"level":4,"race":8,"attribute":4,"limit":3}

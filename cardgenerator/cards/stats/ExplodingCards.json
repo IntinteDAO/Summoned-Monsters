@@ -1,1 +1,1 @@
-{"name":"Exploding Cards","description":"If an opponent summons a monster with an ATK of 2000 or less, Choose this card. Your opponent discards all cards with that name from deck and hand.","id":1088,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Exploding Cards","description":"When your opponent Summons a monster with up to 2000 ATK: your opponent sends all the cards with the same name from their Hand or Deck to the GY.","id":1088,"alias":0,"type":4,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

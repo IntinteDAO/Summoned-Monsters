@@ -1,1 +1,1 @@
-{"name":"Xen Hypervisor","description":"This card receives 200 ATK for each Machine-type on the field.","id":1216,"alias":0,"type":33,"atk":1800,"def":1400,"level":6,"race":32,"attribute":1,"limit":3}
+{"name":"Xen Hypervisor","description":"This card gains 200ATK for each Machine monster you control.","id":1216,"alias":0,"type":33,"atk":1800,"def":1400,"level":6,"race":32,"attribute":1,"limit":3}

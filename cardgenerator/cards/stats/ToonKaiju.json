@@ -1,1 +1,1 @@
-{"name":"Toon Kaiju","description":"This card cannot attack during the summoning turn. If this card attacks, the owner must pay 500 LP.","id":1167,"alias":0,"type":4194337,"atk":2600,"def":2700,"level":8,"race":65536,"attribute":1,"limit":3}
+{"name":"Toon Kaiju","description":"This card cannot attack during the turn it is Summoned. You must pay 1000LP to declare an attack with this card.","id":1167,"alias":0,"type":4194337,"atk":2600,"def":2700,"level":8,"race":65536,"attribute":1,"limit":3}

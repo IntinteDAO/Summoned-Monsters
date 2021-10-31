@@ -1,1 +1,1 @@
-{"name":"Cursed Sword","description":"A monster that equips this card gets 700 ATK and DEF. If this card goes to the graveyard, return it to the top of your deck.","id":1153,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Cursed Sword","description":"The equipped monster gains 700ATK/DEF. When this card on the field is sent to the GY: return it to the top of the Deck.","id":1153,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

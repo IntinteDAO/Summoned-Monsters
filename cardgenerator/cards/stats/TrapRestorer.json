@@ -1,1 +1,1 @@
-{"name":"Trap Restorer","description":"FLIP: Choose 1 Trap Card from your Graveyard and add it to your hand.","id":1154,"alias":0,"type":2097185,"atk":1100,"def":1500,"level":4,"race":32,"attribute":4,"limit":3}
+{"name":"Trap Restorer","description":"FLIP: target 1 Trap Card in your GY; add it to your hand.","id":1154,"alias":0,"type":2097185,"atk":1100,"def":1500,"level":4,"race":32,"attribute":4,"limit":3}

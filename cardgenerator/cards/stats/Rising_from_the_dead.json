@@ -1,1 +1,1 @@
-{"name":"Rising from the dead","description":"Choose one monster from your graveyard and bring it to the field in attack position. If this card is destroyed, destroy the monster.","id":1000,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}
+{"name":"Rising from the dead","description":"Target 1 monster in your GY; Special Summon it in Attack position. If this card is destroyed, destroy that monster.","id":1000,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}

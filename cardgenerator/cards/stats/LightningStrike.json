@@ -1,1 +1,1 @@
-{"name":"Lightning Strike","description":"Discard 1 card. Select 1 Trap \/ Spell card on the field - Destroy it.","id":1007,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":2}
+{"name":"Lightning Strike","description":"Discard 1 card, then target 1 Spell\/Trap on the field; destroy it.","id":1007,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":2}

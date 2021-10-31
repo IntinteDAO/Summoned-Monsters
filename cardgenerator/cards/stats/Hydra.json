@@ -1,1 +1,1 @@
-{"name":"Hydra","description":"Small Hydras + Witch \n Once per turn: Select an opponent''s monster and flip a coin 3 times. Destroy the monster if it falls heads 2 times.","id":1148,"alias":0,"type":97,"atk":2300,"def":1800,"level":7,"race":16384,"attribute":1,"limit":3}
+{"name":"Hydra","description":"Small Hydras + Witch \n Once per turn: target 1 Monster your opponent controls; flip a coin three times, then, if the result is Heads at least twice, destroy it.","id":1148,"alias":0,"type":97,"atk":2300,"def":1800,"level":7,"race":16384,"attribute":1,"limit":3}

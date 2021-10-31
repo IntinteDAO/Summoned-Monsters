@@ -1,1 +1,1 @@
-{"name":"Disarm","description":"See the cards in your opponent''s hand. Choose one of his cards and put it into his deck. Shuffle the deck.","id":1230,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Disarm","description":"Look at your opponent''s Hand and shuffle 1 card from their Hand into their Deck.","id":1230,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

@@ -1,1 +1,1 @@
-{"name":"Elven Sword","description":"If a monster with this card attacks a monster in a defense position with less DEF than the ATK of the monster with the equip card. Inflict piercing damage to your opponent based on the point difference.","id":1062,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Elven Sword","description":"If the equipped monster battles a defense-position monster, it inflicts piercing damage to your opponent.","id":1062,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

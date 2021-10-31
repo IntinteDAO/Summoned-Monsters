@@ -1,1 +1,1 @@
-{"name":"God of the Sea","description":"Increases ATK of WATER type monsters by 500 points, decreases ATK of FIRE type monsters by 400 points.","id":1091,"alias":0,"type":33,"atk":700,"def":1000,"level":3,"race":64,"attribute":2,"limit":3}
+{"name":"God of the Sea","description":"WATER Monsters gain 500ATK and FIRE Monsters lose 400ATK.","id":1091,"alias":0,"type":33,"atk":700,"def":1000,"level":3,"race":64,"attribute":2,"limit":3}

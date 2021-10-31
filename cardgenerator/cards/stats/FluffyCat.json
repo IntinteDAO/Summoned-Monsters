@@ -1,1 +1,1 @@
-{"name":"Fluffy Cat","description":"When you receive damage points - you may discard this card into graveyard and reduce damage points to zero from this battle.","id":1023,"alias":0,"type":33,"atk":1100,"def":400,"level":4,"race":4,"attribute":16,"limit":3}
+{"name":"Fluffy Cat","description":"If you would receive Battle Damage, you can discard this card instead.","id":1023,"alias":0,"type":33,"atk":1100,"def":400,"level":4,"race":4,"attribute":16,"limit":3}

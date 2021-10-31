@@ -1,1 +1,1 @@
-{"name":"Cartoon Knight","description":"This card cannot attack during the summoning turn. If this card attacks, the owner must pay 500 LP.","id":1202,"alias":0,"type":4194337,"atk":1400,"def":1500,"level":4,"race":1,"attribute":16,"limit":3}
+{"name":"Cartoon Knight","description":"This card cannot attack during the turn it was summoned. You have to pay 500LP to declare an attack with this card.","id":1202,"alias":0,"type":4194337,"atk":1400,"def":1500,"level":4,"race":1,"attribute":16,"limit":3}

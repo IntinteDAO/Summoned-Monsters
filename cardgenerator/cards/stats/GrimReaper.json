@@ -1,1 +1,1 @@
-{"name":"Grim Reaper","description":"This card gets 100 ATK for each monster in your Graveyard.","id":1156,"alias":0,"type":33,"atk":1600,"def":600,"level":5,"race":16,"attribute":32,"limit":3}
+{"name":"Grim Reaper","description":"Gains 100ATK for each Monster in your GY.","id":1156,"alias":0,"type":33,"atk":1600,"def":600,"level":5,"race":16,"attribute":32,"limit":3}

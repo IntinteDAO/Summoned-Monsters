@@ -1,1 +1,1 @@
-{"name":"Spellbreaker","description":"FLIP: Select 2 Spell\/Trap cards on the field, destroy them.","id":1157,"alias":0,"type":2097185,"atk":600,"def":800,"level":3,"race":2,"attribute":2,"limit":3}
+{"name":"Spellbreaker","description":"FLIP: Target 2 Spells\/Traps on the field; destroy them.","id":1157,"alias":0,"type":2097185,"atk":600,"def":800,"level":3,"race":2,"attribute":2,"limit":3}

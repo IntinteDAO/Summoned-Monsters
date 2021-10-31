@@ -1,1 +1,1 @@
-{"name":"Botanic Block","description":"This card works for 3 of your opponent''s turns. Monsters cannot attack.","id":1037,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}
+{"name":"Botanic Block","description":"Until your opponent''s 3rd End Phase after this card''s activation, all monsters cannot attack.","id":1037,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":1}

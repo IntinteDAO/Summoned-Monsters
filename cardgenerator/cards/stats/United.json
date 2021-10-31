@@ -1,1 +1,1 @@
-{"name":"United","description":"Selected monster gains 250 ATK and DEF for each face up monster controlled by player.","id":1038,"alias":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"United","description":"When this card is activated: target 1 monster; it gains 250ATK for each face-up monster you control.","id":1038,"alias":0,"type":131074,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

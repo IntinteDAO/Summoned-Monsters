@@ -1,1 +1,1 @@
-{"name":"Desert Wolf","description":"Receive 400 ATK and DEF for every ''Wild Warg'' on the field.","id":1245,"alias":0,"type":33,"atk":2000,"def":1000,"level":6,"race":32768,"attribute":4,"limit":3}
+{"name":"Desert Wolf","description":"Gains 400ATK/DEF for each \"Wild Warg\" on the field.","id":1245,"alias":0,"type":33,"atk":2000,"def":1000,"level":6,"race":32768,"attribute":4,"limit":3}

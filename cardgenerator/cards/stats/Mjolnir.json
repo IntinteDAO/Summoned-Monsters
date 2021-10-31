@@ -1,1 +1,1 @@
-{"name":"Mjolnir","description":"This card can be equiped to a Thunder-type monster. Increase the ATK and DEF of this monster by 1000.","id":1185,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Mjolnir","description":"Equip only to a Thunder monster. It gains 1000ATK/DEF.","id":1185,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

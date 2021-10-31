@@ -1,1 +1,1 @@
-{"name":"Necro Pirate","description":"For each card in your hand, that card loses 400 ATK and DEF.","id":1145,"alias":0,"type":33,"atk":2000,"def":2200,"level":4,"race":16,"attribute":32,"limit":3}
+{"name":"Necro Pirate","description":"This card loses 400 ATK and DEF for each card in your hand.","id":1145,"alias":0,"type":33,"atk":2000,"def":2200,"level":4,"race":16,"attribute":32,"limit":3}

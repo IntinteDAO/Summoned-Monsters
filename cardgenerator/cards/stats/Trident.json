@@ -1,1 +1,1 @@
-{"name":"Trident","description":"Select one Aqua-type monster and equip this card. Increase the monster''s attack by 1000 ATK and 500 DEF.","id":1143,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":2}
+{"name":"Trident","description":"Equip only to an Aqua monster. It gains 1000ATK and loses 500DEF.","id":1143,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":2}

@@ -1,1 +1,1 @@
-{"name":"Disintegrate","description":"Discard one card from your hand. Select one monster on the field and destroy it.","id":1033,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Disintegrate","description":"Discard 1 card then target 1 Monster on the field; destroy it.","id":1033,"alias":0,"type":2,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

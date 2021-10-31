@@ -1,1 +1,1 @@
-{"name":"Biohazard","description":"Equip this card to a monster. This monster cannot attack. Every Standby Phase, the monster owner gets 500 LP damage.","id":1172,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Biohazard","description":"The equipped monster cannot attack. Once per turn, during the Standby Phase: inflict 500LP to its controller.","id":1172,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

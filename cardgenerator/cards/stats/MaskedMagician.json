@@ -1,1 +1,1 @@
-{"name":"Masked Magician","description":"When this card deals direct damage to your opponent, he must draw 1 card.","id":1100,"alias":0,"type":33,"atk":2000,"def":1100,"level":6,"race":2,"attribute":32,"limit":3}
+{"name":"Masked Magician","description":"When this card inflicts battle damage to your opponent: your opponent draws 1 card.","id":1100,"alias":0,"type":33,"atk":2000,"def":1100,"level":6,"race":2,"attribute":32,"limit":3}

@@ -1,1 +1,1 @@
-{"name":"Goblin","description":"FLIP: You may summon 1 ''Herd Beasts'' from your deck to the field in a face-up defense position. Shuffle the deck.","id":1084,"alias":0,"type":33,"atk":700,"def":1000,"level":3,"race":16384,"attribute":1,"limit":3}
+{"name":"Goblin","description":"FLIP: Set 1 \"Herd Beasts\" from your Deck.","id":1084,"alias":0,"type":33,"atk":700,"def":1000,"level":3,"race":16384,"attribute":1,"limit":3}

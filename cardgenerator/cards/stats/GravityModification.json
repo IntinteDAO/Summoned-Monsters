@@ -1,1 +1,1 @@
-{"name":"Gravity Modification","description":"Monsters with level 4 or higher cannot attack.","id":1053,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Gravity Modification","description":"Level 4 or higher monsters cannot attack.","id":1053,"alias":0,"type":131076,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}

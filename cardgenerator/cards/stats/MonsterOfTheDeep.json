@@ -1,1 +1,1 @@
-{"name":"Monster of the Deep","description":"You can discard this card to take up to two ''Monster of the Deep'' from the deck into your hand. If you do this, shuffle the deck.","id":1215,"alias":0,"type":33,"atk":1500,"def":1400,"level":5,"race":64,"attribute":32,"limit":3}
+{"name":"Monster of the Deep","description":"You can discard this card; add up to 2 \"Monster of the Deep\" from you Deck to the Hand and shuffle the deck.","id":1215,"alias":0,"type":33,"atk":1500,"def":1400,"level":5,"race":64,"attribute":32,"limit":3}

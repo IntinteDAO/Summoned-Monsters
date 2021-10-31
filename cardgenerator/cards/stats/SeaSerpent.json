@@ -1,1 +1,1 @@
-{"name":"Sea Serpent","description":"If ''Swanport'' card is activated, this monster is immune to spell cards.","id":1070,"alias":0,"type":33,"atk":1800,"def":1500,"level":6,"race":262144,"attribute":2,"limit":3}
+{"name":"Sea Serpent","description":"While you control \"Swanport\" this card is unaffected by the effects of Spells.","id":1070,"alias":0,"type":33,"atk":1800,"def":1500,"level":6,"race":262144,"attribute":2,"limit":3}

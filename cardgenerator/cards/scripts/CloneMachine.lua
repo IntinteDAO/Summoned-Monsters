@@ -27,7 +27,7 @@ function c1192.target(e,tp,eg,ep,ev,re,r,rp,chk)
 end
 function c1192.activate(e,tp,eg,ep,ev,re,r,rp)
 	local ft=Duel.GetLocationCount(tp,LOCATION_MZONE)
-	if ft<=0 or not Duel.IsPlayerCanSpecialSummonMonster(tp,1999,0,0x4011,300,200,1,RACE_FIEND,ATTRIBUTE_DARK) then return end
+	if ft<=0 or not Duel.IsPlayerCanSpecialSummonMonster(tp,1999,0,0x4011,0,0,1,RACE_FAIRY,ATTRIBUTE_LIGHT) then return end
 	if Duel.IsPlayerAffectedByEffect(tp,99999999) then ft=1 end
 	for i=1,ft do
 		local token=Duel.CreateToken(tp,1999)

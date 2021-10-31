@@ -1,1 +1,1 @@
-{"name":"Centaur Hunter","description":"This card can only attack if you tribute 1 monster.","id":1109,"alias":0,"type":33,"atk":2000,"def":900,"level":4,"race":32768,"attribute":1,"limit":3}
+{"name":"Centaur Hunter","description":"You have to tribute 1 Monster to declare an attack with this card.","id":1109,"alias":0,"type":33,"atk":2000,"def":900,"level":4,"race":32768,"attribute":1,"limit":3}

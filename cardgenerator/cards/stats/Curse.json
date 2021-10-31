@@ -1,1 +1,1 @@
-{"name":"Curse","description":"Select an enemy monster that is not Machine-Type. This card loses 300 ATK with each opponent''s Standby Phase.","id":1140,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
+{"name":"Curse","description":"Equip only to a non-Machine monster your opponent controls. During the opponent''s Standby Phase it loses 300ATK.","id":1140,"alias":0,"type":262146,"atk":0,"def":0,"level":0,"race":0,"attribute":0,"limit":3}
