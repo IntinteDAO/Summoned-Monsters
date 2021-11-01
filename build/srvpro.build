@@ -1,0 +1,37 @@
+#!/bin/sh
+
+if [ -f /usr/bin/apt ]; then
+    sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu-dev nodejs npm redis-server p7zip-full
+fi
+
+#sudo npm install pm2 npm n -g
+#sudo n 12
+
+# YGOPro special server version (from Moecube) without OpenGL rendering
+
+git clone https://github.com/moecube/ygopro --branch=server ygopro-srvclient
+cd ygopro-srvclient/
+git clone https://github.com/Fluorohydride/ygopro-core ocgcore
+git clone https://github.com/Fluorohydride/ygopro-scripts.git script
+rm script/c[0-9]*
+wget -O - https://github.com/premake/premake-core/releases/download/v5.0.0-beta1/premake-5.0.0-beta1-linux.tar.gz | tar zfx -
+./premake5 gmake
+cd build/
+make config=release
+cd ..
+ln -s bin/release/ygopro ./
+strip ygopro
+cd ..
+
+# SRVPro
+
+git clone https://github.com/moecube/srvpro ygopro-server
+cd ygopro-server
+npm ci
+mv ../ygopro-srvclient ygopro
+ln -s ../windbot .
+mkdir config
+cp data/default_config.json config/config.json
+cd ..
+
+echo "REMEMBER TO COPY REQUIRED FILES TO SRVPRO'S CLIENT!"

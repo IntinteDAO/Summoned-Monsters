@@ -3,6 +3,11 @@
 font="ttf-bitstream-vera-1.10"
 fonturl="http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/${font}.tar.bz2"
 
+if [ -f /usr/bin/apt ]; then
+	sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu-dev
+fi
+
+
 mkdir binaries
 mkdir binaries/deck
 mkdir binaries/replay
@@ -29,7 +34,6 @@ cp system.conf ../binaries/
 cp strings.conf ../binaries/
 cp -r textures ../binaries/
 cp -r script ../binaries/
-find ../binaries/textures/*.png -maxdepth 1 -type f -exec pngcrush -ow -rem allb -reduce {} \;
 
 cd ../binaries/
 wget "$fonturl"
@@ -39,6 +43,15 @@ mkdir fonts
 cp $font/Vera.ttf fonts/vera.ttf
 cp $font/VeraBd.ttf fonts/verabd.ttf
 rm -r $font*
-dos2unix system.conf
+
+if [ -f /usr/bin/dos2unix ]; then
+	dos2unix system.conf
+fi
+
 sed -i 's/textFont.ttf/vera.ttf/g' system.conf
 sed -i 's/numFont.ttf/verabd.ttf/g' system.conf
+sed -i 's/127.0.0.1/srv07.mikr.us/g' system.conf
+sed -i 's/7911/40280/g' system.conf
+sed -i 's/automonsterpos = 0/automonsterpos = 1/g' system.conf
+sed -i 's/autospellpos = 0/autospellpos = 1/g' system.conf
+sed -i 's/autospellpos = 0/Uncategorized/g' system.conf

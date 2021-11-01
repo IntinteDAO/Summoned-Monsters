@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if [ -f /usr/bin/apt ]; then
+	sudo apt -y install mono-complete
+fi
+
 git clone https://github.com/moecube/windbot
 cd ../Windbot-AIGen
 php main.php
@@ -22,5 +26,5 @@ rm cardid.cs
 cd ../../
 xbuild /property:Configuration=Release /property:TargetFrameworkVersion="v4.5"
 ln -s bin/Release/WindBot.exe .
-clear
+#clear
 echo "Link cards.cdb to main Windbot Directory or the Bot will not work!"
