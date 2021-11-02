@@ -1,11 +1,11 @@
 #!/bin/sh
 
 if [ -f /usr/bin/apt ]; then
-    sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu-dev nodejs npm redis-server p7zip-full
+    sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev nodejs npm redis-server p7zip-full
 fi
 
-#sudo npm install pm2 npm n -g
-#sudo n 12
+sudo npm install pm2 npm n -g
+sudo n 12
 
 # YGOPro special server version (from Moecube) without OpenGL rendering
 
