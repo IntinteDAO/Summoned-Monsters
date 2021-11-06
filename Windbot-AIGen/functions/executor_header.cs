@@ -1,2 +1,2 @@
-        public LuckyExecutor(GameAI ai, Duel duel)
+        public ChangeMe(GameAI ai, Duel duel)
             : base(ai, duel) {

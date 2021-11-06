@@ -1,1 +1,1 @@
-public class LuckyExecutor : DefaultExecutor {
+public class ChangeMe : DefaultExecutor {

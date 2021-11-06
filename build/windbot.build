@@ -8,14 +8,25 @@ git clone https://github.com/moecube/windbot
 cd ../Windbot-AIGen
 php main.php
 rm ../build/windbot/Game/AI/Decks/*.cs
-mv AIOutput.cs ../build/windbot/Game/AI/Decks/
 mv cardid.cs ../build/windbot/Game/AI/cardid.cs
+mv *.cs ../build/windbot/Game/AI/Decks/
+
 rm ../build/windbot/Decks/*.ydk
 cp decks/* ../build/windbot/Decks
 cd ../build/windbot
 dos2unix WindBot.csproj
 sed -i '/Game\\AI\\Decks\\/d' WindBot.csproj
-sed -i '/DecksManager.cs/a <Compile Include="Game\\AI\\Decks\\AIOutput.cs" />' WindBot.csproj
+
+cd Decks
+FILES="*"
+
+for f in $FILES
+do
+	sed -i '/DecksManager.cs/a <Compile Include="Game\\AI\\Decks\\'$f'.cs" />' ../WindBot.csproj
+done
+
+cd ..
+sed -i 's/.ydk.cs/.cs/g' WindBot.csproj
 cd Game/AI
 dos2unix *
 sed -i '/61740673/d' DefaultExecutor.cs
