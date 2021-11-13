@@ -15,3 +15,15 @@ RoyalDecreel,1114
 ThunderElemental,1169
 Tsunami,1005
 WaterElemental,1228
+ShadowGrabbler,1002
+NecroJar1,1028
+NecroJar2,1030
+NecroJar3,1031
+K9,1098
+DevilsTrigger,1117
+Witch,1147
+TrapRestorer,1154
+Spellbreaker,1157
+SpellDetector,1182
+Phantom,1214
+CombatMech,1219

@@ -12,3 +12,15 @@ Summon,FinalElemental,JustDontIt
 Summon,FireElemental,JustDontIt
 Summon,ThunderElemental,JustDontIt
 Summon,WaterElemental,JustDontIt
+MonsterSet,ShadowGrabbler,ImFeelingLucky
+MonsterSet,NecroJar1,ImFeelingLucky
+MonsterSet,NecroJar2,ImFeelingLucky
+MonsterSet,NecroJar3,ImFeelingLucky
+MonsterSet,K9,ImFeelingLucky
+MonsterSet,DevilsTrigger,ImFeelingLucky
+MonsterSet,Witch,ImFeelingLucky
+MonsterSet,TrapRestorer,ImFeelingLucky
+MonsterSet,Spellbreaker,ImFeelingLucky
+MonsterSet,SpellDetector,ImFeelingLucky
+MonsterSet,Phantom,ImFeelingLucky
+MonsterSet,CombatMech,ImFeelingLucky
