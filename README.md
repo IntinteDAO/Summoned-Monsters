@@ -8,9 +8,7 @@ The game is inspired by the first generation of Yu-Gi-Oh!, which due to changes 
 
 ## Game status:
 
-The previous version (github.com/fervi/openygo) is playable, but many cards are missing (we are going to have about 350 cards), network architecture (servers) and playable bots would be useful.
-
-Currently the project will be rewritten (card generator) from Love2D (LUA) to PHP.
+The game is in beta, mainly focused on improving card descriptions and developing the AI of the computer.
 
 ## Screenshots:
 
