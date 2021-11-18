@@ -1,6 +1,6 @@
 # Summoned-Monsters
 
-Summoned Monsters (OpenYGO) is a computer game created as a complement to the YGOPro engine.
+Summoned Monsters is a computer game created as a complement to the YGOPro engine.
 
 Our goal is to create a free, independent and rule-based card game in which players fight against each other for victory using monster cards.
 

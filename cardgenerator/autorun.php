@@ -66,8 +66,8 @@ if(!file_exists('output')) {
 
 if(empty($db_ready)) { $db = new SQLite3('output/cards.cdb'); }
 $limit_file = fopen('output/lflist.conf', 'w');
-fwrite($limit_file, '#[OpenYGO]'.PHP_EOL);
-fwrite($limit_file, '!OpenYGO'.PHP_EOL);
+fwrite($limit_file, '#[SummonedMonsters]'.PHP_EOL);
+fwrite($limit_file, '!SummonedMonsters'.PHP_EOL);
 
 for($i=0; $i<=count($files)-1; $i++) {
 	$filename = str_replace('.json', '', $files[$i]);
