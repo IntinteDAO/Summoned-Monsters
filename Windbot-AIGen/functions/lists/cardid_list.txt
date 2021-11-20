@@ -27,3 +27,4 @@ Spellbreaker,1157
 SpellDetector,1182
 Phantom,1214
 CombatMech,1219
+CrystalSerpentJester,1208

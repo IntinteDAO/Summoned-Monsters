@@ -24,3 +24,4 @@ MonsterSet,Spellbreaker,ImFeelingLucky
 MonsterSet,SpellDetector,ImFeelingLucky
 MonsterSet,Phantom,ImFeelingLucky
 MonsterSet,CombatMech,ImFeelingLucky
+MonsterSet,CrystalSerpentJester,ImFeelingUnlucky
