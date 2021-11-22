@@ -1,1 +1,1 @@
-{"name":"Virus","description":"If this card is targeted for an attack (by non-machine Monster): destroy the attacking monster during your opponent''s 2nd End Phase after the attack.","id":1103,"alias":0,"type":33,"atk":300,"def":100,"level":2,"race":512,"attribute":8,"limit":3}
+{"name":"Virus","description":"If this card is targeted for an attack (by non-machine Monster): destroy the attacking monster during your opponent''s 2nd End Phase after the attack.","id":1103,"alias":0,"type":33,"atk":300,"def":100,"level":2,"race":2048,"attribute":1,"limit":3}
