@@ -38,7 +38,7 @@ function c1113.sumlimit(e,c,sump,sumtype,sumpos,targetp,se)
 end
 function c1113.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return not Duel.IsPlayerAffectedByEffect(tp,999999)
-		and Duel.GetLocationCount(tp,LOCATION_MZONE)>3
+		and Duel.GetLocationCount(tp,LOCATION_MZONE)>2
 		and Duel.IsPlayerCanSpecialSummonMonster(tp,1999,0,0x4011,0,0,1,RACE_FAIRY,ATTRIBUTE_LIGHT) end
 	Duel.SetOperationInfo(0,CATEGORY_TOKEN,nil,3,0,0)
 	Duel.SetOperationInfo(0,CATEGORY_SPECIAL_SUMMON,nil,3,0,0)
