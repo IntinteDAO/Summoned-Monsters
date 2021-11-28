@@ -68,8 +68,8 @@ function c1255.operation(e,tp,eg,ep,ev,re,r,rp)
 	Duel.Draw(p,d,REASON_EFFECT)
 end
 function c1255.atcost(e,c,tp)
-    return Duel.CheckLPCost(tp,500)
+    return Duel.CheckLPCost(tp,0)
 end
 function c1255.atop(e,tp,eg,ep,ev,re,r,rp)
-    Duel.PayLPCost(tp,500)
+    Duel.PayLPCost(tp,0)
 end
