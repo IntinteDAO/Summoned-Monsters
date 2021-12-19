@@ -33,3 +33,26 @@ W Grze Summoned Monsters używa się 6 rodzajów potworów.
 - **Flip** jest to podgrupa potworów Effect. Różni się tym, że efekt aktywuje się tylko przy odwróceniu zakrytej karty. Sytuację taką można otrzymać najczęściej, gdy potwór zostanie zaatakowany lub właściciel odwróci kartę z pozycji zakrytej na odkrytą.
 
 - **Toon** jest to podgrupa potworów Effect. Są to specjalne potwory dedykowane pod użycie z Toon Story. Takie potwory najczęściej nie mogą atakować w pierwszej turze, ale mogą robić atak bezpośredni jeśli przeciwnik nie ma potwora Toon.
+
+Pozycja ataku i obrony
+======================
+
+Kartę potwora można ustawić w dwie pozycje - ataku i obrony. Potwory w pozycji ataku są ułożone pionowo, a w pozycji obrony - poziomo.
+
+Potwory w pozycji ataku używają swojego współczynnika ATK. Potwory w pozycji obrony współczynnika DEF. Potwory w pozycji obrony nie atakują. Jeśli potwór nie atakował w danej turze, może zmienić pozycje.
+
+**Scenariusze ataku:**
+
+* Walczą ze sobą dwa potwory w pozycji ataku. Potwór słabszy jest niszczony (trafia na cmentarz), a różnice punktów ataku trafiają jako obrażenia gracza.
+
+* W przypadku dwóch takich samych współczynników punktów Ataku, potwory są niszczone (bez obrażeń).
+
+**Scenariusze obrony:**
+
+Jeśli potwór w pozycji ataku zaatakuje potwora w pozycji obrony, to:
+
+* Jeśli potwór ma mniej DEF niż atakujący ATK, potwór broniący się jest niszczony (ale bez zadawania obrażeń przeciwnikowi)
+
+* Jeśli potwór ma tyle samo DEF co atakujący ATK, żaden potwór nie jest niszczony.
+
+* Jeśli potwór ma więcej DEF niż atakujący ATK, żaden potwór nie jest niszczony, ale różnicę punktów DEF i ATK jest zadawana atakującemu.
