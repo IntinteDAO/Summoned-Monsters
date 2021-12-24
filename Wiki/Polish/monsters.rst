@@ -56,3 +56,24 @@ Jeśli potwór w pozycji ataku zaatakuje potwora w pozycji obrony, to:
 * Jeśli potwór ma tyle samo DEF co atakujący ATK, żaden potwór nie jest niszczony.
 
 * Jeśli potwór ma więcej DEF niż atakujący ATK, żaden potwór nie jest niszczony, ale różnicę punktów DEF i ATK jest zadawana atakującemu.
+
+Zakryta i Odkryta Pozycja obrony
+================================
+
+Są dwie pozycje obrony kart potworów i mają one kluczowy wpływ na działanie kart. Jest to pozycja face-down (zakryta) i face-up (odkryta).
+
+Jeśli przywołujemy Normalnie potwora lub konkretny efekt wymusza takie przyzwanie karty - potwora przywołujemy w pozycji zakrytej. Oznacza to, że:
+
+* Przeciwnik nie wie jaka karta jest pod spodem
+
+* Mogą aktywować się efekty FLIP (polegają na tym, że karta zmienia pozycję z Face-Down na Face-Up)
+
+Kartę zakrytą odkrywamy, gdy:
+
+* Chcemy zmienić pozycję (z pozycji obrony zakrytej na pozycję ataku)
+
+* Karta zostanie zaatakowana. (z pozycji obrony zakrytej na pozycję obrony odkrytą)
+
+Gdy odkrywamy kartę, nie można jej cofnąć do stanu Zakrytego.
+
+Pozycja Odkryta obrony jest najczęściej przyzywana przez specjalne przyzwania lub czary. Tak więc przeciwnik wie jaką kartę mamy i może zadecydować czy zaatakować ją czy nie. 

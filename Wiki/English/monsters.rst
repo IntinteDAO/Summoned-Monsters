@@ -58,3 +58,24 @@ If a monster in Attack Position attacks a monster in Defense Position, then:
 * If the monster has the same amount of DEF as the attacking ATK, no monster is destroyed.
 
 * If the monster has more DEF than the attacking ATK, no monster is destroyed, but the difference in DEF and ATK points is dealt to the attacker.
+
+Face-Down and Face-Up Defense Position
+======================================
+
+There are two defense positions for monster cards, and they have a key effect on the cards actions. These are the face-down position and the face-up position. 
+
+If you are summoning a monster normally or a specific effect forces you to summon a card this way - you summon the monster in the face-down position. This means that:
+
+* The opponent does not know what card is underneath.
+
+* FLIP effects can be activated (it means that the card changes its position from Face-Down to Face-Up).
+
+A face-down card is revealed when:
+
+* You want to change the position (from Face-Down Defense to Attack Position)
+
+* The card will be attacked (from Face-Down Defense to Face-Up Defense Position).
+
+Once a card is revealed, it cannot be reversed to the Face-Down state.
+
+Face-Up Defense position is mostly summoned by special summons or spells. So the opponent knows what card we have and can decide whether to attack it or not.
