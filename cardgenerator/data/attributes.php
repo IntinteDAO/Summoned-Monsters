@@ -17,20 +17,27 @@ else { return "ERROR"; }
 
 function spell_type($type) {
 
-if($type==65538)
-return "Quick-Play";
+	if($type==65538)
+	return "Quick-Play";
 
-if($type==131074 || $type==131076)
-return "Continuous";
+	if($type==131074 || $type==131076)
+	return "Continuous";
 
-if($type==262146)
-return "Equip";
+	if($type==262146)
+	return "Equip";
 
-if($type==524290)
-return "Field";
+	if($type==524290)
+	return "Field";
 
-if($type==65538)
-return "Counter";
+	if($type==65538)
+	return "Counter";
+
+	if($type==130)
+	return "Ritual";
+
+	if($type==1048580)
+	return "Counter";
+
 }
 
 function monster_race($race) {
