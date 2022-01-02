@@ -7,6 +7,6 @@ function c1061.initial_effect(c)
 	c:RegisterEffect(e1)
 end
 function c1061.cost(e,tp,eg,ep,ev,re,r,rp,chk)
-	if chk==0 then return Duel.CheckLPCost(tp,1000) end
-	Duel.PayLPCost(tp,1000)
+	if chk==0 then return Duel.CheckLPCost(tp,0) end
+	Duel.PayLPCost(tp,0)
 end
