@@ -3,7 +3,7 @@ Monsters
 
 Summoned Monsters cards have a set pattern that is used during play. Trap cards, spells, and monsters have differently constructed cards.
 
-.. image:: MonsterCard.webp
+.. image:: ../../Images/MonsterCard.webp
 
 1) **Name** - The name of the monster.
 

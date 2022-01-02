@@ -1,7 +1,7 @@
 Arena Bitwy
 ===========
 
-.. image:: BattleArena.webp
+.. image:: ../../Images/BattleArena.webp
 
 Arena Bitwy gry Summoned Monsters składa się z 8 elementów, które zostaną tutaj omówione.
 

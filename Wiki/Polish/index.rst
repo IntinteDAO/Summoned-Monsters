@@ -1,5 +1,5 @@
-Witaj na stronie głównej Summoned Monsters!
-===========================================
+Polski
+======
 
 Ta strona powinna pozwolić ci w pełni zrozumieć grę Summoned Monsters od strony rozgrywki, ale też od strony programowania / zasad.
 
@@ -9,4 +9,24 @@ Jeśli nie rozumiesz konkretnej mechaniki gry, spróbuj zapytać się nas na `Ma
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Ogólne:
+
+   Media/download
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Dla deweloperów:
+
+   Developers/default_server
+   Developers/build
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Zasady gry:
+
+   GameRules/BattleArena
+   GameRules/decks
+   GameRules/monsters
+   GameRules/SpellsAndTraps
+   GameRules/phases
+   GameRules/chaining

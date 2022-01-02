@@ -3,7 +3,7 @@ Karty potworów
 
 Karty Summoned Monsters mają ustalony wzorzec, który jest wykorzystywany podczas gry. Karty pułapki, czary i potwory mają inaczej zbudowane karty.
 
-.. image:: MonsterCard.webp
+.. image:: ../../Images/MonsterCard.webp
 
 1) **Nazwa** (Name) - Nazwa potwora.
 

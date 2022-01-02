@@ -1,7 +1,7 @@
 Battle Arena
 ============
 
-.. image:: BattleArena.webp
+.. image:: ../../Images/BattleArena.webp
 
 The Battle Arena of Summoned Monsters game consists of 8 elements which will be discussed here.
 

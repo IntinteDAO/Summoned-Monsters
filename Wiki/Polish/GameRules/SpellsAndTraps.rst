@@ -1,7 +1,7 @@
 Karty czarów i pułapek
 ======================
 
-.. image:: SpellsAndTraps.webp
+.. image:: ../../Images/SpellsAndTraps.webp
 
 W grze również znajdują się karty Czarów i Pułapek, które drastycznie odmieniają pole bitwy. Przeanalizujmy z czego się składa karta.
 

@@ -1,7 +1,7 @@
 Spells and Traps
 ================
 
-.. image:: SpellsAndTraps.webp
+.. image:: ../../Images/SpellsAndTraps.webp
 
 The game also features Spells and Traps cards that drastically change the battlefield. Let's review what the card consists of.
 
