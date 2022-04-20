@@ -7,7 +7,6 @@ if [ -f /usr/bin/apt ]; then
 	sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu-dev
 fi
 
-
 mkdir binaries
 mkdir binaries/deck
 mkdir binaries/replay
@@ -16,6 +15,7 @@ cd ygopro
 git clone https://github.com/Fluorohydride/ygopro-core.git ocgcore
 git clone https://github.com/Fluorohydride/ygopro-scripts.git script
 rm script/c[0-9]*
+rm -rf script/.git
 mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
 cmake --build .
