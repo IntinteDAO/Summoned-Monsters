@@ -18,6 +18,9 @@ fi
 
 ### Download necessary software
 git clone https://github.com/fallenstardust/YGOMobile-cn-ko-en
+cd YGOMobile-cn-ko-en
+git checkout 5e9cee0a03d0b8311541fd58b9254be6bf6ea3a8
+cd ..
 chmod +x YGOMobile-cn-ko-en/gradlew
 wget https://github.com/mercury233/libWindbot/releases/download/${windbot}/libWindbot.aar -O YGOMobile-cn-ko-en/mobile/libs/libWindbot.aar
 wget https://dl.google.com/android/repository/build-tools_$build_tools-linux.zip
@@ -79,7 +82,7 @@ cd ..
 yes | ../cmdline-tools/bin/sdkmanager --sdk_root=../android-${android} "platforms;android-31"
 ./gradlew assembleDebug
 ./gradlew assembleDebug
-mv mobile/build/outputs/apk/cn/release/*.apk ../
+mv mobile/build/outputs/apk/cn/debug/*.apk ../
 
 ### Cleaning
 cd ..
