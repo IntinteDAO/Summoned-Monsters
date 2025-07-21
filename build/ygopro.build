@@ -1,57 +1,217 @@
-#!/bin/sh
+#!/bin/bash
+#
+# A script to automatically compile the YGOPro client (Fluorohydride fork)
+# and optionally integrate it with pre-generated card data.
+#
+# Requirements: git, wget, tar, build tools (build-essential/base-devel)
+# Supported systems: Debian/Ubuntu (apt), Fedora (dnf), Arch Linux (pacman)
 
-font="ttf-bitstream-vera-1.10"
-fonturl="http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/${font}.tar.bz2"
+# --- Settings ---
+# Configuration variables that can be easily modified.
 
-if [ -f /usr/bin/apt ]; then
-	sudo apt -y install cmake git libevent-dev build-essential libirrlicht-dev liblua5.3-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu-dev
-fi
+# Git repositories
+readonly YGOPRO_REPO="https://github.com/Fluorohydride/ygopro.git"
+readonly CORE_REPO="https://github.com/Fluorohydride/ygopro-core.git"
+readonly SCRIPTS_REPO="https://github.com/Fluorohydride/ygopro-scripts.git"
+readonly IRRLICHT_REPO="https://github.com/mercury233/irrlicht"
+readonly MINIAUDIO_REPO="https://github.com/mackron/miniaudio"
 
-mkdir binaries
-mkdir binaries/deck
-mkdir binaries/replay
-git clone https://github.com/Fluorohydride/ygopro.git
-cd ygopro 
-git clone https://github.com/Fluorohydride/ygopro-core.git ocgcore
-git clone https://github.com/Fluorohydride/ygopro-scripts.git script
-rm script/c[0-9]*
-rm -rf script/.git
-mkdir build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
-cmake --build .
+# Premake version and URL
+readonly PREMAKE_VERSION="5.0.0-beta7"
+readonly PREMAKE_URL="https://github.com/premake/premake-core/releases/download/v${PREMAKE_VERSION}/premake-${PREMAKE_VERSION}-linux.tar.gz"
+readonly PREMAKE_ARCHIVE="premake-${PREMAKE_VERSION}-linux.tar.gz"
 
-if [ ! -f bin/ygopro ]; then
-	cd ../cmake/compiler
-	sed -i 's/"-fexceptions"/"-fno-rtti" "-fexceptions"/' gcc.cmake
-	cd ../../build
-	cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" ..
-	cmake --build .
-fi
+# Font configuration
+readonly FONT_NAME="ttf-bitstream-vera-1.10"
+readonly FONT_URL="http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/${FONT_NAME}.tar.bz2"
+readonly FONT_ARCHIVE="${FONT_NAME}.tar.bz2"
 
-cd ..
-cp build/bin/ygopro ../binaries/
-cp system.conf ../binaries/
-cp strings.conf ../binaries/
-cp -r textures ../binaries/
-cp -r script ../binaries/
+# Server settings for system.conf
+readonly SERVER_IP="srv07.mikr.us"
+readonly SERVER_PORT="40280"
 
-cd ../binaries/
-wget "$fonturl"
-tar -xf "$font.tar.bz2"
-chmod -R u+w "$font"
-mkdir fonts
-cp $font/Vera.ttf fonts/vera.ttf
-cp $font/VeraBd.ttf fonts/verabd.ttf
-rm -r $font*
+# Working directories
+readonly BUILD_DIR="ygopro_build_temp" # A temporary directory for all build files
+readonly FINAL_DIR="YGOPro_Linux"
+# Optional directory containing pre-generated card data (pics, cards.cdb, etc.)
+readonly CARD_DATA_SOURCE_DIR="../cardgenerator/output"
 
-if [ -f /usr/bin/dos2unix ]; then
-	dos2unix system.conf
-fi
+# --- End of Settings ---
 
-sed -i 's/textFont.ttf/vera.ttf/g' system.conf
-sed -i 's/numFont.ttf/verabd.ttf/g' system.conf
-sed -i 's/127.0.0.1/srv07.mikr.us/g' system.conf
-sed -i 's/7911/40280/g' system.conf
-sed -i 's/automonsterpos = 0/automonsterpos = 1/g' system.conf
-sed -i 's/autospellpos = 0/autospellpos = 1/g' system.conf
-sed -i 's/autospellpos = 0/Uncategorized/g' system.conf
+# Safety nets: exit on error, undefined variable, or pipe failure
+set -euo pipefail
+
+# Helper functions for colored logging
+info() {
+    echo -e "\033[1;34m[INFO]\033[0m $1"
+}
+
+success() {
+    echo -e "\033[1;32m[SUCCESS]\033[0m $1"
+}
+
+warn() {
+    echo -e "\033[1;33m[WARNING]\033[0m $1"
+}
+
+error() {
+    echo -e "\033[1;31m[ERROR]\033[0m $1" >&2
+    exit 1
+}
+
+# Check for essential tools
+for cmd in git wget tar; do
+    if ! command -v "$cmd" &> /dev/null; then
+        error "Required tool not found: '$cmd'. Please install it."
+    fi
+done
+
+# Function to install dependencies based on the package manager
+install_dependencies() {
+    info "Checking for system dependencies..."
+
+    if command -v apt &> /dev/null; then
+        info "Package manager found: apt (Debian/Ubuntu). Sudo privileges will be required."
+        PACKAGES="cmake git libevent-dev build-essential libirrlicht-dev liblua5.4-dev libfreetype6-dev libsqlite3-dev libgl1-mesa-dev libglu1-mesa-dev libminiaudio-dev dos2unix"
+        info "Updating package lists..."
+        sudo apt update
+        info "Installing packages..."
+        # shellcheck disable=SC2086
+        if ! sudo apt install -y $PACKAGES; then
+            error "Dependency installation failed. Please check the package list and error messages."
+        fi
+    elif command -v dnf &> /dev/null; then # <<< THIS LINE WAS FIXED
+        info "Package manager found: dnf (Fedora). Sudo privileges will be required."
+        PACKAGES="cmake git libevent-devel gcc-c++ irrlicht-devel lua-devel freetype-devel sqlite-devel mesa-libGL-devel mesa-libGLU-devel miniaudio-devel dos2unix"
+        info "Installing packages..."
+        # shellcheck disable=SC2086
+        if ! sudo dnf install -y $PACKAGES; then
+            error "Dependency installation failed. Please check the package list and error messages."
+        fi
+    elif command -v pacman &> /dev/null; then
+        info "Package manager found: pacman (Arch Linux). Sudo privileges will be required."
+        PACKAGES="cmake git libevent base-devel irrlicht lua54 freetype2 sqlite mesa miniaudio dos2unix"
+        info "Installing packages..."
+        # --needed flag prevents reinstalling packages that are already up-to-date
+        # shellcheck disable=SC2086
+        if ! sudo pacman -S --noconfirm --needed $PACKAGES; then
+            error "Dependency installation failed. Please check the package list and error messages."
+        fi
+    else
+        error "Could not find a supported package manager (apt, dnf, pacman). Please install the dependencies manually."
+    fi
+    
+    success "Dependencies installed successfully."
+}
+
+# --- Main script logic ---
+main() {
+    local INITIAL_DIR
+    INITIAL_DIR=$(pwd)
+
+    # 1. Install dependencies
+    install_dependencies
+
+    # 2. Prepare the environment
+    info "Creating working directories..."
+    rm -rf "$BUILD_DIR" "$FINAL_DIR"
+    mkdir -p "$BUILD_DIR"
+    mkdir -p "$FINAL_DIR"/{deck,replay,fonts}
+    cd "$BUILD_DIR"
+
+    # 3. Clone repositories with the correct structure
+    info "Cloning YGOPro repository..."
+    git clone --depth 1 "$YGOPRO_REPO" ygopro
+    cd ygopro
+
+    info "Cloning sub-repositories (core, scripts, and build dependencies)..."
+    git clone --depth 1 "$CORE_REPO" ocgcore
+    git clone --depth 1 "$SCRIPTS_REPO" script
+    git clone --depth 1 "$IRRLICHT_REPO" irrlicht
+    git clone --depth 1 "$MINIAUDIO_REPO" miniaudio
+    mv -f miniaudio/extras/miniaudio_split miniaudio
+
+    info "Cleaning up downloaded scripts..."
+    rm -f script/c[0-9]*.lua
+    rm -rf script/.git
+
+    # 4. Download and prepare build tools
+    info "Downloading Premake v${PREMAKE_VERSION}..."
+    wget -q --show-progress "$PREMAKE_URL"
+    tar -xf "$PREMAKE_ARCHIVE"
+    rm "$PREMAKE_ARCHIVE"
+
+    # 5. Build the project
+    info "Generating Makefile using Premake..."
+    cp -r premake/* .
+    ./premake5 gmake --no-build-lua --lua-lib-name="lua5.4-c++" --lua-include-dir="/usr/include/lua5.4/"
+
+    info "Starting YGOPro compilation (this may take a few minutes)..."
+    cd build
+    local core_count
+    core_count=$(nproc)
+    info "Using $core_count cores/threads for compilation."
+    make config=release -j"$core_count"
+    cd .. # Return to project root (ygopro)
+
+    success "Compilation finished successfully."
+
+    # 6. Copy files to the final directory
+    info "Copying game files to the final directory..."
+    cp bin/release/YGOPro "../../$FINAL_DIR/"
+    cp system.conf "../../$FINAL_DIR/"
+    cp strings.conf "../../$FINAL_DIR/"
+    cp -r textures "../../$FINAL_DIR/"
+    cp -r script "../../$FINAL_DIR/"
+
+    cd "../../$FINAL_DIR" # Change to the final directory
+
+    # 7. Install and configure fonts
+    info "Downloading and installing Bitstream Vera fonts..."
+    wget -q --show-progress "$FONT_URL"
+    tar -xf "$FONT_ARCHIVE"
+    cp "${FONT_NAME}/Vera.ttf" "fonts/vera.ttf"
+    cp "${FONT_NAME}/VeraBd.ttf" "fonts/verabd.ttf"
+    rm -rf "$FONT_NAME" "$FONT_ARCHIVE"
+
+    # 8. Modify the configuration file
+    info "Configuring system.conf..."
+    dos2unix system.conf
+    sed -i.bak \
+        -e 's/^textFont = .*/textFont = fonts\/vera.ttf/' \
+        -e 's/^numFont = .*/numFont = fonts\/verabd.ttf/' \
+        -e "s/^lastip = .*/lastip = ${SERVER_IP}/" \
+        -e "s/^lastport = .*/lastport = ${SERVER_PORT}/" \
+        -e 's/^automonsterpos = 0/automonsterpos = 1/' \
+        -e 's/^autospellpos = 0/autospellpos = 1/' \
+        system.conf
+    rm system.conf.bak
+
+    # --- Step 9: Integrate card data if available ---
+    cd "$INITIAL_DIR" # Return to the script's original directory to resolve relative paths
+    info "Checking for pre-generated card data..."
+    
+    if [ -d "$CARD_DATA_SOURCE_DIR" ]; then
+        info "Found card data at '$CARD_DATA_SOURCE_DIR'."
+        info "Copying card database, scripts, and pictures into '$FINAL_DIR'..."
+        # Copy contents of the source data dir into the final game dir
+        cp -r "${CARD_DATA_SOURCE_DIR}/." "$FINAL_DIR/"
+        success "Card data successfully merged with the game client."
+    else
+        warn "Card data directory ('$CARD_DATA_SOURCE_DIR') not found."
+        warn "The game client has been built, but it's missing essential data (card database, pictures)."
+        warn "To make the game playable, generate the data and copy it into the '$FINAL_DIR' folder."
+    fi
+
+    # Clean up the build directory
+    info "Cleaning up temporary build files..."
+    rm -rf "$BUILD_DIR"
+    
+    success "Build process complete!"
+    info "The game is ready in the '$FINAL_DIR' directory."
+    info "To run it, execute:"
+    info "cd $FINAL_DIR && ./YGOPro"
+}
+
+# Run the main function
+main
